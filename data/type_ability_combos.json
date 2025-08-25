@@ -1,0 +1,860 @@
+[
+  {
+    "primaryType": "Grass",
+    "secondaryType": "Poison",
+    "abilities": []
+  },
+  {
+    "primaryType": "Grass",
+    "secondaryType": "Poison",
+    "abilities": [
+      "Thick Fat"
+    ]
+  },
+  {
+    "primaryType": "Fire",
+    "secondaryType": null,
+    "abilities": []
+  },
+  {
+    "primaryType": "Fire",
+    "secondaryType": "Dragon",
+    "abilities": [
+      "Levitate"
+    ]
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": null,
+    "abilities": []
+  },
+  {
+    "primaryType": "Bug",
+    "secondaryType": null,
+    "abilities": []
+  },
+  {
+    "primaryType": "Bug",
+    "secondaryType": "Flying",
+    "abilities": []
+  },
+  {
+    "primaryType": "Bug",
+    "secondaryType": "Poison",
+    "abilities": []
+  },
+  {
+    "primaryType": "Normal",
+    "secondaryType": "Flying",
+    "abilities": []
+  },
+  {
+    "primaryType": "Normal",
+    "secondaryType": null,
+    "abilities": []
+  },
+  {
+    "primaryType": "Poison",
+    "secondaryType": null,
+    "abilities": []
+  },
+  {
+    "primaryType": "Electric",
+    "secondaryType": null,
+    "abilities": [
+      "Lightning Rod"
+    ]
+  },
+  {
+    "primaryType": "Ground",
+    "secondaryType": null,
+    "abilities": []
+  },
+  {
+    "primaryType": "Poison",
+    "secondaryType": "Ground",
+    "abilities": []
+  },
+  {
+    "primaryType": "Fairy",
+    "secondaryType": null,
+    "abilities": []
+  },
+  {
+    "primaryType": "Fire",
+    "secondaryType": null,
+    "abilities": [
+      "Flash Fire"
+    ]
+  },
+  {
+    "primaryType": "Fire",
+    "secondaryType": "Fairy",
+    "abilities": [
+      "Flash Fire"
+    ]
+  },
+  {
+    "primaryType": "Normal",
+    "secondaryType": "Fairy",
+    "abilities": []
+  },
+  {
+    "primaryType": "Poison",
+    "secondaryType": "Flying",
+    "abilities": []
+  },
+  {
+    "primaryType": "Bug",
+    "secondaryType": "Grass",
+    "abilities": [
+      "Dry Skin"
+    ]
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": "Psychic",
+    "abilities": []
+  },
+  {
+    "primaryType": "Fighting",
+    "secondaryType": null,
+    "abilities": []
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": null,
+    "abilities": [
+      "Water Absorb"
+    ]
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": "Fighting",
+    "abilities": [
+      "Water Absorb"
+    ]
+  },
+  {
+    "primaryType": "Psychic",
+    "secondaryType": null,
+    "abilities": []
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": "Poison",
+    "abilities": []
+  },
+  {
+    "primaryType": "Rock",
+    "secondaryType": "Ground",
+    "abilities": []
+  },
+  {
+    "primaryType": "Electric",
+    "secondaryType": "Steel",
+    "abilities": []
+  },
+  {
+    "primaryType": "Fighting",
+    "secondaryType": "Flying",
+    "abilities": []
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": null,
+    "abilities": [
+      "Thick Fat"
+    ]
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": "Ice",
+    "abilities": [
+      "Thick Fat"
+    ]
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": "Ice",
+    "abilities": []
+  },
+  {
+    "primaryType": "Ghost",
+    "secondaryType": "Poison",
+    "abilities": [
+      "Levitate"
+    ]
+  },
+  {
+    "primaryType": "Ghost",
+    "secondaryType": "Poison",
+    "abilities": []
+  },
+  {
+    "primaryType": "Electric",
+    "secondaryType": null,
+    "abilities": []
+  },
+  {
+    "primaryType": "Grass",
+    "secondaryType": "Psychic",
+    "abilities": []
+  },
+  {
+    "primaryType": "Ground",
+    "secondaryType": null,
+    "abilities": [
+      "Lightning Rod"
+    ]
+  },
+  {
+    "primaryType": "Poison",
+    "secondaryType": null,
+    "abilities": [
+      "Levitate"
+    ]
+  },
+  {
+    "primaryType": "Ground",
+    "secondaryType": "Rock",
+    "abilities": []
+  },
+  {
+    "primaryType": "Grass",
+    "secondaryType": null,
+    "abilities": []
+  },
+  {
+    "primaryType": "Psychic",
+    "secondaryType": "Fairy",
+    "abilities": [
+      "Filter"
+    ]
+  },
+  {
+    "primaryType": "Ice",
+    "secondaryType": "Psychic",
+    "abilities": [
+      "Dry Skin"
+    ]
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": "Flying",
+    "abilities": []
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": "Ice",
+    "abilities": [
+      "Water Absorb"
+    ]
+  },
+  {
+    "primaryType": "Electric",
+    "secondaryType": null,
+    "abilities": [
+      "Volt Absorb"
+    ]
+  },
+  {
+    "primaryType": "Rock",
+    "secondaryType": "Water",
+    "abilities": []
+  },
+  {
+    "primaryType": "Rock",
+    "secondaryType": "Flying",
+    "abilities": []
+  },
+  {
+    "primaryType": "Normal",
+    "secondaryType": null,
+    "abilities": [
+      "Thick Fat"
+    ]
+  },
+  {
+    "primaryType": "Ice",
+    "secondaryType": "Flying",
+    "abilities": []
+  },
+  {
+    "primaryType": "Electric",
+    "secondaryType": "Flying",
+    "abilities": []
+  },
+  {
+    "primaryType": "Fire",
+    "secondaryType": "Flying",
+    "abilities": []
+  },
+  {
+    "primaryType": "Dragon",
+    "secondaryType": null,
+    "abilities": []
+  },
+  {
+    "primaryType": "Dragon",
+    "secondaryType": "Flying",
+    "abilities": []
+  },
+  {
+    "primaryType": "Grass",
+    "secondaryType": "Fairy",
+    "abilities": []
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": "Dark",
+    "abilities": []
+  },
+  {
+    "primaryType": "Psychic",
+    "secondaryType": "Flying",
+    "abilities": []
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": "Electric",
+    "abilities": [
+      "Volt Absorb",
+      "Water Absorb"
+    ]
+  },
+  {
+    "primaryType": "Fairy",
+    "secondaryType": "Flying",
+    "abilities": []
+  },
+  {
+    "primaryType": "Electric",
+    "secondaryType": "Dragon",
+    "abilities": []
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": "Fairy",
+    "abilities": [
+      "Thick Fat"
+    ]
+  },
+  {
+    "primaryType": "Rock",
+    "secondaryType": null,
+    "abilities": []
+  },
+  {
+    "primaryType": "Grass",
+    "secondaryType": "Flying",
+    "abilities": []
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": "Ground",
+    "abilities": [
+      "Water Absorb"
+    ]
+  },
+  {
+    "primaryType": "Dark",
+    "secondaryType": null,
+    "abilities": []
+  },
+  {
+    "primaryType": "Dark",
+    "secondaryType": "Flying",
+    "abilities": []
+  },
+  {
+    "primaryType": "Ghost",
+    "secondaryType": "Fairy",
+    "abilities": [
+      "Levitate"
+    ]
+  },
+  {
+    "primaryType": "Psychic",
+    "secondaryType": null,
+    "abilities": [
+      "Levitate"
+    ]
+  },
+  {
+    "primaryType": "Normal",
+    "secondaryType": "Psychic",
+    "abilities": []
+  },
+  {
+    "primaryType": "Bug",
+    "secondaryType": "Steel",
+    "abilities": []
+  },
+  {
+    "primaryType": "Ground",
+    "secondaryType": "Flying",
+    "abilities": []
+  },
+  {
+    "primaryType": "Steel",
+    "secondaryType": "Ground",
+    "abilities": []
+  },
+  {
+    "primaryType": "Bug",
+    "secondaryType": "Rock",
+    "abilities": []
+  },
+  {
+    "primaryType": "Bug",
+    "secondaryType": "Fighting",
+    "abilities": []
+  },
+  {
+    "primaryType": "Dark",
+    "secondaryType": "Ice",
+    "abilities": []
+  },
+  {
+    "primaryType": "Fire",
+    "secondaryType": "Rock",
+    "abilities": [
+      "Solid Rock"
+    ]
+  },
+  {
+    "primaryType": "Ice",
+    "secondaryType": "Ground",
+    "abilities": [
+      "Thick Fat"
+    ]
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": "Rock",
+    "abilities": []
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": "Flying",
+    "abilities": [
+      "Water Absorb"
+    ]
+  },
+  {
+    "primaryType": "Steel",
+    "secondaryType": "Flying",
+    "abilities": []
+  },
+  {
+    "primaryType": "Dark",
+    "secondaryType": "Fire",
+    "abilities": [
+      "Flash Fire"
+    ]
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": "Dragon",
+    "abilities": []
+  },
+  {
+    "primaryType": "Ice",
+    "secondaryType": "Psychic",
+    "abilities": []
+  },
+  {
+    "primaryType": "Rock",
+    "secondaryType": "Dark",
+    "abilities": []
+  },
+  {
+    "primaryType": "Psychic",
+    "secondaryType": "Grass",
+    "abilities": []
+  },
+  {
+    "primaryType": "Grass",
+    "secondaryType": "Dragon",
+    "abilities": []
+  },
+  {
+    "primaryType": "Fire",
+    "secondaryType": "Fighting",
+    "abilities": []
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": "Ground",
+    "abilities": []
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": "Grass",
+    "abilities": []
+  },
+  {
+    "primaryType": "Grass",
+    "secondaryType": "Dark",
+    "abilities": []
+  },
+  {
+    "primaryType": "Psychic",
+    "secondaryType": "Fairy",
+    "abilities": []
+  },
+  {
+    "primaryType": "Bug",
+    "secondaryType": "Water",
+    "abilities": []
+  },
+  {
+    "primaryType": "Grass",
+    "secondaryType": "Fighting",
+    "abilities": []
+  },
+  {
+    "primaryType": "Bug",
+    "secondaryType": "Ground",
+    "abilities": []
+  },
+  {
+    "primaryType": "Bug",
+    "secondaryType": "Ghost",
+    "abilities": [
+      "Wonder Guard"
+    ]
+  },
+  {
+    "primaryType": "Fighting",
+    "secondaryType": null,
+    "abilities": [
+      "Thick Fat"
+    ]
+  },
+  {
+    "primaryType": "Normal",
+    "secondaryType": "Fairy",
+    "abilities": [
+      "Thick Fat"
+    ]
+  },
+  {
+    "primaryType": "Dark",
+    "secondaryType": "Ghost",
+    "abilities": []
+  },
+  {
+    "primaryType": "Steel",
+    "secondaryType": "Fairy",
+    "abilities": []
+  },
+  {
+    "primaryType": "Steel",
+    "secondaryType": "Rock",
+    "abilities": []
+  },
+  {
+    "primaryType": "Fighting",
+    "secondaryType": "Psychic",
+    "abilities": []
+  },
+  {
+    "primaryType": "Bug",
+    "secondaryType": "Electric",
+    "abilities": []
+  },
+  {
+    "primaryType": "Bug",
+    "secondaryType": "Fairy",
+    "abilities": []
+  },
+  {
+    "primaryType": "Fire",
+    "secondaryType": "Ground",
+    "abilities": []
+  },
+  {
+    "primaryType": "Fire",
+    "secondaryType": "Ground",
+    "abilities": [
+      "Solid Rock"
+    ]
+  },
+  {
+    "primaryType": "Psychic",
+    "secondaryType": null,
+    "abilities": [
+      "Thick Fat"
+    ]
+  },
+  {
+    "primaryType": "Bug",
+    "secondaryType": "Dragon",
+    "abilities": [
+      "Levitate"
+    ]
+  },
+  {
+    "primaryType": "Grass",
+    "secondaryType": null,
+    "abilities": [
+      "Water Absorb"
+    ]
+  },
+  {
+    "primaryType": "Grass",
+    "secondaryType": "Dark",
+    "abilities": [
+      "Water Absorb"
+    ]
+  },
+  {
+    "primaryType": "Dragon",
+    "secondaryType": "Fairy",
+    "abilities": []
+  },
+  {
+    "primaryType": "Poison",
+    "secondaryType": "Dark",
+    "abilities": []
+  },
+  {
+    "primaryType": "Rock",
+    "secondaryType": "Psychic",
+    "abilities": [
+      "Levitate"
+    ]
+  },
+  {
+    "primaryType": "Ground",
+    "secondaryType": "Psychic",
+    "abilities": [
+      "Levitate"
+    ]
+  },
+  {
+    "primaryType": "Rock",
+    "secondaryType": "Grass",
+    "abilities": [
+      "Storm Drain"
+    ]
+  },
+  {
+    "primaryType": "Rock",
+    "secondaryType": "Bug",
+    "abilities": []
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": "Fairy",
+    "abilities": []
+  },
+  {
+    "primaryType": "Ghost",
+    "secondaryType": null,
+    "abilities": []
+  },
+  {
+    "primaryType": "Ghost",
+    "secondaryType": null,
+    "abilities": [
+      "Levitate"
+    ]
+  },
+  {
+    "primaryType": "Ice",
+    "secondaryType": null,
+    "abilities": []
+  },
+  {
+    "primaryType": "Ice",
+    "secondaryType": "Rock",
+    "abilities": [
+      "Levitate"
+    ]
+  },
+  {
+    "primaryType": "Ice",
+    "secondaryType": "Water",
+    "abilities": [
+      "Thick Fat"
+    ]
+  },
+  {
+    "primaryType": "Steel",
+    "secondaryType": "Psychic",
+    "abilities": []
+  },
+  {
+    "primaryType": "Steel",
+    "secondaryType": null,
+    "abilities": []
+  },
+  {
+    "primaryType": "Dragon",
+    "secondaryType": "Psychic",
+    "abilities": [
+      "Levitate"
+    ]
+  },
+  {
+    "primaryType": "Grass",
+    "secondaryType": "Ground",
+    "abilities": []
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": "Steel",
+    "abilities": []
+  },
+  {
+    "primaryType": "Normal",
+    "secondaryType": "Water",
+    "abilities": []
+  },
+  {
+    "primaryType": "Electric",
+    "secondaryType": "Dark",
+    "abilities": []
+  },
+  {
+    "primaryType": "Rock",
+    "secondaryType": "Steel",
+    "abilities": []
+  },
+  {
+    "primaryType": "Bug",
+    "secondaryType": "Grass",
+    "abilities": []
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": null,
+    "abilities": [
+      "Storm Drain"
+    ]
+  },
+  {
+    "primaryType": "Water",
+    "secondaryType": "Ground",
+    "abilities": [
+      "Storm Drain"
+    ]
+  },
+  {
+    "primaryType": "Ghost",
+    "secondaryType": "Flying",
+    "abilities": []
+  },
+  {
+    "primaryType": "Normal",
+    "secondaryType": "Fighting",
+    "abilities": []
+  },
+  {
+    "primaryType": "Steel",
+    "secondaryType": "Psychic",
+    "abilities": [
+      "Heatproof",
+      "Levitate"
+    ]
+  },
+  {
+    "primaryType": "Ghost",
+    "secondaryType": "Dark",
+    "abilities": []
+  },
+  {
+    "primaryType": "Dragon",
+    "secondaryType": "Ground",
+    "abilities": []
+  },
+  {
+    "primaryType": "Fighting",
+    "secondaryType": "Steel",
+    "abilities": []
+  },
+  {
+    "primaryType": "Poison",
+    "secondaryType": "Bug",
+    "abilities": []
+  },
+  {
+    "primaryType": "Poison",
+    "secondaryType": "Fighting",
+    "abilities": [
+      "Dry Skin"
+    ]
+  },
+  {
+    "primaryType": "Grass",
+    "secondaryType": null,
+    "abilities": [
+      "Levitate"
+    ]
+  },
+  {
+    "primaryType": "Grass",
+    "secondaryType": "Ice",
+    "abilities": []
+  },
+  {
+    "primaryType": "Ground",
+    "secondaryType": "Rock",
+    "abilities": [
+      "Solid Rock"
+    ]
+  },
+  {
+    "primaryType": "Electric",
+    "secondaryType": "Fighting",
+    "abilities": [
+      "Motor Drive"
+    ]
+  },
+  {
+    "primaryType": "Psychic",
+    "secondaryType": "Fighting",
+    "abilities": []
+  },
+  {
+    "primaryType": "Ice",
+    "secondaryType": "Ghost",
+    "abilities": [
+      "Levitate"
+    ]
+  },
+  {
+    "primaryType": "Electric",
+    "secondaryType": "Ghost",
+    "abilities": [
+      "Motor Drive"
+    ]
+  },
+  {
+    "primaryType": "Psychic",
+    "secondaryType": "Fairy",
+    "abilities": [
+      "Levitate"
+    ]
+  },
+  {
+    "primaryType": "Steel",
+    "secondaryType": "Dragon",
+    "abilities": []
+  },
+  {
+    "primaryType": "Fire",
+    "secondaryType": "Steel",
+    "abilities": [
+      "Flash Fire"
+    ]
+  },
+  {
+    "primaryType": "Ghost",
+    "secondaryType": "Dragon",
+    "abilities": []
+  }
+]

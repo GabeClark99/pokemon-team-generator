@@ -1,0 +1,312 @@
+[
+    {
+        "name": "Charizard",
+        "primaryType": "Fire",
+        "abilities": [
+            "Levitate"
+        ],
+        "secondaryType": "Dragon"
+    },
+    {
+        "name": "Ninetales",
+        "primaryType": "Fire",
+        "abilities": [
+            "Flash Fire"
+        ],
+        "secondaryType": "Fairy"
+    },
+    {
+        "name": "Alakazam",
+        "primaryType": "Psychic",
+        "abilities": [
+            "Magic Guard"
+        ]
+    },
+    {
+        "name": "Cloyster",
+        "primaryType": "Water",
+        "abilities": [
+            "Skill Link"
+        ],
+        "secondaryType": "Ice"
+    },
+    {
+        "name": "Lapras",
+        "primaryType": "Water",
+        "abilities": [
+            "Water Absorb"
+        ],
+        "secondaryType": "Ice"
+    },
+    {
+        "name": "Gengar",
+        "primaryType": "Ghost",
+        "abilities": [
+            "Cursed Body"
+        ],
+        "secondaryType": "Poison"
+    },
+    {
+        "name": "Starmie",
+        "primaryType": "Water",
+        "abilities": [
+            "Natural Cure"
+        ],
+        "secondaryType": "Psychic"
+    },
+    {
+        "name": "Scyther",
+        "primaryType": "Bug",
+        "abilities": [
+            "Technician"
+        ],
+        "secondaryType": "Flying"
+    },
+    {
+        "name": "Vaporeon",
+        "primaryType": "Water",
+        "abilities": [
+            "Water Absorb"
+        ]
+    },
+    {
+        "name": "Jolteon",
+        "primaryType": "Electric",
+        "abilities": [
+            "Volt Absorb"
+        ]
+    },
+    {
+        "name": "Kabutops",
+        "primaryType": "Rock",
+        "abilities": [
+            "Battle Armor"
+        ],
+        "secondaryType": "Water"
+    },
+    {
+        "name": "Aerodactyl",
+        "primaryType": "Rock",
+        "abilities": [
+            "Rock Head"
+        ],
+        "secondaryType": "Flying"
+    },
+    {
+        "name": "Zapdos",
+        "primaryType": "Electric",
+        "abilities": [
+            "Pressure",
+            "Static"
+        ],
+        "secondaryType": "Flying"
+    },
+    {
+        "name": "Typhlosion",
+        "primaryType": "Fire",
+        "abilities": [
+            "Adaptability"
+        ]
+    },
+    {
+        "name": "Feraligatr",
+        "primaryType": "Water",
+        "abilities": [
+            "Intimidate"
+        ],
+        "secondaryType": "Dark"
+    },
+    {
+        "name": "Espeon",
+        "primaryType": "Psychic",
+        "abilities": [
+            "Magic Bounce"
+        ]
+    },
+    {
+        "name": "Crobat",
+        "primaryType": "Poison",
+        "abilities": [
+            "Inner Focus"
+        ],
+        "secondaryType": "Flying"
+    },
+    {
+        "name": "Heracross",
+        "primaryType": "Bug",
+        "abilities": [
+            "Skill Link"
+        ],
+        "secondaryType": "Fighting"
+    },
+    {
+        "name": "Houndoom",
+        "primaryType": "Dark",
+        "abilities": [
+            "Intimidate"
+        ],
+        "secondaryType": "Fire"
+    },
+    {
+        "name": "Blaziken",
+        "primaryType": "Fire",
+        "abilities": [
+            "Speed Boost"
+        ],
+        "secondaryType": "Fighting"
+    },
+    {
+        "name": "Gardevoir",
+        "primaryType": "Psychic",
+        "abilities": [
+            "Synchronize"
+        ],
+        "secondaryType": "Fairy"
+    },
+    {
+        "name": "Mawile",
+        "primaryType": "Steel",
+        "abilities": [
+            "Huge Power"
+        ],
+        "secondaryType": "Fairy"
+    },
+    {
+        "name": "Milotic",
+        "primaryType": "Water",
+        "abilities": [
+            "Marvel Scale"
+        ],
+        "secondaryType": "Fairy"
+    },
+    {
+        "name": "Metagross",
+        "primaryType": "Steel",
+        "abilities": [
+            "Iron Fist"
+        ],
+        "secondaryType": "Psychic"
+    },
+    {
+        "name": "Infernape",
+        "primaryType": "Fire",
+        "abilities": [
+            "Iron Fist"
+        ],
+        "secondaryType": "Fighting"
+    },
+    {
+        "name": "Staraptor",
+        "primaryType": "Normal",
+        "abilities": [
+            "Reckless",
+            "Intimidate"
+        ],
+        "secondaryType": "Flying"
+    },
+    {
+        "name": "Luxray",
+        "primaryType": "Electric",
+        "abilities": [
+            "Intimidate",
+            "Guts"
+        ],
+        "secondaryType": "Dark"
+    },
+    {
+        "name": "Roserade",
+        "primaryType": "Grass",
+        "abilities": [
+            "Natural Cure"
+        ],
+        "secondaryType": "Poison"
+    },
+    {
+        "name": "Mismagius",
+        "primaryType": "Ghost",
+        "abilities": [
+            "Levitate"
+        ],
+        "secondaryType": "Fairy"
+    },
+    {
+        "name": "Lopunny",
+        "primaryType": "Normal",
+        "abilities": [
+            "Scrappy"
+        ],
+        "secondaryType": "Fighting"
+    },
+    {
+        "name": "Garchomp",
+        "primaryType": "Dragon",
+        "abilities": [
+            "Rough Skin"
+        ],
+        "secondaryType": "Ground"
+    },
+    {
+        "name": "Lucario",
+        "primaryType": "Fighting",
+        "abilities": [
+            "Adaptability"
+        ],
+        "secondaryType": "Steel"
+    },
+    {
+        "name": "Drapion",
+        "primaryType": "Poison",
+        "abilities": [
+            "Sniper"
+        ],
+        "secondaryType": "Dark"
+    },
+    {
+        "name": "Weavile",
+        "primaryType": "Dark",
+        "abilities": [
+            "Technician"
+        ],
+        "secondaryType": "Ice"
+    },
+    {
+        "name": "Electivire",
+        "primaryType": "Electric",
+        "abilities": [
+            "Motor Drive"
+        ],
+        "secondaryType": "Fighting"
+    },
+    {
+        "name": "Togekiss",
+        "primaryType": "Fairy",
+        "abilities": [
+            "Serene Grace"
+        ],
+        "secondaryType": "Flying"
+    },
+    {
+        "name": "Mamoswine",
+        "primaryType": "Ice",
+        "abilities": [
+            "Thick Fat"
+        ],
+        "secondaryType": "Ground"
+    },
+    {
+        "name": "Rotom",
+        "primaryType": "Electric",
+        "abilities": [
+            "Levitate"
+        ],
+        "secondaryType": "Ghost"
+    },
+    {
+        "name": "Rotom-W",
+        "primaryType": "Electric",
+        "abilities": [
+            "Levitate"
+        ],
+        "secondaryType": "Water"
+    }
+]

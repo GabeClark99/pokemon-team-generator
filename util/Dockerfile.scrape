@@ -1,0 +1,11 @@
+FROM python:3.12-slim
+
+WORKDIR /app
+
+COPY util/renplat_pokedex_scrape.py .
+
+RUN pip install requests beautifulsoup4
+
+# Entrypoint: run the scraper and put output in /app/docker_out
+VOLUME ["/app/docker_out"]
+CMD ["python", "renplat_pokedex_scrape.py"] 
