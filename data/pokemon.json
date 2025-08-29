@@ -1,4156 +1,801 @@
 [
-    {
-        "name": "Bulbasaur",
-        "primaryType": "Grass",
-        "abilities": [
-            "Chlorophyll",
-            "Overgrow"
-        ],
-        "secondaryType": "Poison"
-    },
-    {
-        "name": "Ivysaur",
-        "primaryType": "Grass",
-        "abilities": [
-            "Chlorophyll",
-            "Overgrow"
-        ],
-        "secondaryType": "Poison"
-    },
-    {
-        "name": "Venusaur",
-        "primaryType": "Grass",
-        "abilities": [
-            "Thick Fat",
-            "Overgrow"
-        ],
-        "secondaryType": "Poison"
-    },
-    {
-        "name": "Charmander",
-        "primaryType": "Fire",
-        "abilities": [
-            "Solar Power",
-            "Blaze"
-        ]
-    },
-    {
-        "name": "Charmeleon",
-        "primaryType": "Fire",
-        "abilities": [
-            "Solar Power",
-            "Blaze"
-        ]
-    },
-    {
-        "name": "Charizard",
-        "primaryType": "Fire",
-        "abilities": [
-            "Levitate",
-            "Blaze"
-        ],
-        "secondaryType": "Dragon"
-    },
-    {
-        "name": "Squirtle",
-        "primaryType": "Water",
-        "abilities": [
-            "Rain Dish",
-            "Torrent"
-        ]
-    },
-    {
-        "name": "Wartortle",
-        "primaryType": "Water",
-        "abilities": [
-            "Rain Dish",
-            "Torrent"
-        ]
-    },
-    {
-        "name": "Blastoise",
-        "primaryType": "Water",
-        "abilities": [
-            "Drizzle",
-            "Torrent"
-        ]
-    },
-    {
-        "name": "Caterpie",
-        "primaryType": "Bug",
-        "abilities": [
-            "Run Away",
-            "Shield Dust"
-        ]
-    },
-    {
-        "name": "Metapod",
-        "primaryType": "Bug",
-        "abilities": [
-            "Shed Skin",
-            "Shed Skin"
-        ]
-    },
-    {
-        "name": "Butterfree",
-        "primaryType": "Bug",
-        "abilities": [
-            "Tinted Lens",
-            "Compound Eyes"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Weedle",
-        "primaryType": "Bug",
-        "abilities": [
-            "Run Away",
-            "Shield Dust"
-        ],
-        "secondaryType": "Poison"
-    },
-    {
-        "name": "Kakuna",
-        "primaryType": "Bug",
-        "abilities": [
-            "Shed Skin",
-            "Shed Skin"
-        ],
-        "secondaryType": "Poison"
-    },
-    {
-        "name": "Beedrill",
-        "primaryType": "Bug",
-        "abilities": [
-            "Adaptability",
-            "Swarm"
-        ],
-        "secondaryType": "Poison"
-    },
-    {
-        "name": "Pidgey",
-        "primaryType": "Normal",
-        "abilities": [
-            "Keen Eye",
-            "Tangled Feet"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Pidgeotto",
-        "primaryType": "Normal",
-        "abilities": [
-            "Keen Eye",
-            "Tangled Feet"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Pidgeot",
-        "primaryType": "Normal",
-        "abilities": [
-            "No Guard",
-            "Tangled Feet"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Rattata",
-        "primaryType": "Normal",
-        "abilities": [
-            "Hustle",
-            "Guts"
-        ]
-    },
-    {
-        "name": "Raticate",
-        "primaryType": "Normal",
-        "abilities": [
-            "Hustle",
-            "Guts"
-        ]
-    },
-    {
-        "name": "Spearow",
-        "primaryType": "Normal",
-        "abilities": [
-            "Keen Eye",
-            "Sniper"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Fearow",
-        "primaryType": "Normal",
-        "abilities": [
-            "Keen Eye",
-            "Sniper"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Ekans",
-        "primaryType": "Poison",
-        "abilities": [
-            "Intimidate",
-            "Shed Skin"
-        ]
-    },
-    {
-        "name": "Arbok",
-        "primaryType": "Poison",
-        "abilities": [
-            "Intimidate",
-            "Shed Skin"
-        ]
-    },
-    {
-        "name": "Pikachu",
-        "primaryType": "Electric",
-        "abilities": [
-            "Static",
-            "Lightning Rod"
-        ]
-    },
-    {
-        "name": "Raichu",
-        "primaryType": "Electric",
-        "abilities": [
-            "Static",
-            "Lightning Rod"
-        ]
-    },
-    {
-        "name": "Sandshrew",
-        "primaryType": "Ground",
-        "abilities": [
-            "Sand Veil",
-            "Sand Rush"
-        ]
-    },
-    {
-        "name": "Sandslash",
-        "primaryType": "Ground",
-        "abilities": [
-            "Sand Veil",
-            "Sand Rush"
-        ]
-    },
-    {
-        "name": "Nidoran",
-        "primaryType": "Poison",
-        "abilities": [
-            "Poison Point",
-            "Rivalry"
-        ]
-    },
-    {
-        "name": "Nidorina",
-        "primaryType": "Poison",
-        "abilities": [
-            "Poison Point",
-            "Rivalry"
-        ]
-    },
-    {
-        "name": "Nidoqueen",
-        "primaryType": "Poison",
-        "abilities": [
-            "Poison Point",
-            "Rivalry"
-        ],
-        "secondaryType": "Ground"
-    },
-    {
-        "name": "Nidoran",
-        "primaryType": "Poison",
-        "abilities": [
-            "Poison Point",
-            "Rivalry"
-        ]
-    },
-    {
-        "name": "Nidorino",
-        "primaryType": "Poison",
-        "abilities": [
-            "Poison Point",
-            "Rivalry"
-        ]
-    },
-    {
-        "name": "Nidoking",
-        "primaryType": "Poison",
-        "abilities": [
-            "Poison Point",
-            "Rivalry"
-        ],
-        "secondaryType": "Ground"
-    },
-    {
-        "name": "Clefairy",
-        "primaryType": "Fairy",
-        "abilities": [
-            "Cute Charm",
-            "Magic Guard"
-        ]
-    },
-    {
-        "name": "Clefable",
-        "primaryType": "Fairy",
-        "abilities": [
-            "Dazzling"
-        ]
-    },
-    {
-        "name": "Vulpix",
-        "primaryType": "Fire",
-        "abilities": [
-            "Drought",
-            "Flash Fire"
-        ]
-    },
-    {
-        "name": "Ninetales",
-        "primaryType": "Fire",
-        "abilities": [
-            "Drought",
-            "Flash Fire"
-        ],
-        "secondaryType": "Fairy"
-    },
-    {
-        "name": "Jigglypuff",
-        "primaryType": "Normal",
-        "abilities": [
-            "Cute Charm",
-            "Magic Guard"
-        ],
-        "secondaryType": "Fairy"
-    },
-    {
-        "name": "Wigglytuff",
-        "primaryType": "Normal",
-        "abilities": [
-            "Cute Charm",
-            "Magic Guard"
-        ],
-        "secondaryType": "Fairy"
-    },
-    {
-        "name": "Zubat",
-        "primaryType": "Poison",
-        "abilities": [
-            "Inner Focus",
-            "Infiltrator"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Golbat",
-        "primaryType": "Poison",
-        "abilities": [
-            "Inner Focus",
-            "Infiltrator"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Oddish",
-        "primaryType": "Grass",
-        "abilities": [
-            "Chlorophyll",
-            "Run Away"
-        ],
-        "secondaryType": "Poison"
-    },
-    {
-        "name": "Gloom",
-        "primaryType": "Grass",
-        "abilities": [
-            "Chlorophyll",
-            "Stench"
-        ],
-        "secondaryType": "Poison"
-    },
-    {
-        "name": "Vileplume",
-        "primaryType": "Grass",
-        "abilities": [
-            "Chlorophyll",
-            "Effect Spore"
-        ],
-        "secondaryType": "Poison"
-    },
-    {
-        "name": "Paras",
-        "primaryType": "Bug",
-        "abilities": [
-            "Effect Spore",
-            "Dry Skin"
-        ],
-        "secondaryType": "Grass"
-    },
-    {
-        "name": "Parasect",
-        "primaryType": "Bug",
-        "abilities": [
-            "Effect Spore",
-            "Dry Skin"
-        ],
-        "secondaryType": "Grass"
-    },
-    {
-        "name": "Venonat",
-        "primaryType": "Bug",
-        "abilities": [
-            "Tinted Lens",
-            "Compound Eyes"
-        ],
-        "secondaryType": "Poison"
-    },
-    {
-        "name": "Venomoth",
-        "primaryType": "Bug",
-        "abilities": [
-            "Tinted Lens",
-            "Shield Dust"
-        ],
-        "secondaryType": "Poison"
-    },
-    {
-        "name": "Diglett",
-        "primaryType": "Ground",
-        "abilities": [
-            "Sand Veil",
-            "Arena Trap"
-        ]
-    },
-    {
-        "name": "Dugtrio",
-        "primaryType": "Ground",
-        "abilities": [
-            "Sand Veil",
-            "Arena Trap"
-        ]
-    },
-    {
-        "name": "Meowth",
-        "primaryType": "Normal",
-        "abilities": [
-            "Technician",
-            "Pickup"
-        ]
-    },
-    {
-        "name": "Persian",
-        "primaryType": "Normal",
-        "abilities": [
-            "Technician",
-            "Limber"
-        ]
-    },
-    {
-        "name": "Psyduck",
-        "primaryType": "Water",
-        "abilities": [
-            "Damp",
-            "Cloud Nine"
-        ]
-    },
-    {
-        "name": "Golduck",
-        "primaryType": "Water",
-        "abilities": [
-            "Damp",
-            "Cloud Nine"
-        ],
-        "secondaryType": "Psychic"
-    },
-    {
-        "name": "Mankey",
-        "primaryType": "Fighting",
-        "abilities": [
-            "Vital Spirit",
-            "Anger Point"
-        ]
-    },
-    {
-        "name": "Primeape",
-        "primaryType": "Fighting",
-        "abilities": [
-            "Vital Spirit",
-            "Anger Point"
-        ]
-    },
-    {
-        "name": "Growlithe",
-        "primaryType": "Fire",
-        "abilities": [
-            "Intimidate",
-            "Flash Fire"
-        ]
-    },
-    {
-        "name": "Arcanine",
-        "primaryType": "Fire",
-        "abilities": [
-            "Intimidate",
-            "Flash Fire"
-        ]
-    },
-    {
-        "name": "Poliwag",
-        "primaryType": "Water",
-        "abilities": [
-            "Water Absorb",
-            "Damp"
-        ]
-    },
-    {
-        "name": "Poliwhirl",
-        "primaryType": "Water",
-        "abilities": [
-            "Water Absorb",
-            "Damp"
-        ]
-    },
-    {
-        "name": "Poliwrath",
-        "primaryType": "Water",
-        "abilities": [
-            "Water Absorb",
-            "Damp"
-        ],
-        "secondaryType": "Fighting"
-    },
-    {
-        "name": "Abra",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Magic Guard",
-            "Synchronize"
-        ]
-    },
-    {
-        "name": "Kadabra",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Magic Guard",
-            "Synchronize"
-        ]
-    },
-    {
-        "name": "Alakazam",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Magic Guard",
-            "Synchronize"
-        ]
-    },
-    {
-        "name": "Machop",
-        "primaryType": "Fighting",
-        "abilities": [
-            "Guts",
-            "No Guard"
-        ]
-    },
-    {
-        "name": "Machoke",
-        "primaryType": "Fighting",
-        "abilities": [
-            "Guts",
-            "No Guard"
-        ]
-    },
-    {
-        "name": "Machamp",
-        "primaryType": "Fighting",
-        "abilities": [
-            "Guts",
-            "No Guard"
-        ]
-    },
-    {
-        "name": "Bellsprout",
-        "primaryType": "Grass",
-        "abilities": [
-            "Chlorophyll",
-            "Gluttony"
-        ],
-        "secondaryType": "Poison"
-    },
-    {
-        "name": "Weepinbell",
-        "primaryType": "Grass",
-        "abilities": [
-            "Chlorophyll",
-            "Gluttony"
-        ],
-        "secondaryType": "Poison"
-    },
-    {
-        "name": "Victreebel",
-        "primaryType": "Grass",
-        "abilities": [
-            "Chlorophyll",
-            "Gluttony"
-        ],
-        "secondaryType": "Poison"
-    },
-    {
-        "name": "Tentacool",
-        "primaryType": "Water",
-        "abilities": [
-            "Clear Body",
-            "Liquid Ooze"
-        ],
-        "secondaryType": "Poison"
-    },
-    {
-        "name": "Tentacruel",
-        "primaryType": "Water",
-        "abilities": [
-            "Clear Body",
-            "Liquid Ooze"
-        ],
-        "secondaryType": "Poison"
-    },
-    {
-        "name": "Geodude",
-        "primaryType": "Rock",
-        "abilities": [
-            "Rock Head",
-            "Sturdy"
-        ],
-        "secondaryType": "Ground"
-    },
-    {
-        "name": "Graveler",
-        "primaryType": "Rock",
-        "abilities": [
-            "Rock Head",
-            "Sturdy"
-        ],
-        "secondaryType": "Ground"
-    },
-    {
-        "name": "Golem",
-        "primaryType": "Rock",
-        "abilities": [
-            "Rock Head",
-            "Sturdy"
-        ],
-        "secondaryType": "Ground"
-    },
-    {
-        "name": "Ponyta",
-        "primaryType": "Fire",
-        "abilities": [
-            "Flame Body",
-            "Flash Fire"
-        ]
-    },
-    {
-        "name": "Rapidash",
-        "primaryType": "Fire",
-        "abilities": [
-            "Flame Body",
-            "Flash Fire"
-        ]
-    },
-    {
-        "name": "Slowpoke",
-        "primaryType": "Water",
-        "abilities": [
-            "Oblivious",
-            "Own Tempo"
-        ],
-        "secondaryType": "Psychic"
-    },
-    {
-        "name": "Slowbro",
-        "primaryType": "Water",
-        "abilities": [
-            "Oblivious",
-            "Own Tempo"
-        ],
-        "secondaryType": "Psychic"
-    },
-    {
-        "name": "Magnemite",
-        "primaryType": "Electric",
-        "abilities": [
-            "Magnet Pull",
-            "Sturdy"
-        ],
-        "secondaryType": "Steel"
-    },
-    {
-        "name": "Magneton",
-        "primaryType": "Electric",
-        "abilities": [
-            "Magnet Pull",
-            "Sturdy"
-        ],
-        "secondaryType": "Steel"
-    },
-    {
-        "name": "Farfetch'd",
-        "primaryType": "Fighting",
-        "abilities": [
-            "Super Luck",
-            "Keen Eye"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Doduo",
-        "primaryType": "Normal",
-        "abilities": [
-            "Tangled Feet",
-            "Early Bird"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Dodrio",
-        "primaryType": "Normal",
-        "abilities": [
-            "Tangled Feet",
-            "Early Bird"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Seel",
-        "primaryType": "Water",
-        "abilities": [
-            "Thick Fat",
-            "Hydration"
-        ]
-    },
-    {
-        "name": "Dewgong",
-        "primaryType": "Water",
-        "abilities": [
-            "Thick Fat",
-            "Hydration"
-        ],
-        "secondaryType": "Ice"
-    },
-    {
-        "name": "Grimer",
-        "primaryType": "Poison",
-        "abilities": [
-            "Stench",
-            "Sticky Hold"
-        ]
-    },
-    {
-        "name": "Muk",
-        "primaryType": "Poison",
-        "abilities": [
-            "Stench",
-            "Sticky Hold"
-        ]
-    },
-    {
-        "name": "Shellder",
-        "primaryType": "Water",
-        "abilities": [
-            "Skill Link",
-            "Shell Armor"
-        ]
-    },
-    {
-        "name": "Cloyster",
-        "primaryType": "Water",
-        "abilities": [
-            "Skill Link",
-            "Shell Armor"
-        ],
-        "secondaryType": "Ice"
-    },
-    {
-        "name": "Gastly",
-        "primaryType": "Ghost",
-        "abilities": [
-            "Levitate"
-        ],
-        "secondaryType": "Poison"
-    },
-    {
-        "name": "Haunter",
-        "primaryType": "Ghost",
-        "abilities": [
-            "Levitate"
-        ],
-        "secondaryType": "Poison"
-    },
-    {
-        "name": "Gengar",
-        "primaryType": "Ghost",
-        "abilities": [
-            "Cursed Body"
-        ],
-        "secondaryType": "Poison"
-    },
-    {
-        "name": "Onix",
-        "primaryType": "Rock",
-        "abilities": [
-            "Rock Head",
-            "Sturdy"
-        ],
-        "secondaryType": "Ground"
-    },
-    {
-        "name": "Drowzee",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Insomnia",
-            "Forewarn"
-        ]
-    },
-    {
-        "name": "Hypno",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Insomnia",
-            "Forewarn"
-        ]
-    },
-    {
-        "name": "Krabby",
-        "primaryType": "Water",
-        "abilities": [
-            "Hyper Cutter",
-            "Shell Armor"
-        ]
-    },
-    {
-        "name": "Kingler",
-        "primaryType": "Water",
-        "abilities": [
-            "Hyper Cutter",
-            "Shell Armor"
-        ]
-    },
-    {
-        "name": "Voltorb",
-        "primaryType": "Electric",
-        "abilities": [
-            "Soundproof",
-            "Static"
-        ]
-    },
-    {
-        "name": "Electrode",
-        "primaryType": "Electric",
-        "abilities": [
-            "Soundproof",
-            "Static"
-        ]
-    },
-    {
-        "name": "Exeggcute",
-        "primaryType": "Grass",
-        "abilities": [
-            "Chlorophyll",
-            "Harvest"
-        ],
-        "secondaryType": "Psychic"
-    },
-    {
-        "name": "Exeggutor",
-        "primaryType": "Grass",
-        "abilities": [
-            "Chlorophyll",
-            "Harvest"
-        ],
-        "secondaryType": "Psychic"
-    },
-    {
-        "name": "Cubone",
-        "primaryType": "Ground",
-        "abilities": [
-            "Rock Head",
-            "Lightning Rod"
-        ]
-    },
-    {
-        "name": "Marowak",
-        "primaryType": "Ground",
-        "abilities": [
-            "Rock Head",
-            "Lightning Rod"
-        ]
-    },
-    {
-        "name": "Hitmonlee",
-        "primaryType": "Fighting",
-        "abilities": [
-            "Reckless",
-            "Limber"
-        ]
-    },
-    {
-        "name": "Hitmonchan",
-        "primaryType": "Fighting",
-        "abilities": [
-            "Iron Fist",
-            "Keen Eye"
-        ]
-    },
-    {
-        "name": "Lickitung",
-        "primaryType": "Normal",
-        "abilities": [
-            "Own Tempo",
-            "Oblivious"
-        ]
-    },
-    {
-        "name": "Koffing",
-        "primaryType": "Poison",
-        "abilities": [
-            "Levitate"
-        ]
-    },
-    {
-        "name": "Weezing",
-        "primaryType": "Poison",
-        "abilities": [
-            "Levitate"
-        ]
-    },
-    {
-        "name": "Rhyhorn",
-        "primaryType": "Ground",
-        "abilities": [
-            "Rock Head",
-            "Reckless"
-        ],
-        "secondaryType": "Rock"
-    },
-    {
-        "name": "Rhydon",
-        "primaryType": "Ground",
-        "abilities": [
-            "Rock Head",
-            "Reckless"
-        ],
-        "secondaryType": "Rock"
-    },
-    {
-        "name": "Chansey",
-        "primaryType": "Normal",
-        "abilities": [
-            "Serene Grace",
-            "Natural Cure"
-        ]
-    },
-    {
-        "name": "Tangela",
-        "primaryType": "Grass",
-        "abilities": [
-            "Chlorophyll",
-            "Leaf Guard"
-        ]
-    },
-    {
-        "name": "Kangaskhan",
-        "primaryType": "Normal",
-        "abilities": [
-            "Scrappy",
-            "Early Bird"
-        ]
-    },
-    {
-        "name": "Horsea",
-        "primaryType": "Water",
-        "abilities": [
-            "Swift Swim",
-            "Sniper"
-        ]
-    },
-    {
-        "name": "Seadra",
-        "primaryType": "Water",
-        "abilities": [
-            "Poison Point",
-            "Sniper"
-        ]
-    },
-    {
-        "name": "Goldeen",
-        "primaryType": "Water",
-        "abilities": [
-            "Swift Swim",
-            "Water Veil"
-        ]
-    },
-    {
-        "name": "Seaking",
-        "primaryType": "Water",
-        "abilities": [
-            "Swift Swim",
-            "Water Veil"
-        ]
-    },
-    {
-        "name": "Staryu",
-        "primaryType": "Water",
-        "abilities": [
-            "Illuminate",
-            "Natural Cure"
-        ]
-    },
-    {
-        "name": "Starmie",
-        "primaryType": "Water",
-        "abilities": [
-            "Illuminate",
-            "Natural Cure"
-        ],
-        "secondaryType": "Psychic"
-    },
-    {
-        "name": "Mr. Mime",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Filter",
-            "Technician"
-        ],
-        "secondaryType": "Fairy"
-    },
-    {
-        "name": "Scyther",
-        "primaryType": "Bug",
-        "abilities": [
-            "Technician",
-            "Swarm"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Jynx",
-        "primaryType": "Ice",
-        "abilities": [
-            "Dry Skin",
-            "Forewarn"
-        ],
-        "secondaryType": "Psychic"
-    },
-    {
-        "name": "Electabuzz",
-        "primaryType": "Electric",
-        "abilities": [
-            "Static",
-            "Vital Spirit"
-        ]
-    },
-    {
-        "name": "Magmar",
-        "primaryType": "Fire",
-        "abilities": [
-            "Flame Body",
-            "Vital Spirit"
-        ]
-    },
-    {
-        "name": "Pinsir",
-        "primaryType": "Bug",
-        "abilities": [
-            "Hyper Cutter",
-            "Mold Breaker"
-        ]
-    },
-    {
-        "name": "Tauros",
-        "primaryType": "Normal",
-        "abilities": [
-            "Intimidate",
-            "Anger Point"
-        ]
-    },
-    {
-        "name": "Magikarp",
-        "primaryType": "Water",
-        "abilities": [
-            "Swift Swim",
-            "Rattled"
-        ]
-    },
-    {
-        "name": "Gyarados",
-        "primaryType": "Water",
-        "abilities": [
-            "Intimidate",
-            "Moxie"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Lapras",
-        "primaryType": "Water",
-        "abilities": [
-            "Water Absorb",
-            "Shell Armor"
-        ],
-        "secondaryType": "Ice"
-    },
-    {
-        "name": "Ditto",
-        "primaryType": "Normal",
-        "abilities": [
-            "Limber",
-            "Imposter"
-        ]
-    },
-    {
-        "name": "Eevee",
-        "primaryType": "Normal",
-        "abilities": [
-            "Run Away",
-            "Adaptability"
-        ]
-    },
-    {
-        "name": "Vaporeon",
-        "primaryType": "Water",
-        "abilities": [
-            "Water Absorb",
-            "Hydration"
-        ]
-    },
-    {
-        "name": "Jolteon",
-        "primaryType": "Electric",
-        "abilities": [
-            "Volt Absorb",
-            "Quick Feet"
-        ]
-    },
-    {
-        "name": "Flareon",
-        "primaryType": "Fire",
-        "abilities": [
-            "Flash Fire",
-            "Guts"
-        ]
-    },
-    {
-        "name": "Porygon",
-        "primaryType": "Normal",
-        "abilities": [
-            "Trace",
-            "Download"
-        ]
-    },
-    {
-        "name": "Omanyte",
-        "primaryType": "Rock",
-        "abilities": [
-            "Swift Swim",
-            "Shell Armor"
-        ],
-        "secondaryType": "Water"
-    },
-    {
-        "name": "Omastar",
-        "primaryType": "Rock",
-        "abilities": [
-            "Swift Swim",
-            "Shell Armor"
-        ],
-        "secondaryType": "Water"
-    },
-    {
-        "name": "Kabuto",
-        "primaryType": "Rock",
-        "abilities": [
-            "Swift Swim",
-            "Battle Armor"
-        ],
-        "secondaryType": "Water"
-    },
-    {
-        "name": "Kabutops",
-        "primaryType": "Rock",
-        "abilities": [
-            "Swift Swim",
-            "Battle Armor"
-        ],
-        "secondaryType": "Water"
-    },
-    {
-        "name": "Aerodactyl",
-        "primaryType": "Rock",
-        "abilities": [
-            "Rock Head",
-            "Pressure"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Snorlax",
-        "primaryType": "Normal",
-        "abilities": [
-            "Thick Fat",
-            "Immunity"
-        ]
-    },
-    {
-        "name": "Articuno",
-        "primaryType": "Ice",
-        "abilities": [
-            "Pressure",
-            "Snow Cloak"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Zapdos",
-        "primaryType": "Electric",
-        "abilities": [
-            "Pressure",
-            "Static"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Moltres",
-        "primaryType": "Fire",
-        "abilities": [
-            "Pressure",
-            "Flame Body"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Dratini",
-        "primaryType": "Dragon",
-        "abilities": [
-            "Marvel Scale",
-            "Shed Skin"
-        ]
-    },
-    {
-        "name": "Dragonair",
-        "primaryType": "Dragon",
-        "abilities": [
-            "Marvel Scale",
-            "Shed Skin"
-        ]
-    },
-    {
-        "name": "Dragonite",
-        "primaryType": "Dragon",
-        "abilities": [
-            "Marvel Scale",
-            "Inner Focus"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Mewtwo",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Pressure",
-            "Unnerve"
-        ]
-    },
-    {
-        "name": "Mew",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Synchronize"
-        ]
-    },
-    {
-        "name": "Chikorita",
-        "primaryType": "Grass",
-        "abilities": [
-            "Serene Grace",
-            "Overgrow"
-        ]
-    },
-    {
-        "name": "Bayleef",
-        "primaryType": "Grass",
-        "abilities": [
-            "Serene Grace",
-            "Overgrow"
-        ]
-    },
-    {
-        "name": "Meganium",
-        "primaryType": "Grass",
-        "abilities": [
-            "Serene Grace",
-            "Overgrow"
-        ],
-        "secondaryType": "Fairy"
-    },
-    {
-        "name": "Cyndaquil",
-        "primaryType": "Fire",
-        "abilities": [
-            "Adaptability",
-            "Blaze"
-        ]
-    },
-    {
-        "name": "Quilava",
-        "primaryType": "Fire",
-        "abilities": [
-            "Adaptability",
-            "Blaze"
-        ]
-    },
-    {
-        "name": "Typhlosion",
-        "primaryType": "Fire",
-        "abilities": [
-            "Adaptability",
-            "Blaze"
-        ]
-    },
-    {
-        "name": "Totodile",
-        "primaryType": "Water",
-        "abilities": [
-            "Intimidate",
-            "Torrent"
-        ]
-    },
-    {
-        "name": "Croconaw",
-        "primaryType": "Water",
-        "abilities": [
-            "Intimidate",
-            "Torrent"
-        ]
-    },
-    {
-        "name": "Feraligatr",
-        "primaryType": "Water",
-        "abilities": [
-            "Intimidate",
-            "Torrent"
-        ],
-        "secondaryType": "Dark"
-    },
-    {
-        "name": "Sentret",
-        "primaryType": "Normal",
-        "abilities": [
-            "Run Away",
-            "Keen Eye"
-        ]
-    },
-    {
-        "name": "Furret",
-        "primaryType": "Normal",
-        "abilities": [
-            "Scrappy",
-            "Keen Eye"
-        ]
-    },
-    {
-        "name": "Hoothoot",
-        "primaryType": "Normal",
-        "abilities": [
-            "Tinted Lens",
-            "Insomnia"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Noctowl",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Tinted Lens",
-            "Insomnia"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Ledyba",
-        "primaryType": "Bug",
-        "abilities": [
-            "Technician",
-            "Iron Fist"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Ledian",
-        "primaryType": "Bug",
-        "abilities": [
-            "Technician",
-            "Iron Fist"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Spinarak",
-        "primaryType": "Bug",
-        "abilities": [
-            "Swarm",
-            "Insomnia"
-        ],
-        "secondaryType": "Poison"
-    },
-    {
-        "name": "Ariados",
-        "primaryType": "Bug",
-        "abilities": [
-            "Swarm",
-            "Insomnia"
-        ],
-        "secondaryType": "Poison"
-    },
-    {
-        "name": "Crobat",
-        "primaryType": "Poison",
-        "abilities": [
-            "Inner Focus",
-            "Infiltrator"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Chinchou",
-        "primaryType": "Water",
-        "abilities": [
-            "Volt Absorb",
-            "Water Absorb"
-        ],
-        "secondaryType": "Electric"
-    },
-    {
-        "name": "Lanturn",
-        "primaryType": "Water",
-        "abilities": [
-            "Volt Absorb",
-            "Water Absorb"
-        ],
-        "secondaryType": "Electric"
-    },
-    {
-        "name": "Pichu",
-        "primaryType": "Electric",
-        "abilities": [
-            "Static",
-            "Lightning Rod"
-        ]
-    },
-    {
-        "name": "Cleffa",
-        "primaryType": "Fairy",
-        "abilities": [
-            "Cute Charm",
-            "Magic Guard"
-        ]
-    },
-    {
-        "name": "Igglybuff",
-        "primaryType": "Normal",
-        "abilities": [
-            "Cute Charm",
-            "Magic Guard"
-        ],
-        "secondaryType": "Fairy"
-    },
-    {
-        "name": "Togepi",
-        "primaryType": "Fairy",
-        "abilities": [
-            "Serene Grace",
-            "Super Luck"
-        ]
-    },
-    {
-        "name": "Togetic",
-        "primaryType": "Fairy",
-        "abilities": [
-            "Serene Grace",
-            "Super Luck"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Natu",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Synchronize",
-            "Early Bird"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Xatu",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Synchronize",
-            "Early Bird"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Mareep",
-        "primaryType": "Electric",
-        "abilities": [
-            "Static",
-            "Plus"
-        ]
-    },
-    {
-        "name": "Flaaffy",
-        "primaryType": "Electric",
-        "abilities": [
-            "Static",
-            "Plus"
-        ]
-    },
-    {
-        "name": "Ampharos",
-        "primaryType": "Electric",
-        "abilities": [
-            "Static",
-            "Plus"
-        ],
-        "secondaryType": "Dragon"
-    },
-    {
-        "name": "Bellossom",
-        "primaryType": "Grass",
-        "abilities": [
-            "Chlorophyll",
-            "Own Tempo"
-        ]
-    },
-    {
-        "name": "Marill",
-        "primaryType": "Water",
-        "abilities": [
-            "Huge Power",
-            "Thick Fat"
-        ],
-        "secondaryType": "Fairy"
-    },
-    {
-        "name": "Azumarill",
-        "primaryType": "Water",
-        "abilities": [
-            "Huge Power",
-            "Thick Fat"
-        ],
-        "secondaryType": "Fairy"
-    },
-    {
-        "name": "Sudowoodo",
-        "primaryType": "Rock",
-        "abilities": [
-            "Rock Head",
-            "Sturdy"
-        ]
-    },
-    {
-        "name": "Politoed",
-        "primaryType": "Water",
-        "abilities": [
-            "Drizzle",
-            "Damp"
-        ]
-    },
-    {
-        "name": "Hoppip",
-        "primaryType": "Grass",
-        "abilities": [
-            "Chlorophyll",
-            "Leaf Guard"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Skiploom",
-        "primaryType": "Grass",
-        "abilities": [
-            "Chlorophyll",
-            "Leaf Guard"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Jumpluff",
-        "primaryType": "Grass",
-        "abilities": [
-            "Chlorophyll",
-            "Leaf Guard"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Aipom",
-        "primaryType": "Normal",
-        "abilities": [
-            "Run Away",
-            "Pickup"
-        ]
-    },
-    {
-        "name": "Sunkern",
-        "primaryType": "Grass",
-        "abilities": [
-            "Chlorophyll",
-            "Solar Power"
-        ]
-    },
-    {
-        "name": "Sunflora",
-        "primaryType": "Grass",
-        "abilities": [
-            "Chlorophyll",
-            "Solar Power"
-        ]
-    },
-    {
-        "name": "Yanma",
-        "primaryType": "Bug",
-        "abilities": [
-            "Speed Boost",
-            "Compound Eyes"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Wooper",
-        "primaryType": "Water",
-        "abilities": [
-            "Water Absorb",
-            "Unaware"
-        ],
-        "secondaryType": "Ground"
-    },
-    {
-        "name": "Quagsire",
-        "primaryType": "Water",
-        "abilities": [
-            "Water Absorb",
-            "Unaware"
-        ],
-        "secondaryType": "Ground"
-    },
-    {
-        "name": "Espeon",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Synchronize",
-            "Magic Bounce"
-        ]
-    },
-    {
-        "name": "Umbreon",
-        "primaryType": "Dark",
-        "abilities": [
-            "Synchronize",
-            "Inner Focus"
-        ]
-    },
-    {
-        "name": "Murkrow",
-        "primaryType": "Dark",
-        "abilities": [
-            "Super Luck",
-            "Insomnia"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Slowking",
-        "primaryType": "Water",
-        "abilities": [
-            "Oblivious",
-            "Own Tempo"
-        ],
-        "secondaryType": "Psychic"
-    },
-    {
-        "name": "Misdreavus",
-        "primaryType": "Ghost",
-        "abilities": [
-            "Levitate"
-        ],
-        "secondaryType": "Fairy"
-    },
-    {
-        "name": "Unown",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Levitate"
-        ]
-    },
-    {
-        "name": "Wobbuffet",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Shadow Tag",
-            "Telepathy"
-        ]
-    },
-    {
-        "name": "Girafarig",
-        "primaryType": "Normal",
-        "abilities": [
-            "Inner Focus",
-            "Early Bird"
-        ],
-        "secondaryType": "Psychic"
-    },
-    {
-        "name": "Pineco",
-        "primaryType": "Bug",
-        "abilities": [
-            "Sturdy",
-            "Overcoat"
-        ]
-    },
-    {
-        "name": "Forretress",
-        "primaryType": "Bug",
-        "abilities": [
-            "Sturdy",
-            "Overcoat"
-        ],
-        "secondaryType": "Steel"
-    },
-    {
-        "name": "Dunsparce",
-        "primaryType": "Normal",
-        "abilities": [
-            "Serene Grace",
-            "Run Away"
-        ]
-    },
-    {
-        "name": "Gligar",
-        "primaryType": "Ground",
-        "abilities": [
-            "Immunity",
-            "Hyper Cutter"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Steelix",
-        "primaryType": "Steel",
-        "abilities": [
-            "Rock Head",
-            "Sturdy"
-        ],
-        "secondaryType": "Ground"
-    },
-    {
-        "name": "Snubbull",
-        "primaryType": "Fairy",
-        "abilities": [
-            "Intimidate",
-            "Run Away"
-        ]
-    },
-    {
-        "name": "Granbull",
-        "primaryType": "Fairy",
-        "abilities": [
-            "Intimidate",
-            "Quick Feet"
-        ]
-    },
-    {
-        "name": "Qwilfish",
-        "primaryType": "Water",
-        "abilities": [
-            "Intimidate",
-            "Swift Swim"
-        ],
-        "secondaryType": "Poison"
-    },
-    {
-        "name": "Scizor",
-        "primaryType": "Bug",
-        "abilities": [
-            "Technician",
-            "Swarm"
-        ],
-        "secondaryType": "Steel"
-    },
-    {
-        "name": "Shuckle",
-        "primaryType": "Bug",
-        "abilities": [
-            "Sturdy",
-            "Gluttony"
-        ],
-        "secondaryType": "Rock"
-    },
-    {
-        "name": "Heracross",
-        "primaryType": "Bug",
-        "abilities": [
-            "Guts",
-            "Skill Link"
-        ],
-        "secondaryType": "Fighting"
-    },
-    {
-        "name": "Sneasel",
-        "primaryType": "Dark",
-        "abilities": [
-            "Technician",
-            "Inner Focus"
-        ],
-        "secondaryType": "Ice"
-    },
-    {
-        "name": "Teddiursa",
-        "primaryType": "Normal",
-        "abilities": [
-            "Pickup",
-            "Quick Feet"
-        ]
-    },
-    {
-        "name": "Ursaring",
-        "primaryType": "Normal",
-        "abilities": [
-            "Guts",
-            "Quick Feet"
-        ]
-    },
-    {
-        "name": "Slugma",
-        "primaryType": "Fire",
-        "abilities": [
-            "Magma Armor",
-            "Flame Body"
-        ]
-    },
-    {
-        "name": "Magcargo",
-        "primaryType": "Fire",
-        "abilities": [
-            "Solid Rock",
-            "Flame Body"
-        ],
-        "secondaryType": "Rock"
-    },
-    {
-        "name": "Swinub",
-        "primaryType": "Ice",
-        "abilities": [
-            "Thick Fat",
-            "Snow Cloak"
-        ],
-        "secondaryType": "Ground"
-    },
-    {
-        "name": "Piloswine",
-        "primaryType": "Ice",
-        "abilities": [
-            "Thick Fat",
-            "Snow Cloak"
-        ],
-        "secondaryType": "Ground"
-    },
-    {
-        "name": "Corsola",
-        "primaryType": "Water",
-        "abilities": [
-            "Hustle",
-            "Natural Cure"
-        ],
-        "secondaryType": "Rock"
-    },
-    {
-        "name": "Remoraid",
-        "primaryType": "Water",
-        "abilities": [
-            "Hustle",
-            "Sniper"
-        ]
-    },
-    {
-        "name": "Octillery",
-        "primaryType": "Water",
-        "abilities": [
-            "Suction Cups",
-            "Sniper"
-        ]
-    },
-    {
-        "name": "Delibird",
-        "primaryType": "Ice",
-        "abilities": [
-            "Technician",
-            "Hustle"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Mantine",
-        "primaryType": "Water",
-        "abilities": [
-            "Swift Swim",
-            "Water Absorb"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Skarmory",
-        "primaryType": "Steel",
-        "abilities": [
-            "Keen Eye",
-            "Sturdy"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Houndour",
-        "primaryType": "Dark",
-        "abilities": [
-            "Intimidate",
-            "Flash Fire"
-        ],
-        "secondaryType": "Fire"
-    },
-    {
-        "name": "Houndoom",
-        "primaryType": "Dark",
-        "abilities": [
-            "Intimidate",
-            "Flash Fire"
-        ],
-        "secondaryType": "Fire"
-    },
-    {
-        "name": "Kingdra",
-        "primaryType": "Water",
-        "abilities": [
-            "Swift Swim",
-            "Sniper"
-        ],
-        "secondaryType": "Dragon"
-    },
-    {
-        "name": "Phanpy",
-        "primaryType": "Ground",
-        "abilities": [
-            "Sand Veil",
-            "Pickup"
-        ]
-    },
-    {
-        "name": "Donphan",
-        "primaryType": "Ground",
-        "abilities": [
-            "Sand Veil",
-            "Sturdy"
-        ]
-    },
-    {
-        "name": "Porygon",
-        "primaryType": "Normal",
-        "abilities": [
-            "Trace",
-            "Download"
-        ]
-    },
-    {
-        "name": "Stantler",
-        "primaryType": "Normal",
-        "abilities": [
-            "Intimidate",
-            "Frisk"
-        ]
-    },
-    {
-        "name": "Smeargle",
-        "primaryType": "Normal",
-        "abilities": [
-            "Technician",
-            "Own Tempo"
-        ]
-    },
-    {
-        "name": "Tyrogue",
-        "primaryType": "Fighting",
-        "abilities": [
-            "Steadfast",
-            "Guts"
-        ]
-    },
-    {
-        "name": "Hitmontop",
-        "primaryType": "Fighting",
-        "abilities": [
-            "Technician",
-            "Intimidate"
-        ]
-    },
-    {
-        "name": "Smoochum",
-        "primaryType": "Ice",
-        "abilities": [
-            "Hydration",
-            "Forewarn"
-        ],
-        "secondaryType": "Psychic"
-    },
-    {
-        "name": "Elekid",
-        "primaryType": "Electric",
-        "abilities": [
-            "Static",
-            "Vital Spirit"
-        ]
-    },
-    {
-        "name": "Magby",
-        "primaryType": "Fire",
-        "abilities": [
-            "Flame Body",
-            "Vital Spirit"
-        ]
-    },
-    {
-        "name": "Miltank",
-        "primaryType": "Normal",
-        "abilities": [
-            "Thick Fat",
-            "Scrappy"
-        ]
-    },
-    {
-        "name": "Blissey",
-        "primaryType": "Normal",
-        "abilities": [
-            "Serene Grace",
-            "Natural Cure"
-        ]
-    },
-    {
-        "name": "Raikou",
-        "primaryType": "Electric",
-        "abilities": [
-            "Pressure",
-            "Inner Focus"
-        ]
-    },
-    {
-        "name": "Entei",
-        "primaryType": "Fire",
-        "abilities": [
-            "Pressure",
-            "Inner Focus"
-        ]
-    },
-    {
-        "name": "Suicune",
-        "primaryType": "Water",
-        "abilities": [
-            "Pressure",
-            "Inner Focus"
-        ]
-    },
-    {
-        "name": "Larvitar",
-        "primaryType": "Rock",
-        "abilities": [
-            "Guts",
-            "Sand Veil"
-        ],
-        "secondaryType": "Ground"
-    },
-    {
-        "name": "Pupitar",
-        "primaryType": "Rock",
-        "abilities": [
-            "Shed Skin"
-        ],
-        "secondaryType": "Ground"
-    },
-    {
-        "name": "Tyranitar",
-        "primaryType": "Rock",
-        "abilities": [
-            "Sand Stream",
-            "Unnerve"
-        ],
-        "secondaryType": "Dark"
-    },
-    {
-        "name": "Lugia",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Pressure",
-            "Multiscale"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Ho-oh",
-        "primaryType": "Fire",
-        "abilities": [
-            "Pressure",
-            "Regenerator"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Celebi",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Natural Cure"
-        ],
-        "secondaryType": "Grass"
-    },
-    {
-        "name": "Treecko",
-        "primaryType": "Grass",
-        "abilities": [
-            "Unburden",
-            "Overgrow"
-        ]
-    },
-    {
-        "name": "Grovyle",
-        "primaryType": "Grass",
-        "abilities": [
-            "Unburden",
-            "Overgrow"
-        ]
-    },
-    {
-        "name": "Sceptile",
-        "primaryType": "Grass",
-        "abilities": [
-            "Unburden",
-            "Overgrow"
-        ],
-        "secondaryType": "Dragon"
-    },
-    {
-        "name": "Torchic",
-        "primaryType": "Fire",
-        "abilities": [
-            "Speed Boost",
-            "Blaze"
-        ]
-    },
-    {
-        "name": "Combusken",
-        "primaryType": "Fire",
-        "abilities": [
-            "Speed Boost",
-            "Blaze"
-        ],
-        "secondaryType": "Fighting"
-    },
-    {
-        "name": "Blaziken",
-        "primaryType": "Fire",
-        "abilities": [
-            "Speed Boost",
-            "Blaze"
-        ],
-        "secondaryType": "Fighting"
-    },
-    {
-        "name": "Mudkip",
-        "primaryType": "Water",
-        "abilities": [
-            "Torrent",
-            "Damp"
-        ]
-    },
-    {
-        "name": "Marshtomp",
-        "primaryType": "Water",
-        "abilities": [
-            "Torrent",
-            "Damp"
-        ],
-        "secondaryType": "Ground"
-    },
-    {
-        "name": "Swampert",
-        "primaryType": "Water",
-        "abilities": [
-            "Torrent",
-            "Damp"
-        ],
-        "secondaryType": "Ground"
-    },
-    {
-        "name": "Poochyena",
-        "primaryType": "Dark",
-        "abilities": [
-            "Run Away",
-            "Quick Feet"
-        ]
-    },
-    {
-        "name": "Mightyena",
-        "primaryType": "Dark",
-        "abilities": [
-            "Intimidate",
-            "Quick Feet"
-        ]
-    },
-    {
-        "name": "Zigzagoon",
-        "primaryType": "Normal",
-        "abilities": [
-            "Pickup",
-            "Gluttony"
-        ]
-    },
-    {
-        "name": "Linoone",
-        "primaryType": "Normal",
-        "abilities": [
-            "Pickup",
-            "Gluttony"
-        ]
-    },
-    {
-        "name": "Wurmple",
-        "primaryType": "Bug",
-        "abilities": [
-            "Shield Dust",
-            "Run Away"
-        ]
-    },
-    {
-        "name": "Silcoon",
-        "primaryType": "Bug",
-        "abilities": [
-            "Shed Skin",
-            "Shed Skin"
-        ]
-    },
-    {
-        "name": "Beautifly",
-        "primaryType": "Bug",
-        "abilities": [
-            "Swarm",
-            "Rivalry"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Cascoon",
-        "primaryType": "Bug",
-        "abilities": [
-            "Shed Skin",
-            "Shed Skin"
-        ]
-    },
-    {
-        "name": "Dustox",
-        "primaryType": "Bug",
-        "abilities": [
-            "Shield Dust",
-            "Compound Eyes"
-        ],
-        "secondaryType": "Poison"
-    },
-    {
-        "name": "Lotad",
-        "primaryType": "Water",
-        "abilities": [
-            "Swift Swim",
-            "Rain Dish"
-        ],
-        "secondaryType": "Grass"
-    },
-    {
-        "name": "Lombre",
-        "primaryType": "Water",
-        "abilities": [
-            "Swift Swim",
-            "Rain Dish"
-        ],
-        "secondaryType": "Grass"
-    },
-    {
-        "name": "Ludicolo",
-        "primaryType": "Water",
-        "abilities": [
-            "Swift Swim",
-            "Rain Dish"
-        ],
-        "secondaryType": "Grass"
-    },
-    {
-        "name": "Seedot",
-        "primaryType": "Grass",
-        "abilities": [
-            "Chlorophyll",
-            "Early Bird"
-        ]
-    },
-    {
-        "name": "Nuzleaf",
-        "primaryType": "Grass",
-        "abilities": [
-            "Chlorophyll",
-            "Early Bird"
-        ],
-        "secondaryType": "Dark"
-    },
-    {
-        "name": "Shiftry",
-        "primaryType": "Grass",
-        "abilities": [
-            "Chlorophyll",
-            "Early Bird"
-        ],
-        "secondaryType": "Dark"
-    },
-    {
-        "name": "Taillow",
-        "primaryType": "Normal",
-        "abilities": [
-            "Guts",
-            "Scrappy"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Swellow",
-        "primaryType": "Normal",
-        "abilities": [
-            "Guts",
-            "Scrappy"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Wingull",
-        "primaryType": "Water",
-        "abilities": [
-            "Hydration",
-            "Keen Eye"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Pelipper",
-        "primaryType": "Water",
-        "abilities": [
-            "Drizzle",
-            "Keen Eye"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Ralts",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Synchronize",
-            "Trace"
-        ],
-        "secondaryType": "Fairy"
-    },
-    {
-        "name": "Kirlia",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Synchronize",
-            "Trace"
-        ],
-        "secondaryType": "Fairy"
-    },
-    {
-        "name": "Gardevoir",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Synchronize",
-            "Trace"
-        ],
-        "secondaryType": "Fairy"
-    },
-    {
-        "name": "Surskit",
-        "primaryType": "Bug",
-        "abilities": [
-            "Swift Swim",
-            "Rain Dish"
-        ],
-        "secondaryType": "Water"
-    },
-    {
-        "name": "Masquerain",
-        "primaryType": "Bug",
-        "abilities": [
-            "Intimidate",
-            "Unnerve"
-        ],
-        "secondaryType": "Water"
-    },
-    {
-        "name": "Shroomish",
-        "primaryType": "Grass",
-        "abilities": [
-            "Technician",
-            "Poison Heal"
-        ]
-    },
-    {
-        "name": "Breloom",
-        "primaryType": "Grass",
-        "abilities": [
-            "Technician",
-            "Poison Heal"
-        ],
-        "secondaryType": "Fighting"
-    },
-    {
-        "name": "Slakoth",
-        "primaryType": "Normal",
-        "abilities": [
-            "Truant"
-        ]
-    },
-    {
-        "name": "Vigoroth",
-        "primaryType": "Normal",
-        "abilities": [
-            "Vital Spirit"
-        ]
-    },
-    {
-        "name": "Slaking",
-        "primaryType": "Normal",
-        "abilities": [
-            "Truant"
-        ]
-    },
-    {
-        "name": "Nincada",
-        "primaryType": "Bug",
-        "abilities": [
-            "Compound Eyes",
-            "Run Away"
-        ],
-        "secondaryType": "Ground"
-    },
-    {
-        "name": "Ninjask",
-        "primaryType": "Bug",
-        "abilities": [
-            "Speed Boost",
-            "Infiltrator"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Shedinja",
-        "primaryType": "Bug",
-        "abilities": [
-            "Wonder Guard"
-        ],
-        "secondaryType": "Ghost"
-    },
-    {
-        "name": "Whismur",
-        "primaryType": "Normal",
-        "abilities": [
-            "Soundproof",
-            "Scrappy"
-        ]
-    },
-    {
-        "name": "Loudred",
-        "primaryType": "Normal",
-        "abilities": [
-            "Soundproof",
-            "Scrappy"
-        ]
-    },
-    {
-        "name": "Exploud",
-        "primaryType": "Normal",
-        "abilities": [
-            "Soundproof",
-            "Scrappy"
-        ]
-    },
-    {
-        "name": "Makuhita",
-        "primaryType": "Fighting",
-        "abilities": [
-            "Thick Fat",
-            "Guts"
-        ]
-    },
-    {
-        "name": "Hariyama",
-        "primaryType": "Fighting",
-        "abilities": [
-            "Thick Fat",
-            "Guts"
-        ]
-    },
-    {
-        "name": "Azurill",
-        "primaryType": "Normal",
-        "abilities": [
-            "Huge Power",
-            "Thick Fat"
-        ],
-        "secondaryType": "Fairy"
-    },
-    {
-        "name": "Nosepass",
-        "primaryType": "Rock",
-        "abilities": [
-            "Sturdy",
-            "Magnet Pull"
-        ]
-    },
-    {
-        "name": "Skitty",
-        "primaryType": "Normal",
-        "abilities": [
-            "Cute Charm",
-            "Normalize"
-        ]
-    },
-    {
-        "name": "Delcatty",
-        "primaryType": "Normal",
-        "abilities": [
-            "Cute Charm",
-            "Normalize"
-        ]
-    },
-    {
-        "name": "Sableye",
-        "primaryType": "Dark",
-        "abilities": [
-            "Magic Guard",
-            "Stall"
-        ],
-        "secondaryType": "Ghost"
-    },
-    {
-        "name": "Mawile",
-        "primaryType": "Steel",
-        "abilities": [
-            "Huge Power",
-            "Intimidate"
-        ],
-        "secondaryType": "Fairy"
-    },
-    {
-        "name": "Aron",
-        "primaryType": "Steel",
-        "abilities": [
-            "Rock Head",
-            "Sturdy"
-        ],
-        "secondaryType": "Rock"
-    },
-    {
-        "name": "Lairon",
-        "primaryType": "Steel",
-        "abilities": [
-            "Rock Head",
-            "Sturdy"
-        ],
-        "secondaryType": "Rock"
-    },
-    {
-        "name": "Aggron",
-        "primaryType": "Steel",
-        "abilities": [
-            "Rock Head",
-            "Sturdy"
-        ],
-        "secondaryType": "Rock"
-    },
-    {
-        "name": "Meditite",
-        "primaryType": "Fighting",
-        "abilities": [
-            "Pure Power",
-            "Telepathy"
-        ],
-        "secondaryType": "Psychic"
-    },
-    {
-        "name": "Medicham",
-        "primaryType": "Fighting",
-        "abilities": [
-            "Pure Power",
-            "Telepathy"
-        ],
-        "secondaryType": "Psychic"
-    },
-    {
-        "name": "Electrike",
-        "primaryType": "Electric",
-        "abilities": [
-            "Static",
-            "Lightning Rod"
-        ]
-    },
-    {
-        "name": "Manectric",
-        "primaryType": "Electric",
-        "abilities": [
-            "Static",
-            "Lightning Rod"
-        ]
-    },
-    {
-        "name": "Plusle",
-        "primaryType": "Electric",
-        "abilities": [
-            "Plus",
-            "Lightning Rod"
-        ]
-    },
-    {
-        "name": "Minun",
-        "primaryType": "Electric",
-        "abilities": [
-            "Minus",
-            "Volt Absorb"
-        ]
-    },
-    {
-        "name": "Volbeat",
-        "primaryType": "Bug",
-        "abilities": [
-            "Swarm",
-            "Illuminate"
-        ],
-        "secondaryType": "Electric"
-    },
-    {
-        "name": "Illumise",
-        "primaryType": "Bug",
-        "abilities": [
-            "Tinted Lens",
-            "Oblivious"
-        ],
-        "secondaryType": "Fairy"
-    },
-    {
-        "name": "Roselia",
-        "primaryType": "Grass",
-        "abilities": [
-            "Poison Point",
-            "Natural Cure"
-        ],
-        "secondaryType": "Poison"
-    },
-    {
-        "name": "Gulpin",
-        "primaryType": "Poison",
-        "abilities": [
-            "Liquid Ooze",
-            "Sticky Hold"
-        ]
-    },
-    {
-        "name": "Swalot",
-        "primaryType": "Poison",
-        "abilities": [
-            "Liquid Ooze",
-            "Sticky Hold"
-        ]
-    },
-    {
-        "name": "Carvanha",
-        "primaryType": "Water",
-        "abilities": [
-            "Speed Boost",
-            "Rough Skin"
-        ],
-        "secondaryType": "Dark"
-    },
-    {
-        "name": "Sharpedo",
-        "primaryType": "Water",
-        "abilities": [
-            "Speed Boost",
-            "Rough Skin"
-        ],
-        "secondaryType": "Dark"
-    },
-    {
-        "name": "Wailmer",
-        "primaryType": "Water",
-        "abilities": [
-            "Water Veil",
-            "Oblivious"
-        ]
-    },
-    {
-        "name": "Wailord",
-        "primaryType": "Water",
-        "abilities": [
-            "Water Veil",
-            "Oblivious"
-        ]
-    },
-    {
-        "name": "Numel",
-        "primaryType": "Fire",
-        "abilities": [
-            "Simple",
-            "Oblivious"
-        ],
-        "secondaryType": "Ground"
-    },
-    {
-        "name": "Camerupt",
-        "primaryType": "Fire",
-        "abilities": [
-            "Solid Rock",
-            "Magma Armor"
-        ],
-        "secondaryType": "Ground"
-    },
-    {
-        "name": "Torkoal",
-        "primaryType": "Fire",
-        "abilities": [
-            "Drought",
-            "White Smoke"
-        ]
-    },
-    {
-        "name": "Spoink",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Thick Fat",
-            "Own Tempo"
-        ]
-    },
-    {
-        "name": "Grumpig",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Thick Fat",
-            "Own Tempo"
-        ]
-    },
-    {
-        "name": "Spinda",
-        "primaryType": "Normal",
-        "abilities": [
-            "Own Tempo",
-            "Tangled Feet"
-        ]
-    },
-    {
-        "name": "Trapinch",
-        "primaryType": "Bug",
-        "abilities": [
-            "Hyper Cutter",
-            "Arena Trap"
-        ],
-        "secondaryType": "Ground"
-    },
-    {
-        "name": "Vibrava",
-        "primaryType": "Bug",
-        "abilities": [
-            "Compound Eyes",
-            "Levitate"
-        ],
-        "secondaryType": "Dragon"
-    },
-    {
-        "name": "Flygon",
-        "primaryType": "Bug",
-        "abilities": [
-            "Compound Eyes",
-            "Levitate"
-        ],
-        "secondaryType": "Dragon"
-    },
-    {
-        "name": "Cacnea",
-        "primaryType": "Grass",
-        "abilities": [
-            "Water Absorb",
-            "Sand Veil"
-        ]
-    },
-    {
-        "name": "Cacturne",
-        "primaryType": "Grass",
-        "abilities": [
-            "Water Absorb",
-            "Sand Veil"
-        ],
-        "secondaryType": "Dark"
-    },
-    {
-        "name": "Swablu",
-        "primaryType": "Fairy",
-        "abilities": [
-            "Cloud Nine",
-            "Natural Cure"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Altaria",
-        "primaryType": "Dragon",
-        "abilities": [
-            "Cloud Nine",
-            "Natural Cure"
-        ],
-        "secondaryType": "Fairy"
-    },
-    {
-        "name": "Zangoose",
-        "primaryType": "Normal",
-        "abilities": [
-            "Immunity",
-            "Toxic Boost"
-        ]
-    },
-    {
-        "name": "Seviper",
-        "primaryType": "Poison",
-        "abilities": [
-            "Shed Skin",
-            "Infiltrator"
-        ],
-        "secondaryType": "Dark"
-    },
-    {
-        "name": "Lunatone",
-        "primaryType": "Rock",
-        "abilities": [
-            "Levitate"
-        ],
-        "secondaryType": "Psychic"
-    },
-    {
-        "name": "Solrock",
-        "primaryType": "Rock",
-        "abilities": [
-            "Levitate"
-        ],
-        "secondaryType": "Psychic"
-    },
-    {
-        "name": "Barboach",
-        "primaryType": "Water",
-        "abilities": [
-            "Oblivious",
-            "Anticipation"
-        ],
-        "secondaryType": "Ground"
-    },
-    {
-        "name": "Whiscash",
-        "primaryType": "Water",
-        "abilities": [
-            "Oblivious",
-            "Anticipation"
-        ],
-        "secondaryType": "Ground"
-    },
-    {
-        "name": "Corphish",
-        "primaryType": "Water",
-        "abilities": [
-            "Adaptability",
-            "Hyper Cutter"
-        ]
-    },
-    {
-        "name": "Crawdaunt",
-        "primaryType": "Water",
-        "abilities": [
-            "Adaptability",
-            "Hyper Cutter"
-        ],
-        "secondaryType": "Dark"
-    },
-    {
-        "name": "Baltoy",
-        "primaryType": "Ground",
-        "abilities": [
-            "Levitate"
-        ],
-        "secondaryType": "Psychic"
-    },
-    {
-        "name": "Claydol",
-        "primaryType": "Ground",
-        "abilities": [
-            "Levitate"
-        ],
-        "secondaryType": "Psychic"
-    },
-    {
-        "name": "Lileep",
-        "primaryType": "Rock",
-        "abilities": [
-            "Suction Cups",
-            "Storm Drain"
-        ],
-        "secondaryType": "Grass"
-    },
-    {
-        "name": "Cradily",
-        "primaryType": "Rock",
-        "abilities": [
-            "Suction Cups",
-            "Storm Drain"
-        ],
-        "secondaryType": "Grass"
-    },
-    {
-        "name": "Anorith",
-        "primaryType": "Rock",
-        "abilities": [
-            "Battle Armor",
-            "Swift Swim"
-        ],
-        "secondaryType": "Bug"
-    },
-    {
-        "name": "Armaldo",
-        "primaryType": "Rock",
-        "abilities": [
-            "Battle Armor",
-            "Swift Swim"
-        ],
-        "secondaryType": "Bug"
-    },
-    {
-        "name": "Feebas",
-        "primaryType": "Water",
-        "abilities": [
-            "Swift Swim",
-            "Adaptability"
-        ]
-    },
-    {
-        "name": "Milotic",
-        "primaryType": "Water",
-        "abilities": [
-            "Marvel Scale",
-            "Cute Charm"
-        ],
-        "secondaryType": "Fairy"
-    },
-    {
-        "name": "Castform",
-        "primaryType": "Normal",
-        "abilities": [
-            "Forecast"
-        ]
-    },
-    {
-        "name": "Kecleon",
-        "primaryType": "Normal",
-        "abilities": [
-            "Color Change",
-            "Protean"
-        ]
-    },
-    {
-        "name": "Shuppet",
-        "primaryType": "Ghost",
-        "abilities": [
-            "Insomnia",
-            "Frisk"
-        ]
-    },
-    {
-        "name": "Banette",
-        "primaryType": "Ghost",
-        "abilities": [
-            "Insomnia",
-            "Frisk"
-        ]
-    },
-    {
-        "name": "Duskull",
-        "primaryType": "Ghost",
-        "abilities": [
-            "Levitate",
-            "Frisk"
-        ]
-    },
-    {
-        "name": "Dusclops",
-        "primaryType": "Ghost",
-        "abilities": [
-            "Frisk",
-            "Pressure"
-        ]
-    },
-    {
-        "name": "Tropius",
-        "primaryType": "Grass",
-        "abilities": [
-            "Chlorophyll",
-            "Solar Power"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Chimecho",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Levitate"
-        ]
-    },
-    {
-        "name": "Absol",
-        "primaryType": "Dark",
-        "abilities": [
-            "Super Luck",
-            "Pressure"
-        ]
-    },
-    {
-        "name": "Wynaut",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Shadow Tag",
-            "Telepathy"
-        ]
-    },
-    {
-        "name": "Snorunt",
-        "primaryType": "Ice",
-        "abilities": [
-            "Inner Focus",
-            "Ice Body"
-        ]
-    },
-    {
-        "name": "Glalie",
-        "primaryType": "Ice",
-        "abilities": [
-            "Levitate",
-            "Ice Body"
-        ],
-        "secondaryType": "Rock"
-    },
-    {
-        "name": "Spheal",
-        "primaryType": "Ice",
-        "abilities": [
-            "Thick Fat",
-            "Ice Body"
-        ],
-        "secondaryType": "Water"
-    },
-    {
-        "name": "Sealeo",
-        "primaryType": "Ice",
-        "abilities": [
-            "Thick Fat",
-            "Ice Body"
-        ],
-        "secondaryType": "Water"
-    },
-    {
-        "name": "Walrein",
-        "primaryType": "Ice",
-        "abilities": [
-            "Thick Fat",
-            "Ice Body"
-        ],
-        "secondaryType": "Water"
-    },
-    {
-        "name": "Clamperl",
-        "primaryType": "Water",
-        "abilities": [
-            "Shell Armor",
-            "Battle Armor"
-        ]
-    },
-    {
-        "name": "Huntail",
-        "primaryType": "Water",
-        "abilities": [
-            "Swift Swim",
-            "Water Veil"
-        ]
-    },
-    {
-        "name": "Gorebyss",
-        "primaryType": "Water",
-        "abilities": [
-            "Swift Swim",
-            "Hydration"
-        ]
-    },
-    {
-        "name": "Relicanth",
-        "primaryType": "Water",
-        "abilities": [
-            "Rock Head",
-            "Swift Swim"
-        ],
-        "secondaryType": "Rock"
-    },
-    {
-        "name": "Luvdisc",
-        "primaryType": "Water",
-        "abilities": [
-            "Swift Swim",
-            "Hydration"
-        ],
-        "secondaryType": "Fairy"
-    },
-    {
-        "name": "Bagon",
-        "primaryType": "Dragon",
-        "abilities": [
-            "Rock Head",
-            "Sheer Force"
-        ]
-    },
-    {
-        "name": "Shelgon",
-        "primaryType": "Dragon",
-        "abilities": [
-            "Rock Head",
-            "Overcoat"
-        ]
-    },
-    {
-        "name": "Salamence",
-        "primaryType": "Dragon",
-        "abilities": [
-            "Intimidate",
-            "Moxie"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Beldum",
-        "primaryType": "Steel",
-        "abilities": [
-            "Rock Head",
-            "Clear Body"
-        ],
-        "secondaryType": "Psychic"
-    },
-    {
-        "name": "Metang",
-        "primaryType": "Steel",
-        "abilities": [
-            "Iron Fist",
-            "Clear Body"
-        ],
-        "secondaryType": "Psychic"
-    },
-    {
-        "name": "Metagross",
-        "primaryType": "Steel",
-        "abilities": [
-            "Iron Fist",
-            "Clear Body"
-        ],
-        "secondaryType": "Psychic"
-    },
-    {
-        "name": "Regirock",
-        "primaryType": "Rock",
-        "abilities": [
-            "Clear Body",
-            "Sturdy"
-        ]
-    },
-    {
-        "name": "Regice",
-        "primaryType": "Ice",
-        "abilities": [
-            "Clear Body",
-            "Ice Body"
-        ]
-    },
-    {
-        "name": "Registeel",
-        "primaryType": "Steel",
-        "abilities": [
-            "Clear Body",
-            "Light Metal"
-        ]
-    },
-    {
-        "name": "Latias",
-        "primaryType": "Dragon",
-        "abilities": [
-            "Levitate"
-        ],
-        "secondaryType": "Psychic"
-    },
-    {
-        "name": "Latios",
-        "primaryType": "Dragon",
-        "abilities": [
-            "Levitate"
-        ],
-        "secondaryType": "Psychic"
-    },
-    {
-        "name": "Kyogre",
-        "primaryType": "Water",
-        "abilities": [
-            "Drizzle"
-        ]
-    },
-    {
-        "name": "Groudon",
-        "primaryType": "Ground",
-        "abilities": [
-            "Drought"
-        ]
-    },
-    {
-        "name": "Rayquaza",
-        "primaryType": "Dragon",
-        "abilities": [
-            "Air Lock"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Jirachi",
-        "primaryType": "Steel",
-        "abilities": [
-            "Serene Grace"
-        ],
-        "secondaryType": "Psychic"
-    },
-    {
-        "name": "Deoxys",
-        "primaryType": "Psychic",
-        "abilities": []
-    },
-    {
-        "name": "Turtwig",
-        "primaryType": "Grass",
-        "abilities": [
-            "Overgrow",
-            "Shell Armor"
-        ]
-    },
-    {
-        "name": "Grotle",
-        "primaryType": "Grass",
-        "abilities": [
-            "Overgrow",
-            "Shell Armor"
-        ]
-    },
-    {
-        "name": "Torterra",
-        "primaryType": "Grass",
-        "abilities": [
-            "Overgrow",
-            "Shell Armor"
-        ],
-        "secondaryType": "Ground"
-    },
-    {
-        "name": "Chimchar",
-        "primaryType": "Fire",
-        "abilities": [
-            "Iron Fist",
-            "Blaze"
-        ]
-    },
-    {
-        "name": "Monferno",
-        "primaryType": "Fire",
-        "abilities": [
-            "Iron Fist",
-            "Blaze"
-        ],
-        "secondaryType": "Fighting"
-    },
-    {
-        "name": "Infernape",
-        "primaryType": "Fire",
-        "abilities": [
-            "Iron Fist",
-            "Blaze"
-        ],
-        "secondaryType": "Fighting"
-    },
-    {
-        "name": "Piplup",
-        "primaryType": "Water",
-        "abilities": [
-            "Torrent",
-            "Vital Spirit"
-        ]
-    },
-    {
-        "name": "Prinplup",
-        "primaryType": "Water",
-        "abilities": [
-            "Torrent",
-            "Vital Spirit"
-        ]
-    },
-    {
-        "name": "Empoleon",
-        "primaryType": "Water",
-        "abilities": [
-            "Torrent",
-            "Vital Spirit"
-        ],
-        "secondaryType": "Steel"
-    },
-    {
-        "name": "Starly",
-        "primaryType": "Normal",
-        "abilities": [
-            "Reckless",
-            "Keen Eye"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Staravia",
-        "primaryType": "Normal",
-        "abilities": [
-            "Reckless",
-            "Intimidate"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Staraptor",
-        "primaryType": "Normal",
-        "abilities": [
-            "Reckless",
-            "Intimidate"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Bidoof",
-        "primaryType": "Normal",
-        "abilities": [
-            "Simple",
-            "Unaware"
-        ]
-    },
-    {
-        "name": "Bibarel",
-        "primaryType": "Normal",
-        "abilities": [
-            "Simple",
-            "Unaware"
-        ],
-        "secondaryType": "Water"
-    },
-    {
-        "name": "Kricketot",
-        "primaryType": "Bug",
-        "abilities": [
-            "Run Away",
-            "Shed Skin"
-        ]
-    },
-    {
-        "name": "Kricketune",
-        "primaryType": "Bug",
-        "abilities": [
-            "Technician",
-            "Swarm"
-        ]
-    },
-    {
-        "name": "Shinx",
-        "primaryType": "Electric",
-        "abilities": [
-            "Intimidate",
-            "Guts"
-        ]
-    },
-    {
-        "name": "Luxio",
-        "primaryType": "Electric",
-        "abilities": [
-            "Intimidate",
-            "Guts"
-        ]
-    },
-    {
-        "name": "Luxray",
-        "primaryType": "Electric",
-        "abilities": [
-            "Intimidate",
-            "Guts"
-        ],
-        "secondaryType": "Dark"
-    },
-    {
-        "name": "Budew",
-        "primaryType": "Grass",
-        "abilities": [
-            "Poison Point",
-            "Natural Cure"
-        ],
-        "secondaryType": "Poison"
-    },
-    {
-        "name": "Roserade",
-        "primaryType": "Grass",
-        "abilities": [
-            "Technician",
-            "Natural Cure"
-        ],
-        "secondaryType": "Poison"
-    },
-    {
-        "name": "Cranidos",
-        "primaryType": "Rock",
-        "abilities": [
-            "Rock Head",
-            "Mold Breaker"
-        ]
-    },
-    {
-        "name": "Rampardos",
-        "primaryType": "Rock",
-        "abilities": [
-            "Rock Head",
-            "Mold Breaker"
-        ]
-    },
-    {
-        "name": "Shieldon",
-        "primaryType": "Rock",
-        "abilities": [
-            "Soundproof",
-            "Sturdy"
-        ],
-        "secondaryType": "Steel"
-    },
-    {
-        "name": "Bastiodon",
-        "primaryType": "Rock",
-        "abilities": [
-            "Soundproof",
-            "Sturdy"
-        ],
-        "secondaryType": "Steel"
-    },
-    {
-        "name": "Burmy",
-        "primaryType": "Bug",
-        "abilities": [
-            "Battle Armor",
-            "Shed Skin"
-        ]
-    },
-    {
-        "name": "Wormadam",
-        "primaryType": "Bug",
-        "abilities": [
-            "Battle Armor",
-            "Anticipation"
-        ],
-        "secondaryType": "Grass"
-    },
-    {
-        "name": "Mothim",
-        "primaryType": "Bug",
-        "abilities": [
-            "Tinted Lens",
-            "Swarm"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Combee",
-        "primaryType": "Bug",
-        "abilities": [
-            "Hustle",
-            "Honey Gather"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Vespiquen",
-        "primaryType": "Bug",
-        "abilities": [
-            "Intimidate",
-            "Pressure"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Pachirisu",
-        "primaryType": "Electric",
-        "abilities": [
-            "Volt Absorb",
-            "Pickup"
-        ]
-    },
-    {
-        "name": "Buizel",
-        "primaryType": "Water",
-        "abilities": [
-            "Swift Swim",
-            "Water Veil"
-        ]
-    },
-    {
-        "name": "Floatzel",
-        "primaryType": "Water",
-        "abilities": [
-            "Swift Swim",
-            "Water Veil"
-        ]
-    },
-    {
-        "name": "Cherubi",
-        "primaryType": "Grass",
-        "abilities": [
-            "Chlorophyll"
-        ]
-    },
-    {
-        "name": "Cherrim",
-        "primaryType": "Grass",
-        "abilities": [
-            "Flower Gift"
-        ]
-    },
-    {
-        "name": "Shellos",
-        "primaryType": "Water",
-        "abilities": [
-            "Sticky Hold",
-            "Storm Drain"
-        ]
-    },
-    {
-        "name": "Gastrodon",
-        "primaryType": "Water",
-        "abilities": [
-            "Sticky Hold",
-            "Storm Drain"
-        ],
-        "secondaryType": "Ground"
-    },
-    {
-        "name": "Ambipom",
-        "primaryType": "Normal",
-        "abilities": [
-            "Technician",
-            "Pickup"
-        ]
-    },
-    {
-        "name": "Drifloon",
-        "primaryType": "Ghost",
-        "abilities": [
-            "Unburden",
-            "Aftermath"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Drifblim",
-        "primaryType": "Ghost",
-        "abilities": [
-            "Unburden",
-            "Aftermath"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Buneary",
-        "primaryType": "Normal",
-        "abilities": [
-            "Limber",
-            "Run Away"
-        ]
-    },
-    {
-        "name": "Lopunny",
-        "primaryType": "Normal",
-        "abilities": [
-            "Scrappy",
-            "Cute Charm"
-        ],
-        "secondaryType": "Fighting"
-    },
-    {
-        "name": "Mismagius",
-        "primaryType": "Ghost",
-        "abilities": [
-            "Levitate"
-        ],
-        "secondaryType": "Fairy"
-    },
-    {
-        "name": "Honchkrow",
-        "primaryType": "Dark",
-        "abilities": [
-            "Super Luck",
-            "Insomnia"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Glameow",
-        "primaryType": "Normal",
-        "abilities": [
-            "Limber",
-            "Own Tempo"
-        ]
-    },
-    {
-        "name": "Purugly",
-        "primaryType": "Normal",
-        "abilities": [
-            "Thick Fat",
-            "Own Tempo"
-        ]
-    },
-    {
-        "name": "Chingling",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Levitate"
-        ]
-    },
-    {
-        "name": "Stunky",
-        "primaryType": "Poison",
-        "abilities": [
-            "Aftermath",
-            "Stench"
-        ],
-        "secondaryType": "Dark"
-    },
-    {
-        "name": "Skuntank",
-        "primaryType": "Poison",
-        "abilities": [
-            "Aftermath",
-            "Stench"
-        ],
-        "secondaryType": "Dark"
-    },
-    {
-        "name": "Bronzor",
-        "primaryType": "Steel",
-        "abilities": [
-            "Levitate",
-            "Heatproof"
-        ],
-        "secondaryType": "Psychic"
-    },
-    {
-        "name": "Bronzong",
-        "primaryType": "Steel",
-        "abilities": [
-            "Levitate",
-            "Heatproof"
-        ],
-        "secondaryType": "Psychic"
-    },
-    {
-        "name": "Bonsly",
-        "primaryType": "Rock",
-        "abilities": [
-            "Rock Head",
-            "Sturdy"
-        ]
-    },
-    {
-        "name": "Mime Jr.",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Filter",
-            "Technician"
-        ],
-        "secondaryType": "Fairy"
-    },
-    {
-        "name": "Happiny",
-        "primaryType": "Normal",
-        "abilities": [
-            "Serene Grace",
-            "Natural Cure"
-        ]
-    },
-    {
-        "name": "Chatot",
-        "primaryType": "Normal",
-        "abilities": [
-            "Soundproof",
-            "Tangled Feet"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Spiritomb",
-        "primaryType": "Ghost",
-        "abilities": [
-            "Pressure",
-            "Infiltrator"
-        ],
-        "secondaryType": "Dark"
-    },
-    {
-        "name": "Gible",
-        "primaryType": "Dragon",
-        "abilities": [
-            "Rough Skin",
-            "Sand Veil"
-        ],
-        "secondaryType": "Ground"
-    },
-    {
-        "name": "Gabite",
-        "primaryType": "Dragon",
-        "abilities": [
-            "Rough Skin",
-            "Sand Veil"
-        ],
-        "secondaryType": "Ground"
-    },
-    {
-        "name": "Garchomp",
-        "primaryType": "Dragon",
-        "abilities": [
-            "Rough Skin",
-            "Sand Veil"
-        ],
-        "secondaryType": "Ground"
-    },
-    {
-        "name": "Munchlax",
-        "primaryType": "Normal",
-        "abilities": [
-            "Thick Fat",
-            "Pickup"
-        ]
-    },
-    {
-        "name": "Riolu",
-        "primaryType": "Fighting",
-        "abilities": [
-            "Steadfast",
-            "Inner Focus"
-        ]
-    },
-    {
-        "name": "Lucario",
-        "primaryType": "Fighting",
-        "abilities": [
-            "Adaptability",
-            "Inner Focus"
-        ],
-        "secondaryType": "Steel"
-    },
-    {
-        "name": "Hippopotas",
-        "primaryType": "Ground",
-        "abilities": [
-            "Sand Stream",
-            "Sand Force"
-        ]
-    },
-    {
-        "name": "Hippowdon",
-        "primaryType": "Ground",
-        "abilities": [
-            "Sand Stream",
-            "Sand Force"
-        ]
-    },
-    {
-        "name": "Skorupi",
-        "primaryType": "Poison",
-        "abilities": [
-            "Sniper",
-            "Battle Armor"
-        ],
-        "secondaryType": "Bug"
-    },
-    {
-        "name": "Drapion",
-        "primaryType": "Poison",
-        "abilities": [
-            "Sniper",
-            "Battle Armor"
-        ],
-        "secondaryType": "Dark"
-    },
-    {
-        "name": "Croagunk",
-        "primaryType": "Poison",
-        "abilities": [
-            "Dry Skin",
-            "Anticipation"
-        ],
-        "secondaryType": "Fighting"
-    },
-    {
-        "name": "Toxicroak",
-        "primaryType": "Poison",
-        "abilities": [
-            "Dry Skin",
-            "Anticipation"
-        ],
-        "secondaryType": "Fighting"
-    },
-    {
-        "name": "Carnivine",
-        "primaryType": "Grass",
-        "abilities": [
-            "Levitate"
-        ]
-    },
-    {
-        "name": "Finneon",
-        "primaryType": "Water",
-        "abilities": [
-            "Swift Swim",
-            "Storm Drain"
-        ]
-    },
-    {
-        "name": "Lumineon",
-        "primaryType": "Water",
-        "abilities": [
-            "Swift Swim",
-            "Storm Drain"
-        ]
-    },
-    {
-        "name": "Mantyke",
-        "primaryType": "Water",
-        "abilities": [
-            "Swift Swim",
-            "Water Absorb"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Snover",
-        "primaryType": "Grass",
-        "abilities": [
-            "Snow Warning",
-            "Soundproof"
-        ],
-        "secondaryType": "Ice"
-    },
-    {
-        "name": "Abomasnow",
-        "primaryType": "Grass",
-        "abilities": [
-            "Snow Warning",
-            "Soundproof"
-        ],
-        "secondaryType": "Ice"
-    },
-    {
-        "name": "Weavile",
-        "primaryType": "Dark",
-        "abilities": [
-            "Technician",
-            "Pressure"
-        ],
-        "secondaryType": "Ice"
-    },
-    {
-        "name": "Magnezone",
-        "primaryType": "Electric",
-        "abilities": [
-            "Magnet Pull",
-            "Sturdy"
-        ],
-        "secondaryType": "Steel"
-    },
-    {
-        "name": "Lickilicky",
-        "primaryType": "Normal",
-        "abilities": [
-            "Own Tempo",
-            "Oblivious"
-        ]
-    },
-    {
-        "name": "Rhyperior",
-        "primaryType": "Ground",
-        "abilities": [
-            "Solid Rock",
-            "Reckless"
-        ],
-        "secondaryType": "Rock"
-    },
-    {
-        "name": "Tangrowth",
-        "primaryType": "Grass",
-        "abilities": [
-            "Chlorophyll",
-            "Leaf Guard"
-        ]
-    },
-    {
-        "name": "Electivire",
-        "primaryType": "Electric",
-        "abilities": [
-            "Motor Drive",
-            "Vital Spirit"
-        ],
-        "secondaryType": "Fighting"
-    },
-    {
-        "name": "Magmortar",
-        "primaryType": "Fire",
-        "abilities": [
-            "Flame Body",
-            "Vital Spirit"
-        ]
-    },
-    {
-        "name": "Togekiss",
-        "primaryType": "Fairy",
-        "abilities": [
-            "Serene Grace",
-            "Super Luck"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Yanmega",
-        "primaryType": "Bug",
-        "abilities": [
-            "Speed Boost",
-            "Tinted Lens"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Leafeon",
-        "primaryType": "Grass",
-        "abilities": [
-            "Leaf Guard",
-            "Chlorophyll"
-        ]
-    },
-    {
-        "name": "Glaceon",
-        "primaryType": "Ice",
-        "abilities": [
-            "Snow Cloak",
-            "Ice Body"
-        ]
-    },
-    {
-        "name": "Gliscor",
-        "primaryType": "Ground",
-        "abilities": [
-            "Poison Heal",
-            "Hyper Cutter"
-        ],
-        "secondaryType": "Flying"
-    },
-    {
-        "name": "Mamoswine",
-        "primaryType": "Ice",
-        "abilities": [
-            "Thick Fat",
-            "Snow Cloak"
-        ],
-        "secondaryType": "Ground"
-    },
-    {
-        "name": "Porygon-Z",
-        "primaryType": "Normal",
-        "abilities": [
-            "Adaptability",
-            "Download"
-        ]
-    },
-    {
-        "name": "Gallade",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Steadfast",
-            "Justified"
-        ],
-        "secondaryType": "Fighting"
-    },
-    {
-        "name": "Probopass",
-        "primaryType": "Rock",
-        "abilities": [
-            "Sturdy",
-            "Magnet Pull"
-        ],
-        "secondaryType": "Steel"
-    },
-    {
-        "name": "Dusknoir",
-        "primaryType": "Ghost",
-        "abilities": [
-            "Iron Fist",
-            "Pressure"
-        ]
-    },
-    {
-        "name": "Froslass",
-        "primaryType": "Ice",
-        "abilities": [
-            "Levitate",
-            "Snow Cloak"
-        ],
-        "secondaryType": "Ghost"
-    },
-    {
-        "name": "Rotom",
-        "primaryType": "Electric",
-        "abilities": [
-            "Motor Drive"
-        ],
-        "secondaryType": "Ghost"
-    },
-    {
-        "name": "Uxie",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Levitate"
-        ],
-        "secondaryType": "Fairy"
-    },
-    {
-        "name": "Mesprit",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Levitate"
-        ],
-        "secondaryType": "Fairy"
-    },
-    {
-        "name": "Azelf",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Levitate"
-        ],
-        "secondaryType": "Fairy"
-    },
-    {
-        "name": "Dialga",
-        "primaryType": "Steel",
-        "abilities": [
-            "Pressure",
-            "Telepathy"
-        ],
-        "secondaryType": "Dragon"
-    },
-    {
-        "name": "Palkia",
-        "primaryType": "Water",
-        "abilities": [
-            "Pressure",
-            "Telepathy"
-        ],
-        "secondaryType": "Dragon"
-    },
-    {
-        "name": "Heatran",
-        "primaryType": "Fire",
-        "abilities": [
-            "Flash Fire",
-            "Flame Body"
-        ],
-        "secondaryType": "Steel"
-    },
-    {
-        "name": "Regigigas",
-        "primaryType": "Normal",
-        "abilities": [
-            "Slow Start"
-        ]
-    },
-    {
-        "name": "Giratina",
-        "primaryType": "Ghost",
-        "abilities": [
-            "Pressure",
-            "Telepathy"
-        ],
-        "secondaryType": "Dragon"
-    },
-    {
-        "name": "Cresselia",
-        "primaryType": "Psychic",
-        "abilities": [
-            "Levitate"
-        ]
-    },
-    {
-        "name": "Phione",
-        "primaryType": "Water",
-        "abilities": [
-            "Hydration"
-        ]
-    },
-    {
-        "name": "Manaphy",
-        "primaryType": "Water",
-        "abilities": [
-            "Hydration"
-        ]
-    },
-    {
-        "name": "Darkrai",
-        "primaryType": "Dark",
-        "abilities": [
-            "Bad Dreams"
-        ]
-    },
-    {
-        "name": "Shaymin",
-        "primaryType": "Grass",
-        "abilities": [
-            "Insomnia"
-        ]
-    },
-    {
-        "name": "Arceus",
-        "primaryType": "Normal",
-        "abilities": [
-            "Multitype"
-        ]
-    }
+{"dexNo": 1, "name": "Bulbasaur", "primaryType": "Grass", "abilities": ["Overgrow", "Chlorophyll"], "secondaryType": "Poison"},
+{"dexNo": 2, "name": "Ivysaur", "primaryType": "Grass", "abilities": ["Overgrow", "Chlorophyll"], "secondaryType": "Poison"},
+{"dexNo": 3, "name": "Venusaur", "primaryType": "Grass", "abilities": ["Overgrow", "Chlorophyll"], "secondaryType": "Poison"},
+{"dexNo": 4, "name": "Charmander", "primaryType": "Fire", "abilities": ["Blaze", "Solar power"]},
+{"dexNo": 5, "name": "Charmeleon", "primaryType": "Fire", "abilities": ["Blaze", "Solar power"]},
+{"dexNo": 6, "name": "Charizard", "primaryType": "Fire", "abilities": ["Blaze", "Solar power"], "secondaryType": "Flying"},
+{"dexNo": 7, "name": "Squirtle", "primaryType": "Water", "abilities": ["Torrent", "Rain dish"]},
+{"dexNo": 8, "name": "Wartortle", "primaryType": "Water", "abilities": ["Torrent", "Rain dish"]},
+{"dexNo": 9, "name": "Blastoise", "primaryType": "Water", "abilities": ["Torrent", "Rain dish"]},
+{"dexNo": 10, "name": "Caterpie", "primaryType": "Bug", "abilities": ["Shield dust", "Run away"]},
+{"dexNo": 11, "name": "Metapod", "primaryType": "Bug", "abilities": ["Shed skin"]},
+{"dexNo": 12, "name": "Butterfree", "primaryType": "Bug", "abilities": ["Compound eyes", "Tinted lens"], "secondaryType": "Flying"},
+{"dexNo": 13, "name": "Weedle", "primaryType": "Bug", "abilities": ["Shield dust", "Run away"], "secondaryType": "Poison"},
+{"dexNo": 14, "name": "Kakuna", "primaryType": "Bug", "abilities": ["Shed skin"], "secondaryType": "Poison"},
+{"dexNo": 15, "name": "Beedrill", "primaryType": "Bug", "abilities": ["Swarm", "Sniper"], "secondaryType": "Poison"},
+{"dexNo": 16, "name": "Pidgey", "primaryType": "Normal", "abilities": ["Keen eye", "Tangled feet", "Big pecks"], "secondaryType": "Flying"},
+{"dexNo": 17, "name": "Pidgeotto", "primaryType": "Normal", "abilities": ["Keen eye", "Tangled feet", "Big pecks"], "secondaryType": "Flying"},
+{"dexNo": 18, "name": "Pidgeot", "primaryType": "Normal", "abilities": ["Keen eye", "Tangled feet", "Big pecks"], "secondaryType": "Flying"},
+{"dexNo": 19, "name": "Rattata", "primaryType": "Normal", "abilities": ["Run away", "Guts", "Hustle"]},
+{"dexNo": 20, "name": "Raticate", "primaryType": "Normal", "abilities": ["Run away", "Guts", "Hustle"]},
+{"dexNo": 21, "name": "Spearow", "primaryType": "Normal", "abilities": ["Keen eye", "Sniper"], "secondaryType": "Flying"},
+{"dexNo": 22, "name": "Fearow", "primaryType": "Normal", "abilities": ["Keen eye", "Sniper"], "secondaryType": "Flying"},
+{"dexNo": 23, "name": "Ekans", "primaryType": "Poison", "abilities": ["Intimidate", "Shed skin", "Unnerve"]},
+{"dexNo": 24, "name": "Arbok", "primaryType": "Poison", "abilities": ["Intimidate", "Shed skin", "Unnerve"]},
+{"dexNo": 25, "name": "Pikachu", "primaryType": "Electric", "abilities": ["Static", "Lightning rod"]},
+{"dexNo": 26, "name": "Raichu", "primaryType": "Electric", "abilities": ["Static", "Lightning rod"]},
+{"dexNo": 27, "name": "Sandshrew", "primaryType": "Ground", "abilities": ["Sand veil", "Sand rush"]},
+{"dexNo": 28, "name": "Sandslash", "primaryType": "Ground", "abilities": ["Sand veil", "Sand rush"]},
+{"dexNo": 29, "name": "Nidoran-f", "primaryType": "Poison", "abilities": ["Poison point", "Rivalry", "Hustle"]},
+{"dexNo": 30, "name": "Nidorina", "primaryType": "Poison", "abilities": ["Poison point", "Rivalry", "Hustle"]},
+{"dexNo": 31, "name": "Nidoqueen", "primaryType": "Poison", "abilities": ["Poison point", "Rivalry", "Sheer force"], "secondaryType": "Ground"},
+{"dexNo": 32, "name": "Nidoran-m", "primaryType": "Poison", "abilities": ["Poison point", "Rivalry", "Hustle"]},
+{"dexNo": 33, "name": "Nidorino", "primaryType": "Poison", "abilities": ["Poison point", "Rivalry", "Hustle"]},
+{"dexNo": 34, "name": "Nidoking", "primaryType": "Poison", "abilities": ["Poison point", "Rivalry", "Sheer force"], "secondaryType": "Ground"},
+{"dexNo": 35, "name": "Clefairy", "primaryType": "Fairy", "abilities": ["Cute charm", "Magic guard", "Friend guard"]},
+{"dexNo": 36, "name": "Clefable", "primaryType": "Fairy", "abilities": ["Cute charm", "Magic guard", "Unaware"]},
+{"dexNo": 37, "name": "Vulpix", "primaryType": "Fire", "abilities": ["Flash fire", "Drought"]},
+{"dexNo": 38, "name": "Ninetales", "primaryType": "Fire", "abilities": ["Flash fire", "Drought"]},
+{"dexNo": 39, "name": "Jigglypuff", "primaryType": "Normal", "abilities": ["Cute charm", "Competitive", "Friend guard"], "secondaryType": "Fairy"},
+{"dexNo": 40, "name": "Wigglytuff", "primaryType": "Normal", "abilities": ["Cute charm", "Competitive", "Frisk"], "secondaryType": "Fairy"},
+{"dexNo": 41, "name": "Zubat", "primaryType": "Poison", "abilities": ["Inner focus", "Infiltrator"], "secondaryType": "Flying"},
+{"dexNo": 42, "name": "Golbat", "primaryType": "Poison", "abilities": ["Inner focus", "Infiltrator"], "secondaryType": "Flying"},
+{"dexNo": 43, "name": "Oddish", "primaryType": "Grass", "abilities": ["Chlorophyll", "Run away"], "secondaryType": "Poison"},
+{"dexNo": 44, "name": "Gloom", "primaryType": "Grass", "abilities": ["Chlorophyll", "Stench"], "secondaryType": "Poison"},
+{"dexNo": 45, "name": "Vileplume", "primaryType": "Grass", "abilities": ["Chlorophyll", "Effect spore"], "secondaryType": "Poison"},
+{"dexNo": 46, "name": "Paras", "primaryType": "Bug", "abilities": ["Effect spore", "Dry skin", "Damp"], "secondaryType": "Grass"},
+{"dexNo": 47, "name": "Parasect", "primaryType": "Bug", "abilities": ["Effect spore", "Dry skin", "Damp"], "secondaryType": "Grass"},
+{"dexNo": 48, "name": "Venonat", "primaryType": "Bug", "abilities": ["Compound eyes", "Tinted lens", "Run away"], "secondaryType": "Poison"},
+{"dexNo": 49, "name": "Venomoth", "primaryType": "Bug", "abilities": ["Shield dust", "Tinted lens", "Wonder skin"], "secondaryType": "Poison"},
+{"dexNo": 50, "name": "Diglett", "primaryType": "Ground", "abilities": ["Sand veil", "Arena trap", "Sand force"]},
+{"dexNo": 51, "name": "Dugtrio", "primaryType": "Ground", "abilities": ["Sand veil", "Arena trap", "Sand force"]},
+{"dexNo": 52, "name": "Meowth", "primaryType": "Normal", "abilities": ["Pickup", "Technician", "Unnerve"]},
+{"dexNo": 53, "name": "Persian", "primaryType": "Normal", "abilities": ["Limber", "Technician", "Unnerve"]},
+{"dexNo": 54, "name": "Psyduck", "primaryType": "Water", "abilities": ["Damp", "Cloud nine", "Swift swim"]},
+{"dexNo": 55, "name": "Golduck", "primaryType": "Water", "abilities": ["Damp", "Cloud nine", "Swift swim"]},
+{"dexNo": 56, "name": "Mankey", "primaryType": "Fighting", "abilities": ["Vital spirit", "Anger point", "Defiant"]},
+{"dexNo": 57, "name": "Primeape", "primaryType": "Fighting", "abilities": ["Vital spirit", "Anger point", "Defiant"]},
+{"dexNo": 58, "name": "Growlithe", "primaryType": "Fire", "abilities": ["Intimidate", "Flash fire", "Justified"]},
+{"dexNo": 59, "name": "Arcanine", "primaryType": "Fire", "abilities": ["Intimidate", "Flash fire", "Justified"]},
+{"dexNo": 60, "name": "Poliwag", "primaryType": "Water", "abilities": ["Water absorb", "Damp", "Swift swim"]},
+{"dexNo": 61, "name": "Poliwhirl", "primaryType": "Water", "abilities": ["Water absorb", "Damp", "Swift swim"]},
+{"dexNo": 62, "name": "Poliwrath", "primaryType": "Water", "abilities": ["Water absorb", "Damp", "Swift swim"], "secondaryType": "Fighting"},
+{"dexNo": 63, "name": "Abra", "primaryType": "Psychic", "abilities": ["Synchronize", "Inner focus", "Magic guard"]},
+{"dexNo": 64, "name": "Kadabra", "primaryType": "Psychic", "abilities": ["Synchronize", "Inner focus", "Magic guard"]},
+{"dexNo": 65, "name": "Alakazam", "primaryType": "Psychic", "abilities": ["Synchronize", "Inner focus", "Magic guard"]},
+{"dexNo": 66, "name": "Machop", "primaryType": "Fighting", "abilities": ["Guts", "No guard", "Steadfast"]},
+{"dexNo": 67, "name": "Machoke", "primaryType": "Fighting", "abilities": ["Guts", "No guard", "Steadfast"]},
+{"dexNo": 68, "name": "Machamp", "primaryType": "Fighting", "abilities": ["Guts", "No guard", "Steadfast"]},
+{"dexNo": 69, "name": "Bellsprout", "primaryType": "Grass", "abilities": ["Chlorophyll", "Gluttony"], "secondaryType": "Poison"},
+{"dexNo": 70, "name": "Weepinbell", "primaryType": "Grass", "abilities": ["Chlorophyll", "Gluttony"], "secondaryType": "Poison"},
+{"dexNo": 71, "name": "Victreebel", "primaryType": "Grass", "abilities": ["Chlorophyll", "Gluttony"], "secondaryType": "Poison"},
+{"dexNo": 72, "name": "Tentacool", "primaryType": "Water", "abilities": ["Clear body", "Liquid ooze", "Rain dish"], "secondaryType": "Poison"},
+{"dexNo": 73, "name": "Tentacruel", "primaryType": "Water", "abilities": ["Clear body", "Liquid ooze", "Rain dish"], "secondaryType": "Poison"},
+{"dexNo": 74, "name": "Geodude", "primaryType": "Rock", "abilities": ["Rock head", "Sturdy", "Sand veil"], "secondaryType": "Ground"},
+{"dexNo": 75, "name": "Graveler", "primaryType": "Rock", "abilities": ["Rock head", "Sturdy", "Sand veil"], "secondaryType": "Ground"},
+{"dexNo": 76, "name": "Golem", "primaryType": "Rock", "abilities": ["Rock head", "Sturdy", "Sand veil"], "secondaryType": "Ground"},
+{"dexNo": 77, "name": "Ponyta", "primaryType": "Fire", "abilities": ["Run away", "Flash fire", "Flame body"]},
+{"dexNo": 78, "name": "Rapidash", "primaryType": "Fire", "abilities": ["Run away", "Flash fire", "Flame body"]},
+{"dexNo": 79, "name": "Slowpoke", "primaryType": "Water", "abilities": ["Oblivious", "Own tempo", "Regenerator"], "secondaryType": "Psychic"},
+{"dexNo": 80, "name": "Slowbro", "primaryType": "Water", "abilities": ["Oblivious", "Own tempo", "Regenerator"], "secondaryType": "Psychic"},
+{"dexNo": 81, "name": "Magnemite", "primaryType": "Electric", "abilities": ["Magnet pull", "Sturdy", "Analytic"], "secondaryType": "Steel"},
+{"dexNo": 82, "name": "Magneton", "primaryType": "Electric", "abilities": ["Magnet pull", "Sturdy", "Analytic"], "secondaryType": "Steel"},
+{"dexNo": 83, "name": "Farfetchd", "primaryType": "Normal", "abilities": ["Keen eye", "Inner focus", "Defiant"], "secondaryType": "Flying"},
+{"dexNo": 84, "name": "Doduo", "primaryType": "Normal", "abilities": ["Run away", "Early bird", "Tangled feet"], "secondaryType": "Flying"},
+{"dexNo": 85, "name": "Dodrio", "primaryType": "Normal", "abilities": ["Run away", "Early bird", "Tangled feet"], "secondaryType": "Flying"},
+{"dexNo": 86, "name": "Seel", "primaryType": "Water", "abilities": ["Thick fat", "Hydration", "Ice body"]},
+{"dexNo": 87, "name": "Dewgong", "primaryType": "Water", "abilities": ["Thick fat", "Hydration", "Ice body"], "secondaryType": "Ice"},
+{"dexNo": 88, "name": "Grimer", "primaryType": "Poison", "abilities": ["Stench", "Sticky hold", "Poison touch"]},
+{"dexNo": 89, "name": "Muk", "primaryType": "Poison", "abilities": ["Stench", "Sticky hold", "Poison touch"]},
+{"dexNo": 90, "name": "Shellder", "primaryType": "Water", "abilities": ["Shell armor", "Skill link", "Overcoat"]},
+{"dexNo": 91, "name": "Cloyster", "primaryType": "Water", "abilities": ["Shell armor", "Skill link", "Overcoat"], "secondaryType": "Ice"},
+{"dexNo": 92, "name": "Gastly", "primaryType": "Ghost", "abilities": ["Levitate"], "secondaryType": "Poison"},
+{"dexNo": 93, "name": "Haunter", "primaryType": "Ghost", "abilities": ["Levitate"], "secondaryType": "Poison"},
+{"dexNo": 94, "name": "Gengar", "primaryType": "Ghost", "abilities": ["Cursed body"], "secondaryType": "Poison"},
+{"dexNo": 95, "name": "Onix", "primaryType": "Rock", "abilities": ["Rock head", "Sturdy", "Weak armor"], "secondaryType": "Ground"},
+{"dexNo": 96, "name": "Drowzee", "primaryType": "Psychic", "abilities": ["Insomnia", "Forewarn", "Inner focus"]},
+{"dexNo": 97, "name": "Hypno", "primaryType": "Psychic", "abilities": ["Insomnia", "Forewarn", "Inner focus"]},
+{"dexNo": 98, "name": "Krabby", "primaryType": "Water", "abilities": ["Hyper cutter", "Shell armor", "Sheer force"]},
+{"dexNo": 99, "name": "Kingler", "primaryType": "Water", "abilities": ["Hyper cutter", "Shell armor", "Sheer force"]},
+{"dexNo": 100, "name": "Voltorb", "primaryType": "Electric", "abilities": ["Soundproof", "Static", "Aftermath"]},
+{"dexNo": 101, "name": "Electrode", "primaryType": "Electric", "abilities": ["Soundproof", "Static", "Aftermath"]},
+{"dexNo": 102, "name": "Exeggcute", "primaryType": "Grass", "abilities": ["Chlorophyll", "Harvest"], "secondaryType": "Psychic"},
+{"dexNo": 103, "name": "Exeggutor", "primaryType": "Grass", "abilities": ["Chlorophyll", "Harvest"], "secondaryType": "Psychic"},
+{"dexNo": 104, "name": "Cubone", "primaryType": "Ground", "abilities": ["Rock head", "Lightning rod", "Battle armor"]},
+{"dexNo": 105, "name": "Marowak", "primaryType": "Ground", "abilities": ["Rock head", "Lightning rod", "Battle armor"]},
+{"dexNo": 106, "name": "Hitmonlee", "primaryType": "Fighting", "abilities": ["Limber", "Reckless", "Unburden"]},
+{"dexNo": 107, "name": "Hitmonchan", "primaryType": "Fighting", "abilities": ["Keen eye", "Iron fist", "Inner focus"]},
+{"dexNo": 108, "name": "Lickitung", "primaryType": "Normal", "abilities": ["Own tempo", "Oblivious", "Cloud nine"]},
+{"dexNo": 109, "name": "Koffing", "primaryType": "Poison", "abilities": ["Levitate", "Neutralizing gas", "Stench"]},
+{"dexNo": 110, "name": "Weezing", "primaryType": "Poison", "abilities": ["Levitate", "Neutralizing gas", "Stench"]},
+{"dexNo": 111, "name": "Rhyhorn", "primaryType": "Ground", "abilities": ["Lightning rod", "Rock head", "Reckless"], "secondaryType": "Rock"},
+{"dexNo": 112, "name": "Rhydon", "primaryType": "Ground", "abilities": ["Lightning rod", "Rock head", "Reckless"], "secondaryType": "Rock"},
+{"dexNo": 113, "name": "Chansey", "primaryType": "Normal", "abilities": ["Natural cure", "Serene grace", "Healer"]},
+{"dexNo": 114, "name": "Tangela", "primaryType": "Grass", "abilities": ["Chlorophyll", "Leaf guard", "Regenerator"]},
+{"dexNo": 115, "name": "Kangaskhan", "primaryType": "Normal", "abilities": ["Early bird", "Scrappy", "Inner focus"]},
+{"dexNo": 116, "name": "Horsea", "primaryType": "Water", "abilities": ["Swift swim", "Sniper", "Damp"]},
+{"dexNo": 117, "name": "Seadra", "primaryType": "Water", "abilities": ["Poison point", "Sniper", "Damp"]},
+{"dexNo": 118, "name": "Goldeen", "primaryType": "Water", "abilities": ["Swift swim", "Water veil", "Lightning rod"]},
+{"dexNo": 119, "name": "Seaking", "primaryType": "Water", "abilities": ["Swift swim", "Water veil", "Lightning rod"]},
+{"dexNo": 120, "name": "Staryu", "primaryType": "Water", "abilities": ["Illuminate", "Natural cure", "Analytic"]},
+{"dexNo": 121, "name": "Starmie", "primaryType": "Water", "abilities": ["Illuminate", "Natural cure", "Analytic"], "secondaryType": "Psychic"},
+{"dexNo": 122, "name": "Mr-mime", "primaryType": "Psychic", "abilities": ["Soundproof", "Filter", "Technician"], "secondaryType": "Fairy"},
+{"dexNo": 123, "name": "Scyther", "primaryType": "Bug", "abilities": ["Swarm", "Technician", "Steadfast"], "secondaryType": "Flying"},
+{"dexNo": 124, "name": "Jynx", "primaryType": "Ice", "abilities": ["Oblivious", "Forewarn", "Dry skin"], "secondaryType": "Psychic"},
+{"dexNo": 125, "name": "Electabuzz", "primaryType": "Electric", "abilities": ["Static", "Vital spirit"]},
+{"dexNo": 126, "name": "Magmar", "primaryType": "Fire", "abilities": ["Flame body", "Vital spirit"]},
+{"dexNo": 127, "name": "Pinsir", "primaryType": "Bug", "abilities": ["Hyper cutter", "Mold breaker", "Moxie"]},
+{"dexNo": 128, "name": "Tauros", "primaryType": "Normal", "abilities": ["Intimidate", "Anger point", "Sheer force"]},
+{"dexNo": 129, "name": "Magikarp", "primaryType": "Water", "abilities": ["Swift swim", "Rattled"]},
+{"dexNo": 130, "name": "Gyarados", "primaryType": "Water", "abilities": ["Intimidate", "Moxie"], "secondaryType": "Flying"},
+{"dexNo": 131, "name": "Lapras", "primaryType": "Water", "abilities": ["Water absorb", "Shell armor", "Hydration"], "secondaryType": "Ice"},
+{"dexNo": 132, "name": "Ditto", "primaryType": "Normal", "abilities": ["Limber", "Imposter"]},
+{"dexNo": 133, "name": "Eevee", "primaryType": "Normal", "abilities": ["Run away", "Adaptability", "Anticipation"]},
+{"dexNo": 134, "name": "Vaporeon", "primaryType": "Water", "abilities": ["Water absorb", "Hydration"]},
+{"dexNo": 135, "name": "Jolteon", "primaryType": "Electric", "abilities": ["Volt absorb", "Quick feet"]},
+{"dexNo": 136, "name": "Flareon", "primaryType": "Fire", "abilities": ["Flash fire", "Guts"]},
+{"dexNo": 137, "name": "Porygon", "primaryType": "Normal", "abilities": ["Trace", "Download", "Analytic"]},
+{"dexNo": 138, "name": "Omanyte", "primaryType": "Rock", "abilities": ["Swift swim", "Shell armor", "Weak armor"], "secondaryType": "Water"},
+{"dexNo": 139, "name": "Omastar", "primaryType": "Rock", "abilities": ["Swift swim", "Shell armor", "Weak armor"], "secondaryType": "Water"},
+{"dexNo": 140, "name": "Kabuto", "primaryType": "Rock", "abilities": ["Swift swim", "Battle armor", "Weak armor"], "secondaryType": "Water"},
+{"dexNo": 141, "name": "Kabutops", "primaryType": "Rock", "abilities": ["Swift swim", "Battle armor", "Weak armor"], "secondaryType": "Water"},
+{"dexNo": 142, "name": "Aerodactyl", "primaryType": "Rock", "abilities": ["Rock head", "Pressure", "Unnerve"], "secondaryType": "Flying"},
+{"dexNo": 143, "name": "Snorlax", "primaryType": "Normal", "abilities": ["Immunity", "Thick fat", "Gluttony"]},
+{"dexNo": 144, "name": "Articuno", "primaryType": "Ice", "abilities": ["Pressure", "Snow cloak"], "secondaryType": "Flying"},
+{"dexNo": 145, "name": "Zapdos", "primaryType": "Electric", "abilities": ["Pressure", "Static"], "secondaryType": "Flying"},
+{"dexNo": 146, "name": "Moltres", "primaryType": "Fire", "abilities": ["Pressure", "Flame body"], "secondaryType": "Flying"},
+{"dexNo": 147, "name": "Dratini", "primaryType": "Dragon", "abilities": ["Shed skin", "Marvel scale"]},
+{"dexNo": 148, "name": "Dragonair", "primaryType": "Dragon", "abilities": ["Shed skin", "Marvel scale"]},
+{"dexNo": 149, "name": "Dragonite", "primaryType": "Dragon", "abilities": ["Inner focus", "Multiscale"], "secondaryType": "Flying"},
+{"dexNo": 150, "name": "Mewtwo", "primaryType": "Psychic", "abilities": ["Pressure", "Unnerve"]},
+{"dexNo": 151, "name": "Mew", "primaryType": "Psychic", "abilities": ["Synchronize"]},
+{"dexNo": 152, "name": "Chikorita", "primaryType": "Grass", "abilities": ["Overgrow", "Leaf guard"]},
+{"dexNo": 153, "name": "Bayleef", "primaryType": "Grass", "abilities": ["Overgrow", "Leaf guard"]},
+{"dexNo": 154, "name": "Meganium", "primaryType": "Grass", "abilities": ["Overgrow", "Leaf guard"]},
+{"dexNo": 155, "name": "Cyndaquil", "primaryType": "Fire", "abilities": ["Blaze", "Flash fire"]},
+{"dexNo": 156, "name": "Quilava", "primaryType": "Fire", "abilities": ["Blaze", "Flash fire"]},
+{"dexNo": 157, "name": "Typhlosion", "primaryType": "Fire", "abilities": ["Blaze", "Flash fire"]},
+{"dexNo": 158, "name": "Totodile", "primaryType": "Water", "abilities": ["Torrent", "Sheer force"]},
+{"dexNo": 159, "name": "Croconaw", "primaryType": "Water", "abilities": ["Torrent", "Sheer force"]},
+{"dexNo": 160, "name": "Feraligatr", "primaryType": "Water", "abilities": ["Torrent", "Sheer force"]},
+{"dexNo": 161, "name": "Sentret", "primaryType": "Normal", "abilities": ["Run away", "Keen eye", "Frisk"]},
+{"dexNo": 162, "name": "Furret", "primaryType": "Normal", "abilities": ["Run away", "Keen eye", "Frisk"]},
+{"dexNo": 163, "name": "Hoothoot", "primaryType": "Normal", "abilities": ["Insomnia", "Keen eye", "Tinted lens"], "secondaryType": "Flying"},
+{"dexNo": 164, "name": "Noctowl", "primaryType": "Normal", "abilities": ["Insomnia", "Keen eye", "Tinted lens"], "secondaryType": "Flying"},
+{"dexNo": 165, "name": "Ledyba", "primaryType": "Bug", "abilities": ["Swarm", "Early bird", "Rattled"], "secondaryType": "Flying"},
+{"dexNo": 166, "name": "Ledian", "primaryType": "Bug", "abilities": ["Swarm", "Early bird", "Iron fist"], "secondaryType": "Flying"},
+{"dexNo": 167, "name": "Spinarak", "primaryType": "Bug", "abilities": ["Swarm", "Insomnia", "Sniper"], "secondaryType": "Poison"},
+{"dexNo": 168, "name": "Ariados", "primaryType": "Bug", "abilities": ["Swarm", "Insomnia", "Sniper"], "secondaryType": "Poison"},
+{"dexNo": 169, "name": "Crobat", "primaryType": "Poison", "abilities": ["Inner focus", "Infiltrator"], "secondaryType": "Flying"},
+{"dexNo": 170, "name": "Chinchou", "primaryType": "Water", "abilities": ["Volt absorb", "Illuminate", "Water absorb"], "secondaryType": "Electric"},
+{"dexNo": 171, "name": "Lanturn", "primaryType": "Water", "abilities": ["Volt absorb", "Illuminate", "Water absorb"], "secondaryType": "Electric"},
+{"dexNo": 172, "name": "Pichu", "primaryType": "Electric", "abilities": ["Static", "Lightning rod"]},
+{"dexNo": 173, "name": "Cleffa", "primaryType": "Fairy", "abilities": ["Cute charm", "Magic guard", "Friend guard"]},
+{"dexNo": 174, "name": "Igglybuff", "primaryType": "Normal", "abilities": ["Cute charm", "Competitive", "Friend guard"], "secondaryType": "Fairy"},
+{"dexNo": 175, "name": "Togepi", "primaryType": "Fairy", "abilities": ["Hustle", "Serene grace", "Super luck"]},
+{"dexNo": 176, "name": "Togetic", "primaryType": "Fairy", "abilities": ["Hustle", "Serene grace", "Super luck"], "secondaryType": "Flying"},
+{"dexNo": 177, "name": "Natu", "primaryType": "Psychic", "abilities": ["Synchronize", "Early bird", "Magic bounce"], "secondaryType": "Flying"},
+{"dexNo": 178, "name": "Xatu", "primaryType": "Psychic", "abilities": ["Synchronize", "Early bird", "Magic bounce"], "secondaryType": "Flying"},
+{"dexNo": 179, "name": "Mareep", "primaryType": "Electric", "abilities": ["Static", "Plus"]},
+{"dexNo": 180, "name": "Flaaffy", "primaryType": "Electric", "abilities": ["Static", "Plus"]},
+{"dexNo": 181, "name": "Ampharos", "primaryType": "Electric", "abilities": ["Static", "Plus"]},
+{"dexNo": 182, "name": "Bellossom", "primaryType": "Grass", "abilities": ["Chlorophyll", "Healer"]},
+{"dexNo": 183, "name": "Marill", "primaryType": "Water", "abilities": ["Thick fat", "Huge power", "Sap sipper"], "secondaryType": "Fairy"},
+{"dexNo": 184, "name": "Azumarill", "primaryType": "Water", "abilities": ["Thick fat", "Huge power", "Sap sipper"], "secondaryType": "Fairy"},
+{"dexNo": 185, "name": "Sudowoodo", "primaryType": "Rock", "abilities": ["Sturdy", "Rock head", "Rattled"]},
+{"dexNo": 186, "name": "Politoed", "primaryType": "Water", "abilities": ["Water absorb", "Damp", "Drizzle"]},
+{"dexNo": 187, "name": "Hoppip", "primaryType": "Grass", "abilities": ["Chlorophyll", "Leaf guard", "Infiltrator"], "secondaryType": "Flying"},
+{"dexNo": 188, "name": "Skiploom", "primaryType": "Grass", "abilities": ["Chlorophyll", "Leaf guard", "Infiltrator"], "secondaryType": "Flying"},
+{"dexNo": 189, "name": "Jumpluff", "primaryType": "Grass", "abilities": ["Chlorophyll", "Leaf guard", "Infiltrator"], "secondaryType": "Flying"},
+{"dexNo": 190, "name": "Aipom", "primaryType": "Normal", "abilities": ["Run away", "Pickup", "Skill link"]},
+{"dexNo": 191, "name": "Sunkern", "primaryType": "Grass", "abilities": ["Chlorophyll", "Solar power", "Early bird"]},
+{"dexNo": 192, "name": "Sunflora", "primaryType": "Grass", "abilities": ["Chlorophyll", "Solar power", "Early bird"]},
+{"dexNo": 193, "name": "Yanma", "primaryType": "Bug", "abilities": ["Speed boost", "Compound eyes", "Frisk"], "secondaryType": "Flying"},
+{"dexNo": 194, "name": "Wooper", "primaryType": "Water", "abilities": ["Damp", "Water absorb", "Unaware"], "secondaryType": "Ground"},
+{"dexNo": 195, "name": "Quagsire", "primaryType": "Water", "abilities": ["Damp", "Water absorb", "Unaware"], "secondaryType": "Ground"},
+{"dexNo": 196, "name": "Espeon", "primaryType": "Psychic", "abilities": ["Synchronize", "Magic bounce"]},
+{"dexNo": 197, "name": "Umbreon", "primaryType": "Dark", "abilities": ["Synchronize", "Inner focus"]},
+{"dexNo": 198, "name": "Murkrow", "primaryType": "Dark", "abilities": ["Insomnia", "Super luck", "Prankster"], "secondaryType": "Flying"},
+{"dexNo": 199, "name": "Slowking", "primaryType": "Water", "abilities": ["Oblivious", "Own tempo", "Regenerator"], "secondaryType": "Psychic"},
+{"dexNo": 200, "name": "Misdreavus", "primaryType": "Ghost", "abilities": ["Levitate"]},
+{"dexNo": 201, "name": "Unown", "primaryType": "Psychic", "abilities": ["Levitate"]},
+{"dexNo": 202, "name": "Wobbuffet", "primaryType": "Psychic", "abilities": ["Shadow tag", "Telepathy"]},
+{"dexNo": 203, "name": "Girafarig", "primaryType": "Normal", "abilities": ["Inner focus", "Early bird", "Sap sipper"], "secondaryType": "Psychic"},
+{"dexNo": 204, "name": "Pineco", "primaryType": "Bug", "abilities": ["Sturdy", "Overcoat"]},
+{"dexNo": 205, "name": "Forretress", "primaryType": "Bug", "abilities": ["Sturdy", "Overcoat"], "secondaryType": "Steel"},
+{"dexNo": 206, "name": "Dunsparce", "primaryType": "Normal", "abilities": ["Serene grace", "Run away", "Rattled"]},
+{"dexNo": 207, "name": "Gligar", "primaryType": "Ground", "abilities": ["Hyper cutter", "Sand veil", "Immunity"], "secondaryType": "Flying"},
+{"dexNo": 208, "name": "Steelix", "primaryType": "Steel", "abilities": ["Rock head", "Sturdy", "Sheer force"], "secondaryType": "Ground"},
+{"dexNo": 209, "name": "Snubbull", "primaryType": "Fairy", "abilities": ["Intimidate", "Run away", "Rattled"]},
+{"dexNo": 210, "name": "Granbull", "primaryType": "Fairy", "abilities": ["Intimidate", "Quick feet", "Rattled"]},
+{"dexNo": 211, "name": "Qwilfish", "primaryType": "Water", "abilities": ["Poison point", "Swift swim", "Intimidate"], "secondaryType": "Poison"},
+{"dexNo": 212, "name": "Scizor", "primaryType": "Bug", "abilities": ["Swarm", "Technician", "Light metal"], "secondaryType": "Steel"},
+{"dexNo": 213, "name": "Shuckle", "primaryType": "Bug", "abilities": ["Sturdy", "Gluttony", "Contrary"], "secondaryType": "Rock"},
+{"dexNo": 214, "name": "Heracross", "primaryType": "Bug", "abilities": ["Swarm", "Guts", "Moxie"], "secondaryType": "Fighting"},
+{"dexNo": 215, "name": "Sneasel", "primaryType": "Dark", "abilities": ["Inner focus", "Keen eye", "Pickpocket"], "secondaryType": "Ice"},
+{"dexNo": 216, "name": "Teddiursa", "primaryType": "Normal", "abilities": ["Pickup", "Quick feet", "Honey gather"]},
+{"dexNo": 217, "name": "Ursaring", "primaryType": "Normal", "abilities": ["Guts", "Quick feet", "Unnerve"]},
+{"dexNo": 218, "name": "Slugma", "primaryType": "Fire", "abilities": ["Magma armor", "Flame body", "Weak armor"]},
+{"dexNo": 219, "name": "Magcargo", "primaryType": "Fire", "abilities": ["Magma armor", "Flame body", "Weak armor"], "secondaryType": "Rock"},
+{"dexNo": 220, "name": "Swinub", "primaryType": "Ice", "abilities": ["Oblivious", "Snow cloak", "Thick fat"], "secondaryType": "Ground"},
+{"dexNo": 221, "name": "Piloswine", "primaryType": "Ice", "abilities": ["Oblivious", "Snow cloak", "Thick fat"], "secondaryType": "Ground"},
+{"dexNo": 222, "name": "Corsola", "primaryType": "Water", "abilities": ["Hustle", "Natural cure", "Regenerator"], "secondaryType": "Rock"},
+{"dexNo": 223, "name": "Remoraid", "primaryType": "Water", "abilities": ["Hustle", "Sniper", "Moody"]},
+{"dexNo": 224, "name": "Octillery", "primaryType": "Water", "abilities": ["Suction cups", "Sniper", "Moody"]},
+{"dexNo": 225, "name": "Delibird", "primaryType": "Ice", "abilities": ["Vital spirit", "Hustle", "Insomnia"], "secondaryType": "Flying"},
+{"dexNo": 226, "name": "Mantine", "primaryType": "Water", "abilities": ["Swift swim", "Water absorb", "Water veil"], "secondaryType": "Flying"},
+{"dexNo": 227, "name": "Skarmory", "primaryType": "Steel", "abilities": ["Keen eye", "Sturdy", "Weak armor"], "secondaryType": "Flying"},
+{"dexNo": 228, "name": "Houndour", "primaryType": "Dark", "abilities": ["Early bird", "Flash fire", "Unnerve"], "secondaryType": "Fire"},
+{"dexNo": 229, "name": "Houndoom", "primaryType": "Dark", "abilities": ["Early bird", "Flash fire", "Unnerve"], "secondaryType": "Fire"},
+{"dexNo": 230, "name": "Kingdra", "primaryType": "Water", "abilities": ["Swift swim", "Sniper", "Damp"], "secondaryType": "Dragon"},
+{"dexNo": 231, "name": "Phanpy", "primaryType": "Ground", "abilities": ["Pickup", "Sand veil"]},
+{"dexNo": 232, "name": "Donphan", "primaryType": "Ground", "abilities": ["Sturdy", "Sand veil"]},
+{"dexNo": 233, "name": "Porygon2", "primaryType": "Normal", "abilities": ["Trace", "Download", "Analytic"]},
+{"dexNo": 234, "name": "Stantler", "primaryType": "Normal", "abilities": ["Intimidate", "Frisk", "Sap sipper"]},
+{"dexNo": 235, "name": "Smeargle", "primaryType": "Normal", "abilities": ["Own tempo", "Technician", "Moody"]},
+{"dexNo": 236, "name": "Tyrogue", "primaryType": "Fighting", "abilities": ["Guts", "Steadfast", "Vital spirit"]},
+{"dexNo": 237, "name": "Hitmontop", "primaryType": "Fighting", "abilities": ["Intimidate", "Technician", "Steadfast"]},
+{"dexNo": 238, "name": "Smoochum", "primaryType": "Ice", "abilities": ["Oblivious", "Forewarn", "Hydration"], "secondaryType": "Psychic"},
+{"dexNo": 239, "name": "Elekid", "primaryType": "Electric", "abilities": ["Static", "Vital spirit"]},
+{"dexNo": 240, "name": "Magby", "primaryType": "Fire", "abilities": ["Flame body", "Vital spirit"]},
+{"dexNo": 241, "name": "Miltank", "primaryType": "Normal", "abilities": ["Thick fat", "Scrappy", "Sap sipper"]},
+{"dexNo": 242, "name": "Blissey", "primaryType": "Normal", "abilities": ["Natural cure", "Serene grace", "Healer"]},
+{"dexNo": 243, "name": "Raikou", "primaryType": "Electric", "abilities": ["Pressure", "Inner focus"]},
+{"dexNo": 244, "name": "Entei", "primaryType": "Fire", "abilities": ["Pressure", "Inner focus"]},
+{"dexNo": 245, "name": "Suicune", "primaryType": "Water", "abilities": ["Pressure", "Inner focus"]},
+{"dexNo": 246, "name": "Larvitar", "primaryType": "Rock", "abilities": ["Guts", "Sand veil"], "secondaryType": "Ground"},
+{"dexNo": 247, "name": "Pupitar", "primaryType": "Rock", "abilities": ["Shed skin"], "secondaryType": "Ground"},
+{"dexNo": 248, "name": "Tyranitar", "primaryType": "Rock", "abilities": ["Sand stream", "Unnerve"], "secondaryType": "Dark"},
+{"dexNo": 249, "name": "Lugia", "primaryType": "Psychic", "abilities": ["Pressure", "Multiscale"], "secondaryType": "Flying"},
+{"dexNo": 250, "name": "Ho-oh", "primaryType": "Fire", "abilities": ["Pressure", "Regenerator"], "secondaryType": "Flying"},
+{"dexNo": 251, "name": "Celebi", "primaryType": "Psychic", "abilities": ["Natural cure"], "secondaryType": "Grass"},
+{"dexNo": 252, "name": "Treecko", "primaryType": "Grass", "abilities": ["Overgrow", "Unburden"]},
+{"dexNo": 253, "name": "Grovyle", "primaryType": "Grass", "abilities": ["Overgrow", "Unburden"]},
+{"dexNo": 254, "name": "Sceptile", "primaryType": "Grass", "abilities": ["Overgrow", "Unburden"]},
+{"dexNo": 255, "name": "Torchic", "primaryType": "Fire", "abilities": ["Blaze", "Speed boost"]},
+{"dexNo": 256, "name": "Combusken", "primaryType": "Fire", "abilities": ["Blaze", "Speed boost"], "secondaryType": "Fighting"},
+{"dexNo": 257, "name": "Blaziken", "primaryType": "Fire", "abilities": ["Blaze", "Speed boost"], "secondaryType": "Fighting"},
+{"dexNo": 258, "name": "Mudkip", "primaryType": "Water", "abilities": ["Torrent", "Damp"]},
+{"dexNo": 259, "name": "Marshtomp", "primaryType": "Water", "abilities": ["Torrent", "Damp"], "secondaryType": "Ground"},
+{"dexNo": 260, "name": "Swampert", "primaryType": "Water", "abilities": ["Torrent", "Damp"], "secondaryType": "Ground"},
+{"dexNo": 261, "name": "Poochyena", "primaryType": "Dark", "abilities": ["Run away", "Quick feet", "Rattled"]},
+{"dexNo": 262, "name": "Mightyena", "primaryType": "Dark", "abilities": ["Intimidate", "Quick feet", "Moxie"]},
+{"dexNo": 263, "name": "Zigzagoon", "primaryType": "Normal", "abilities": ["Pickup", "Gluttony", "Quick feet"]},
+{"dexNo": 264, "name": "Linoone", "primaryType": "Normal", "abilities": ["Pickup", "Gluttony", "Quick feet"]},
+{"dexNo": 265, "name": "Wurmple", "primaryType": "Bug", "abilities": ["Shield dust", "Run away"]},
+{"dexNo": 266, "name": "Silcoon", "primaryType": "Bug", "abilities": ["Shed skin"]},
+{"dexNo": 267, "name": "Beautifly", "primaryType": "Bug", "abilities": ["Swarm", "Rivalry"], "secondaryType": "Flying"},
+{"dexNo": 268, "name": "Cascoon", "primaryType": "Bug", "abilities": ["Shed skin"]},
+{"dexNo": 269, "name": "Dustox", "primaryType": "Bug", "abilities": ["Shield dust", "Compound eyes"], "secondaryType": "Poison"},
+{"dexNo": 270, "name": "Lotad", "primaryType": "Water", "abilities": ["Swift swim", "Rain dish", "Own tempo"], "secondaryType": "Grass"},
+{"dexNo": 271, "name": "Lombre", "primaryType": "Water", "abilities": ["Swift swim", "Rain dish", "Own tempo"], "secondaryType": "Grass"},
+{"dexNo": 272, "name": "Ludicolo", "primaryType": "Water", "abilities": ["Swift swim", "Rain dish", "Own tempo"], "secondaryType": "Grass"},
+{"dexNo": 273, "name": "Seedot", "primaryType": "Grass", "abilities": ["Chlorophyll", "Early bird", "Pickpocket"]},
+{"dexNo": 274, "name": "Nuzleaf", "primaryType": "Grass", "abilities": ["Chlorophyll", "Early bird", "Pickpocket"], "secondaryType": "Dark"},
+{"dexNo": 275, "name": "Shiftry", "primaryType": "Grass", "abilities": ["Chlorophyll", "Wind rider", "Pickpocket"], "secondaryType": "Dark"},
+{"dexNo": 276, "name": "Taillow", "primaryType": "Normal", "abilities": ["Guts", "Scrappy"], "secondaryType": "Flying"},
+{"dexNo": 277, "name": "Swellow", "primaryType": "Normal", "abilities": ["Guts", "Scrappy"], "secondaryType": "Flying"},
+{"dexNo": 278, "name": "Wingull", "primaryType": "Water", "abilities": ["Keen eye", "Hydration", "Rain dish"], "secondaryType": "Flying"},
+{"dexNo": 279, "name": "Pelipper", "primaryType": "Water", "abilities": ["Keen eye", "Drizzle", "Rain dish"], "secondaryType": "Flying"},
+{"dexNo": 280, "name": "Ralts", "primaryType": "Psychic", "abilities": ["Synchronize", "Trace", "Telepathy"], "secondaryType": "Fairy"},
+{"dexNo": 281, "name": "Kirlia", "primaryType": "Psychic", "abilities": ["Synchronize", "Trace", "Telepathy"], "secondaryType": "Fairy"},
+{"dexNo": 282, "name": "Gardevoir", "primaryType": "Psychic", "abilities": ["Synchronize", "Trace", "Telepathy"], "secondaryType": "Fairy"},
+{"dexNo": 283, "name": "Surskit", "primaryType": "Bug", "abilities": ["Swift swim", "Rain dish"], "secondaryType": "Water"},
+{"dexNo": 284, "name": "Masquerain", "primaryType": "Bug", "abilities": ["Intimidate", "Unnerve"], "secondaryType": "Flying"},
+{"dexNo": 285, "name": "Shroomish", "primaryType": "Grass", "abilities": ["Effect spore", "Poison heal", "Quick feet"]},
+{"dexNo": 286, "name": "Breloom", "primaryType": "Grass", "abilities": ["Effect spore", "Poison heal", "Technician"], "secondaryType": "Fighting"},
+{"dexNo": 287, "name": "Slakoth", "primaryType": "Normal", "abilities": ["Truant"]},
+{"dexNo": 288, "name": "Vigoroth", "primaryType": "Normal", "abilities": ["Vital spirit"]},
+{"dexNo": 289, "name": "Slaking", "primaryType": "Normal", "abilities": ["Truant"]},
+{"dexNo": 290, "name": "Nincada", "primaryType": "Bug", "abilities": ["Compound eyes", "Run away"], "secondaryType": "Ground"},
+{"dexNo": 291, "name": "Ninjask", "primaryType": "Bug", "abilities": ["Speed boost", "Infiltrator"], "secondaryType": "Flying"},
+{"dexNo": 292, "name": "Shedinja", "primaryType": "Bug", "abilities": ["Wonder guard"], "secondaryType": "Ghost"},
+{"dexNo": 293, "name": "Whismur", "primaryType": "Normal", "abilities": ["Soundproof", "Rattled"]},
+{"dexNo": 294, "name": "Loudred", "primaryType": "Normal", "abilities": ["Soundproof", "Scrappy"]},
+{"dexNo": 295, "name": "Exploud", "primaryType": "Normal", "abilities": ["Soundproof", "Scrappy"]},
+{"dexNo": 296, "name": "Makuhita", "primaryType": "Fighting", "abilities": ["Thick fat", "Guts", "Sheer force"]},
+{"dexNo": 297, "name": "Hariyama", "primaryType": "Fighting", "abilities": ["Thick fat", "Guts", "Sheer force"]},
+{"dexNo": 298, "name": "Azurill", "primaryType": "Normal", "abilities": ["Thick fat", "Huge power", "Sap sipper"], "secondaryType": "Fairy"},
+{"dexNo": 299, "name": "Nosepass", "primaryType": "Rock", "abilities": ["Sturdy", "Magnet pull", "Sand force"]},
+{"dexNo": 300, "name": "Skitty", "primaryType": "Normal", "abilities": ["Cute charm", "Normalize", "Wonder skin"]},
+{"dexNo": 301, "name": "Delcatty", "primaryType": "Normal", "abilities": ["Cute charm", "Normalize", "Wonder skin"]},
+{"dexNo": 302, "name": "Sableye", "primaryType": "Dark", "abilities": ["Keen eye", "Stall", "Prankster"], "secondaryType": "Ghost"},
+{"dexNo": 303, "name": "Mawile", "primaryType": "Steel", "abilities": ["Hyper cutter", "Intimidate", "Sheer force"], "secondaryType": "Fairy"},
+{"dexNo": 304, "name": "Aron", "primaryType": "Steel", "abilities": ["Sturdy", "Rock head", "Heavy metal"], "secondaryType": "Rock"},
+{"dexNo": 305, "name": "Lairon", "primaryType": "Steel", "abilities": ["Sturdy", "Rock head", "Heavy metal"], "secondaryType": "Rock"},
+{"dexNo": 306, "name": "Aggron", "primaryType": "Steel", "abilities": ["Sturdy", "Rock head", "Heavy metal"], "secondaryType": "Rock"},
+{"dexNo": 307, "name": "Meditite", "primaryType": "Fighting", "abilities": ["Pure power", "Telepathy"], "secondaryType": "Psychic"},
+{"dexNo": 308, "name": "Medicham", "primaryType": "Fighting", "abilities": ["Pure power", "Telepathy"], "secondaryType": "Psychic"},
+{"dexNo": 309, "name": "Electrike", "primaryType": "Electric", "abilities": ["Static", "Lightning rod", "Minus"]},
+{"dexNo": 310, "name": "Manectric", "primaryType": "Electric", "abilities": ["Static", "Lightning rod", "Minus"]},
+{"dexNo": 311, "name": "Plusle", "primaryType": "Electric", "abilities": ["Plus", "Lightning rod"]},
+{"dexNo": 312, "name": "Minun", "primaryType": "Electric", "abilities": ["Minus", "Volt absorb"]},
+{"dexNo": 313, "name": "Volbeat", "primaryType": "Bug", "abilities": ["Illuminate", "Swarm", "Prankster"]},
+{"dexNo": 314, "name": "Illumise", "primaryType": "Bug", "abilities": ["Oblivious", "Tinted lens", "Prankster"]},
+{"dexNo": 315, "name": "Roselia", "primaryType": "Grass", "abilities": ["Natural cure", "Poison point", "Leaf guard"], "secondaryType": "Poison"},
+{"dexNo": 316, "name": "Gulpin", "primaryType": "Poison", "abilities": ["Liquid ooze", "Sticky hold", "Gluttony"]},
+{"dexNo": 317, "name": "Swalot", "primaryType": "Poison", "abilities": ["Liquid ooze", "Sticky hold", "Gluttony"]},
+{"dexNo": 318, "name": "Carvanha", "primaryType": "Water", "abilities": ["Rough skin", "Speed boost"], "secondaryType": "Dark"},
+{"dexNo": 319, "name": "Sharpedo", "primaryType": "Water", "abilities": ["Rough skin", "Speed boost"], "secondaryType": "Dark"},
+{"dexNo": 320, "name": "Wailmer", "primaryType": "Water", "abilities": ["Water veil", "Oblivious", "Pressure"]},
+{"dexNo": 321, "name": "Wailord", "primaryType": "Water", "abilities": ["Water veil", "Oblivious", "Pressure"]},
+{"dexNo": 322, "name": "Numel", "primaryType": "Fire", "abilities": ["Oblivious", "Simple", "Own tempo"], "secondaryType": "Ground"},
+{"dexNo": 323, "name": "Camerupt", "primaryType": "Fire", "abilities": ["Magma armor", "Solid rock", "Anger point"], "secondaryType": "Ground"},
+{"dexNo": 324, "name": "Torkoal", "primaryType": "Fire", "abilities": ["White smoke", "Drought", "Shell armor"]},
+{"dexNo": 325, "name": "Spoink", "primaryType": "Psychic", "abilities": ["Thick fat", "Own tempo", "Gluttony"]},
+{"dexNo": 326, "name": "Grumpig", "primaryType": "Psychic", "abilities": ["Thick fat", "Own tempo", "Gluttony"]},
+{"dexNo": 327, "name": "Spinda", "primaryType": "Normal", "abilities": ["Own tempo", "Tangled feet", "Contrary"]},
+{"dexNo": 328, "name": "Trapinch", "primaryType": "Ground", "abilities": ["Hyper cutter", "Arena trap", "Sheer force"]},
+{"dexNo": 329, "name": "Vibrava", "primaryType": "Ground", "abilities": ["Levitate"], "secondaryType": "Dragon"},
+{"dexNo": 330, "name": "Flygon", "primaryType": "Ground", "abilities": ["Levitate"], "secondaryType": "Dragon"},
+{"dexNo": 331, "name": "Cacnea", "primaryType": "Grass", "abilities": ["Sand veil", "Water absorb"]},
+{"dexNo": 332, "name": "Cacturne", "primaryType": "Grass", "abilities": ["Sand veil", "Water absorb"], "secondaryType": "Dark"},
+{"dexNo": 333, "name": "Swablu", "primaryType": "Normal", "abilities": ["Natural cure", "Cloud nine"], "secondaryType": "Flying"},
+{"dexNo": 334, "name": "Altaria", "primaryType": "Dragon", "abilities": ["Natural cure", "Cloud nine"], "secondaryType": "Flying"},
+{"dexNo": 335, "name": "Zangoose", "primaryType": "Normal", "abilities": ["Immunity", "Toxic boost"]},
+{"dexNo": 336, "name": "Seviper", "primaryType": "Poison", "abilities": ["Shed skin", "Infiltrator"]},
+{"dexNo": 337, "name": "Lunatone", "primaryType": "Rock", "abilities": ["Levitate"], "secondaryType": "Psychic"},
+{"dexNo": 338, "name": "Solrock", "primaryType": "Rock", "abilities": ["Levitate"], "secondaryType": "Psychic"},
+{"dexNo": 339, "name": "Barboach", "primaryType": "Water", "abilities": ["Oblivious", "Anticipation", "Hydration"], "secondaryType": "Ground"},
+{"dexNo": 340, "name": "Whiscash", "primaryType": "Water", "abilities": ["Oblivious", "Anticipation", "Hydration"], "secondaryType": "Ground"},
+{"dexNo": 341, "name": "Corphish", "primaryType": "Water", "abilities": ["Hyper cutter", "Shell armor", "Adaptability"]},
+{"dexNo": 342, "name": "Crawdaunt", "primaryType": "Water", "abilities": ["Hyper cutter", "Shell armor", "Adaptability"], "secondaryType": "Dark"},
+{"dexNo": 343, "name": "Baltoy", "primaryType": "Ground", "abilities": ["Levitate"], "secondaryType": "Psychic"},
+{"dexNo": 344, "name": "Claydol", "primaryType": "Ground", "abilities": ["Levitate"], "secondaryType": "Psychic"},
+{"dexNo": 345, "name": "Lileep", "primaryType": "Rock", "abilities": ["Suction cups", "Storm drain"], "secondaryType": "Grass"},
+{"dexNo": 346, "name": "Cradily", "primaryType": "Rock", "abilities": ["Suction cups", "Storm drain"], "secondaryType": "Grass"},
+{"dexNo": 347, "name": "Anorith", "primaryType": "Rock", "abilities": ["Battle armor", "Swift swim"], "secondaryType": "Bug"},
+{"dexNo": 348, "name": "Armaldo", "primaryType": "Rock", "abilities": ["Battle armor", "Swift swim"], "secondaryType": "Bug"},
+{"dexNo": 349, "name": "Feebas", "primaryType": "Water", "abilities": ["Swift swim", "Oblivious", "Adaptability"]},
+{"dexNo": 350, "name": "Milotic", "primaryType": "Water", "abilities": ["Marvel scale", "Competitive", "Cute charm"]},
+{"dexNo": 351, "name": "Castform", "primaryType": "Normal", "abilities": ["Forecast"]},
+{"dexNo": 352, "name": "Kecleon", "primaryType": "Normal", "abilities": ["Color change", "Protean"]},
+{"dexNo": 353, "name": "Shuppet", "primaryType": "Ghost", "abilities": ["Insomnia", "Frisk", "Cursed body"]},
+{"dexNo": 354, "name": "Banette", "primaryType": "Ghost", "abilities": ["Insomnia", "Frisk", "Cursed body"]},
+{"dexNo": 355, "name": "Duskull", "primaryType": "Ghost", "abilities": ["Levitate", "Frisk"]},
+{"dexNo": 356, "name": "Dusclops", "primaryType": "Ghost", "abilities": ["Pressure", "Frisk"]},
+{"dexNo": 357, "name": "Tropius", "primaryType": "Grass", "abilities": ["Chlorophyll", "Solar power", "Harvest"], "secondaryType": "Flying"},
+{"dexNo": 358, "name": "Chimecho", "primaryType": "Psychic", "abilities": ["Levitate"]},
+{"dexNo": 359, "name": "Absol", "primaryType": "Dark", "abilities": ["Pressure", "Super luck", "Justified"]},
+{"dexNo": 360, "name": "Wynaut", "primaryType": "Psychic", "abilities": ["Shadow tag", "Telepathy"]},
+{"dexNo": 361, "name": "Snorunt", "primaryType": "Ice", "abilities": ["Inner focus", "Ice body", "Moody"]},
+{"dexNo": 362, "name": "Glalie", "primaryType": "Ice", "abilities": ["Inner focus", "Ice body", "Moody"]},
+{"dexNo": 363, "name": "Spheal", "primaryType": "Ice", "abilities": ["Thick fat", "Ice body", "Oblivious"], "secondaryType": "Water"},
+{"dexNo": 364, "name": "Sealeo", "primaryType": "Ice", "abilities": ["Thick fat", "Ice body", "Oblivious"], "secondaryType": "Water"},
+{"dexNo": 365, "name": "Walrein", "primaryType": "Ice", "abilities": ["Thick fat", "Ice body", "Oblivious"], "secondaryType": "Water"},
+{"dexNo": 366, "name": "Clamperl", "primaryType": "Water", "abilities": ["Shell armor", "Rattled"]},
+{"dexNo": 367, "name": "Huntail", "primaryType": "Water", "abilities": ["Swift swim", "Water veil"]},
+{"dexNo": 368, "name": "Gorebyss", "primaryType": "Water", "abilities": ["Swift swim", "Hydration"]},
+{"dexNo": 369, "name": "Relicanth", "primaryType": "Water", "abilities": ["Swift swim", "Rock head", "Sturdy"], "secondaryType": "Rock"},
+{"dexNo": 370, "name": "Luvdisc", "primaryType": "Water", "abilities": ["Swift swim", "Hydration"]},
+{"dexNo": 371, "name": "Bagon", "primaryType": "Dragon", "abilities": ["Rock head", "Sheer force"]},
+{"dexNo": 372, "name": "Shelgon", "primaryType": "Dragon", "abilities": ["Rock head", "Overcoat"]},
+{"dexNo": 373, "name": "Salamence", "primaryType": "Dragon", "abilities": ["Intimidate", "Moxie"], "secondaryType": "Flying"},
+{"dexNo": 374, "name": "Beldum", "primaryType": "Steel", "abilities": ["Clear body", "Light metal"], "secondaryType": "Psychic"},
+{"dexNo": 375, "name": "Metang", "primaryType": "Steel", "abilities": ["Clear body", "Light metal"], "secondaryType": "Psychic"},
+{"dexNo": 376, "name": "Metagross", "primaryType": "Steel", "abilities": ["Clear body", "Light metal"], "secondaryType": "Psychic"},
+{"dexNo": 377, "name": "Regirock", "primaryType": "Rock", "abilities": ["Clear body", "Sturdy"]},
+{"dexNo": 378, "name": "Regice", "primaryType": "Ice", "abilities": ["Clear body", "Ice body"]},
+{"dexNo": 379, "name": "Registeel", "primaryType": "Steel", "abilities": ["Clear body", "Light metal"]},
+{"dexNo": 380, "name": "Latias", "primaryType": "Dragon", "abilities": ["Levitate"], "secondaryType": "Psychic"},
+{"dexNo": 381, "name": "Latios", "primaryType": "Dragon", "abilities": ["Levitate"], "secondaryType": "Psychic"},
+{"dexNo": 382, "name": "Kyogre", "primaryType": "Water", "abilities": ["Drizzle"]},
+{"dexNo": 383, "name": "Groudon", "primaryType": "Ground", "abilities": ["Drought"]},
+{"dexNo": 384, "name": "Rayquaza", "primaryType": "Dragon", "abilities": ["Air lock"], "secondaryType": "Flying"},
+{"dexNo": 385, "name": "Jirachi", "primaryType": "Steel", "abilities": ["Serene grace"], "secondaryType": "Psychic"},
+{"dexNo": 386, "name": "Deoxys-normal", "primaryType": "Psychic", "abilities": ["Pressure"]},
+{"dexNo": 387, "name": "Turtwig", "primaryType": "Grass", "abilities": ["Overgrow", "Shell armor"]},
+{"dexNo": 388, "name": "Grotle", "primaryType": "Grass", "abilities": ["Overgrow", "Shell armor"]},
+{"dexNo": 389, "name": "Torterra", "primaryType": "Grass", "abilities": ["Overgrow", "Shell armor"], "secondaryType": "Ground"},
+{"dexNo": 390, "name": "Chimchar", "primaryType": "Fire", "abilities": ["Blaze", "Iron fist"]},
+{"dexNo": 391, "name": "Monferno", "primaryType": "Fire", "abilities": ["Blaze", "Iron fist"], "secondaryType": "Fighting"},
+{"dexNo": 392, "name": "Infernape", "primaryType": "Fire", "abilities": ["Blaze", "Iron fist"], "secondaryType": "Fighting"},
+{"dexNo": 393, "name": "Piplup", "primaryType": "Water", "abilities": ["Torrent", "Competitive"]},
+{"dexNo": 394, "name": "Prinplup", "primaryType": "Water", "abilities": ["Torrent", "Competitive"]},
+{"dexNo": 395, "name": "Empoleon", "primaryType": "Water", "abilities": ["Torrent", "Competitive"], "secondaryType": "Steel"},
+{"dexNo": 396, "name": "Starly", "primaryType": "Normal", "abilities": ["Keen eye", "Reckless"], "secondaryType": "Flying"},
+{"dexNo": 397, "name": "Staravia", "primaryType": "Normal", "abilities": ["Intimidate", "Reckless"], "secondaryType": "Flying"},
+{"dexNo": 398, "name": "Staraptor", "primaryType": "Normal", "abilities": ["Intimidate", "Reckless"], "secondaryType": "Flying"},
+{"dexNo": 399, "name": "Bidoof", "primaryType": "Normal", "abilities": ["Simple", "Unaware", "Moody"]},
+{"dexNo": 400, "name": "Bibarel", "primaryType": "Normal", "abilities": ["Simple", "Unaware", "Moody"], "secondaryType": "Water"},
+{"dexNo": 401, "name": "Kricketot", "primaryType": "Bug", "abilities": ["Shed skin", "Run away"]},
+{"dexNo": 402, "name": "Kricketune", "primaryType": "Bug", "abilities": ["Swarm", "Technician"]},
+{"dexNo": 403, "name": "Shinx", "primaryType": "Electric", "abilities": ["Rivalry", "Intimidate", "Guts"]},
+{"dexNo": 404, "name": "Luxio", "primaryType": "Electric", "abilities": ["Rivalry", "Intimidate", "Guts"]},
+{"dexNo": 405, "name": "Luxray", "primaryType": "Electric", "abilities": ["Rivalry", "Intimidate", "Guts"]},
+{"dexNo": 406, "name": "Budew", "primaryType": "Grass", "abilities": ["Natural cure", "Poison point", "Leaf guard"], "secondaryType": "Poison"},
+{"dexNo": 407, "name": "Roserade", "primaryType": "Grass", "abilities": ["Natural cure", "Poison point", "Technician"], "secondaryType": "Poison"},
+{"dexNo": 408, "name": "Cranidos", "primaryType": "Rock", "abilities": ["Mold breaker", "Sheer force"]},
+{"dexNo": 409, "name": "Rampardos", "primaryType": "Rock", "abilities": ["Mold breaker", "Sheer force"]},
+{"dexNo": 410, "name": "Shieldon", "primaryType": "Rock", "abilities": ["Sturdy", "Soundproof"], "secondaryType": "Steel"},
+{"dexNo": 411, "name": "Bastiodon", "primaryType": "Rock", "abilities": ["Sturdy", "Soundproof"], "secondaryType": "Steel"},
+{"dexNo": 412, "name": "Burmy", "primaryType": "Bug", "abilities": ["Shed skin", "Overcoat"]},
+{"dexNo": 413, "name": "Wormadam-plant", "primaryType": "Bug", "abilities": ["Anticipation", "Overcoat"], "secondaryType": "Grass"},
+{"dexNo": 414, "name": "Mothim", "primaryType": "Bug", "abilities": ["Swarm", "Tinted lens"], "secondaryType": "Flying"},
+{"dexNo": 415, "name": "Combee", "primaryType": "Bug", "abilities": ["Honey gather", "Hustle"], "secondaryType": "Flying"},
+{"dexNo": 416, "name": "Vespiquen", "primaryType": "Bug", "abilities": ["Pressure", "Unnerve"], "secondaryType": "Flying"},
+{"dexNo": 417, "name": "Pachirisu", "primaryType": "Electric", "abilities": ["Run away", "Pickup", "Volt absorb"]},
+{"dexNo": 418, "name": "Buizel", "primaryType": "Water", "abilities": ["Swift swim", "Water veil"]},
+{"dexNo": 419, "name": "Floatzel", "primaryType": "Water", "abilities": ["Swift swim", "Water veil"]},
+{"dexNo": 420, "name": "Cherubi", "primaryType": "Grass", "abilities": ["Chlorophyll"]},
+{"dexNo": 421, "name": "Cherrim", "primaryType": "Grass", "abilities": ["Flower gift"]},
+{"dexNo": 422, "name": "Shellos", "primaryType": "Water", "abilities": ["Sticky hold", "Storm drain", "Sand force"]},
+{"dexNo": 423, "name": "Gastrodon", "primaryType": "Water", "abilities": ["Sticky hold", "Storm drain", "Sand force"], "secondaryType": "Ground"},
+{"dexNo": 424, "name": "Ambipom", "primaryType": "Normal", "abilities": ["Technician", "Pickup", "Skill link"]},
+{"dexNo": 425, "name": "Drifloon", "primaryType": "Ghost", "abilities": ["Aftermath", "Unburden", "Flare boost"], "secondaryType": "Flying"},
+{"dexNo": 426, "name": "Drifblim", "primaryType": "Ghost", "abilities": ["Aftermath", "Unburden", "Flare boost"], "secondaryType": "Flying"},
+{"dexNo": 427, "name": "Buneary", "primaryType": "Normal", "abilities": ["Run away", "Klutz", "Limber"]},
+{"dexNo": 428, "name": "Lopunny", "primaryType": "Normal", "abilities": ["Cute charm", "Klutz", "Limber"]},
+{"dexNo": 429, "name": "Mismagius", "primaryType": "Ghost", "abilities": ["Levitate"]},
+{"dexNo": 430, "name": "Honchkrow", "primaryType": "Dark", "abilities": ["Insomnia", "Super luck", "Moxie"], "secondaryType": "Flying"},
+{"dexNo": 431, "name": "Glameow", "primaryType": "Normal", "abilities": ["Limber", "Own tempo", "Keen eye"]},
+{"dexNo": 432, "name": "Purugly", "primaryType": "Normal", "abilities": ["Thick fat", "Own tempo", "Defiant"]},
+{"dexNo": 433, "name": "Chingling", "primaryType": "Psychic", "abilities": ["Levitate"]},
+{"dexNo": 434, "name": "Stunky", "primaryType": "Poison", "abilities": ["Stench", "Aftermath", "Keen eye"], "secondaryType": "Dark"},
+{"dexNo": 435, "name": "Skuntank", "primaryType": "Poison", "abilities": ["Stench", "Aftermath", "Keen eye"], "secondaryType": "Dark"},
+{"dexNo": 436, "name": "Bronzor", "primaryType": "Steel", "abilities": ["Levitate", "Heatproof", "Heavy metal"], "secondaryType": "Psychic"},
+{"dexNo": 437, "name": "Bronzong", "primaryType": "Steel", "abilities": ["Levitate", "Heatproof", "Heavy metal"], "secondaryType": "Psychic"},
+{"dexNo": 438, "name": "Bonsly", "primaryType": "Rock", "abilities": ["Sturdy", "Rock head", "Rattled"]},
+{"dexNo": 439, "name": "Mime-jr", "primaryType": "Psychic", "abilities": ["Soundproof", "Filter", "Technician"], "secondaryType": "Fairy"},
+{"dexNo": 440, "name": "Happiny", "primaryType": "Normal", "abilities": ["Natural cure", "Serene grace", "Friend guard"]},
+{"dexNo": 441, "name": "Chatot", "primaryType": "Normal", "abilities": ["Keen eye", "Tangled feet", "Big pecks"], "secondaryType": "Flying"},
+{"dexNo": 442, "name": "Spiritomb", "primaryType": "Ghost", "abilities": ["Pressure", "Infiltrator"], "secondaryType": "Dark"},
+{"dexNo": 443, "name": "Gible", "primaryType": "Dragon", "abilities": ["Sand veil", "Rough skin"], "secondaryType": "Ground"},
+{"dexNo": 444, "name": "Gabite", "primaryType": "Dragon", "abilities": ["Sand veil", "Rough skin"], "secondaryType": "Ground"},
+{"dexNo": 445, "name": "Garchomp", "primaryType": "Dragon", "abilities": ["Sand veil", "Rough skin"], "secondaryType": "Ground"},
+{"dexNo": 446, "name": "Munchlax", "primaryType": "Normal", "abilities": ["Pickup", "Thick fat", "Gluttony"]},
+{"dexNo": 447, "name": "Riolu", "primaryType": "Fighting", "abilities": ["Steadfast", "Inner focus", "Prankster"]},
+{"dexNo": 448, "name": "Lucario", "primaryType": "Fighting", "abilities": ["Steadfast", "Inner focus", "Justified"], "secondaryType": "Steel"},
+{"dexNo": 449, "name": "Hippopotas", "primaryType": "Ground", "abilities": ["Sand stream", "Sand force"]},
+{"dexNo": 450, "name": "Hippowdon", "primaryType": "Ground", "abilities": ["Sand stream", "Sand force"]},
+{"dexNo": 451, "name": "Skorupi", "primaryType": "Poison", "abilities": ["Battle armor", "Sniper", "Keen eye"], "secondaryType": "Bug"},
+{"dexNo": 452, "name": "Drapion", "primaryType": "Poison", "abilities": ["Battle armor", "Sniper", "Keen eye"], "secondaryType": "Dark"},
+{"dexNo": 453, "name": "Croagunk", "primaryType": "Poison", "abilities": ["Anticipation", "Dry skin", "Poison touch"], "secondaryType": "Fighting"},
+{"dexNo": 454, "name": "Toxicroak", "primaryType": "Poison", "abilities": ["Anticipation", "Dry skin", "Poison touch"], "secondaryType": "Fighting"},
+{"dexNo": 455, "name": "Carnivine", "primaryType": "Grass", "abilities": ["Levitate"]},
+{"dexNo": 456, "name": "Finneon", "primaryType": "Water", "abilities": ["Swift swim", "Storm drain", "Water veil"]},
+{"dexNo": 457, "name": "Lumineon", "primaryType": "Water", "abilities": ["Swift swim", "Storm drain", "Water veil"]},
+{"dexNo": 458, "name": "Mantyke", "primaryType": "Water", "abilities": ["Swift swim", "Water absorb", "Water veil"], "secondaryType": "Flying"},
+{"dexNo": 459, "name": "Snover", "primaryType": "Grass", "abilities": ["Snow warning", "Soundproof"], "secondaryType": "Ice"},
+{"dexNo": 460, "name": "Abomasnow", "primaryType": "Grass", "abilities": ["Snow warning", "Soundproof"], "secondaryType": "Ice"},
+{"dexNo": 461, "name": "Weavile", "primaryType": "Dark", "abilities": ["Pressure", "Pickpocket"], "secondaryType": "Ice"},
+{"dexNo": 462, "name": "Magnezone", "primaryType": "Electric", "abilities": ["Magnet pull", "Sturdy", "Analytic"], "secondaryType": "Steel"},
+{"dexNo": 463, "name": "Lickilicky", "primaryType": "Normal", "abilities": ["Own tempo", "Oblivious", "Cloud nine"]},
+{"dexNo": 464, "name": "Rhyperior", "primaryType": "Ground", "abilities": ["Lightning rod", "Solid rock", "Reckless"], "secondaryType": "Rock"},
+{"dexNo": 465, "name": "Tangrowth", "primaryType": "Grass", "abilities": ["Chlorophyll", "Leaf guard", "Regenerator"]},
+{"dexNo": 466, "name": "Electivire", "primaryType": "Electric", "abilities": ["Motor drive", "Vital spirit"]},
+{"dexNo": 467, "name": "Magmortar", "primaryType": "Fire", "abilities": ["Flame body", "Vital spirit"]},
+{"dexNo": 468, "name": "Togekiss", "primaryType": "Fairy", "abilities": ["Hustle", "Serene grace", "Super luck"], "secondaryType": "Flying"},
+{"dexNo": 469, "name": "Yanmega", "primaryType": "Bug", "abilities": ["Speed boost", "Tinted lens", "Frisk"], "secondaryType": "Flying"},
+{"dexNo": 470, "name": "Leafeon", "primaryType": "Grass", "abilities": ["Leaf guard", "Chlorophyll"]},
+{"dexNo": 471, "name": "Glaceon", "primaryType": "Ice", "abilities": ["Snow cloak", "Ice body"]},
+{"dexNo": 472, "name": "Gliscor", "primaryType": "Ground", "abilities": ["Hyper cutter", "Sand veil", "Poison heal"], "secondaryType": "Flying"},
+{"dexNo": 473, "name": "Mamoswine", "primaryType": "Ice", "abilities": ["Oblivious", "Snow cloak", "Thick fat"], "secondaryType": "Ground"},
+{"dexNo": 474, "name": "Porygon-z", "primaryType": "Normal", "abilities": ["Adaptability", "Download", "Analytic"]},
+{"dexNo": 475, "name": "Gallade", "primaryType": "Psychic", "abilities": ["Steadfast", "Sharpness", "Justified"], "secondaryType": "Fighting"},
+{"dexNo": 476, "name": "Probopass", "primaryType": "Rock", "abilities": ["Sturdy", "Magnet pull", "Sand force"], "secondaryType": "Steel"},
+{"dexNo": 477, "name": "Dusknoir", "primaryType": "Ghost", "abilities": ["Pressure", "Frisk"]},
+{"dexNo": 478, "name": "Froslass", "primaryType": "Ice", "abilities": ["Snow cloak", "Cursed body"], "secondaryType": "Ghost"},
+{"dexNo": 479, "name": "Rotom", "primaryType": "Electric", "abilities": ["Levitate"], "secondaryType": "Ghost"},
+{"dexNo": 480, "name": "Uxie", "primaryType": "Psychic", "abilities": ["Levitate"]},
+{"dexNo": 481, "name": "Mesprit", "primaryType": "Psychic", "abilities": ["Levitate"]},
+{"dexNo": 482, "name": "Azelf", "primaryType": "Psychic", "abilities": ["Levitate"]},
+{"dexNo": 483, "name": "Dialga", "primaryType": "Steel", "abilities": ["Pressure", "Telepathy"], "secondaryType": "Dragon"},
+{"dexNo": 484, "name": "Palkia", "primaryType": "Water", "abilities": ["Pressure", "Telepathy"], "secondaryType": "Dragon"},
+{"dexNo": 485, "name": "Heatran", "primaryType": "Fire", "abilities": ["Flash fire", "Flame body"], "secondaryType": "Steel"},
+{"dexNo": 486, "name": "Regigigas", "primaryType": "Normal", "abilities": ["Slow start"]},
+{"dexNo": 487, "name": "Giratina-altered", "primaryType": "Ghost", "abilities": ["Pressure", "Telepathy"], "secondaryType": "Dragon"},
+{"dexNo": 488, "name": "Cresselia", "primaryType": "Psychic", "abilities": ["Levitate"]},
+{"dexNo": 489, "name": "Phione", "primaryType": "Water", "abilities": ["Hydration"]},
+{"dexNo": 490, "name": "Manaphy", "primaryType": "Water", "abilities": ["Hydration"]},
+{"dexNo": 491, "name": "Darkrai", "primaryType": "Dark", "abilities": ["Bad dreams"]},
+{"dexNo": 492, "name": "Shaymin-land", "primaryType": "Grass", "abilities": ["Natural cure"]},
+{"dexNo": 493, "name": "Arceus", "primaryType": "Normal", "abilities": ["Multitype"]},
+{"dexNo": 494, "name": "Victini", "primaryType": "Psychic", "abilities": ["Victory star"], "secondaryType": "Fire"},
+{"dexNo": 495, "name": "Snivy", "primaryType": "Grass", "abilities": ["Overgrow", "Contrary"]},
+{"dexNo": 496, "name": "Servine", "primaryType": "Grass", "abilities": ["Overgrow", "Contrary"]},
+{"dexNo": 498, "name": "Tepig", "primaryType": "Fire", "abilities": ["Blaze", "Thick fat"]},
+{"dexNo": 499, "name": "Pignite", "primaryType": "Fire", "abilities": ["Blaze", "Thick fat"], "secondaryType": "Fighting"},
+{"dexNo": 500, "name": "Emboar", "primaryType": "Fire", "abilities": ["Blaze", "Reckless"], "secondaryType": "Fighting"},
+{"dexNo": 501, "name": "Oshawott", "primaryType": "Water", "abilities": ["Torrent", "Shell armor"]},
+{"dexNo": 502, "name": "Dewott", "primaryType": "Water", "abilities": ["Torrent", "Shell armor"]},
+{"dexNo": 503, "name": "Samurott", "primaryType": "Water", "abilities": ["Torrent", "Shell armor"]},
+{"dexNo": 504, "name": "Patrat", "primaryType": "Normal", "abilities": ["Run away", "Keen eye", "Analytic"]},
+{"dexNo": 505, "name": "Watchog", "primaryType": "Normal", "abilities": ["Illuminate", "Keen eye", "Analytic"]},
+{"dexNo": 506, "name": "Lillipup", "primaryType": "Normal", "abilities": ["Vital spirit", "Pickup", "Run away"]},
+{"dexNo": 507, "name": "Herdier", "primaryType": "Normal", "abilities": ["Intimidate", "Sand rush", "Scrappy"]},
+{"dexNo": 508, "name": "Stoutland", "primaryType": "Normal", "abilities": ["Intimidate", "Sand rush", "Scrappy"]},
+{"dexNo": 509, "name": "Purrloin", "primaryType": "Dark", "abilities": ["Limber", "Unburden", "Prankster"]},
+{"dexNo": 510, "name": "Liepard", "primaryType": "Dark", "abilities": ["Limber", "Unburden", "Prankster"]},
+{"dexNo": 511, "name": "Pansage", "primaryType": "Grass", "abilities": ["Gluttony", "Overgrow"]},
+{"dexNo": 512, "name": "Simisage", "primaryType": "Grass", "abilities": ["Gluttony", "Overgrow"]},
+{"dexNo": 513, "name": "Pansear", "primaryType": "Fire", "abilities": ["Gluttony", "Blaze"]},
+{"dexNo": 514, "name": "Simisear", "primaryType": "Fire", "abilities": ["Gluttony", "Blaze"]},
+{"dexNo": 515, "name": "Panpour", "primaryType": "Water", "abilities": ["Gluttony", "Torrent"]},
+{"dexNo": 516, "name": "Simipour", "primaryType": "Water", "abilities": ["Gluttony", "Torrent"]},
+{"dexNo": 517, "name": "Munna", "primaryType": "Psychic", "abilities": ["Forewarn", "Synchronize", "Telepathy"]},
+{"dexNo": 518, "name": "Musharna", "primaryType": "Psychic", "abilities": ["Forewarn", "Synchronize", "Telepathy"]},
+{"dexNo": 519, "name": "Pidove", "primaryType": "Normal", "abilities": ["Big pecks", "Super luck", "Rivalry"], "secondaryType": "Flying"},
+{"dexNo": 520, "name": "Tranquill", "primaryType": "Normal", "abilities": ["Big pecks", "Super luck", "Rivalry"], "secondaryType": "Flying"},
+{"dexNo": 521, "name": "Unfezant", "primaryType": "Normal", "abilities": ["Big pecks", "Super luck", "Rivalry"], "secondaryType": "Flying"},
+{"dexNo": 522, "name": "Blitzle", "primaryType": "Electric", "abilities": ["Lightning rod", "Motor drive", "Sap sipper"]},
+{"dexNo": 523, "name": "Zebstrika", "primaryType": "Electric", "abilities": ["Lightning rod", "Motor drive", "Sap sipper"]},
+{"dexNo": 524, "name": "Roggenrola", "primaryType": "Rock", "abilities": ["Sturdy", "Weak armor", "Sand force"]},
+{"dexNo": 525, "name": "Boldore", "primaryType": "Rock", "abilities": ["Sturdy", "Weak armor", "Sand force"]},
+{"dexNo": 526, "name": "Gigalith", "primaryType": "Rock", "abilities": ["Sturdy", "Sand stream", "Sand force"]},
+{"dexNo": 527, "name": "Woobat", "primaryType": "Psychic", "abilities": ["Unaware", "Klutz", "Simple"], "secondaryType": "Flying"},
+{"dexNo": 528, "name": "Swoobat", "primaryType": "Psychic", "abilities": ["Unaware", "Klutz", "Simple"], "secondaryType": "Flying"},
+{"dexNo": 529, "name": "Drilbur", "primaryType": "Ground", "abilities": ["Sand rush", "Sand force", "Mold breaker"]},
+{"dexNo": 530, "name": "Excadrill", "primaryType": "Ground", "abilities": ["Sand rush", "Sand force", "Mold breaker"], "secondaryType": "Steel"},
+{"dexNo": 531, "name": "Audino", "primaryType": "Normal", "abilities": ["Healer", "Regenerator", "Klutz"]},
+{"dexNo": 532, "name": "Timburr", "primaryType": "Fighting", "abilities": ["Guts", "Sheer force", "Iron fist"]},
+{"dexNo": 533, "name": "Gurdurr", "primaryType": "Fighting", "abilities": ["Guts", "Sheer force", "Iron fist"]},
+{"dexNo": 534, "name": "Conkeldurr", "primaryType": "Fighting", "abilities": ["Guts", "Sheer force", "Iron fist"]},
+{"dexNo": 535, "name": "Tympole", "primaryType": "Water", "abilities": ["Swift swim", "Hydration", "Water absorb"]},
+{"dexNo": 536, "name": "Palpitoad", "primaryType": "Water", "abilities": ["Swift swim", "Hydration", "Water absorb"], "secondaryType": "Ground"},
+{"dexNo": 537, "name": "Seismitoad", "primaryType": "Water", "abilities": ["Swift swim", "Poison touch", "Water absorb"], "secondaryType": "Ground"},
+{"dexNo": 538, "name": "Throh", "primaryType": "Fighting", "abilities": ["Guts", "Inner focus", "Mold breaker"]},
+{"dexNo": 539, "name": "Sawk", "primaryType": "Fighting", "abilities": ["Sturdy", "Inner focus", "Mold breaker"]},
+{"dexNo": 540, "name": "Sewaddle", "primaryType": "Bug", "abilities": ["Swarm", "Chlorophyll", "Overcoat"], "secondaryType": "Grass"},
+{"dexNo": 541, "name": "Swadloon", "primaryType": "Bug", "abilities": ["Leaf guard", "Chlorophyll", "Overcoat"], "secondaryType": "Grass"},
+{"dexNo": 542, "name": "Leavanny", "primaryType": "Bug", "abilities": ["Swarm", "Chlorophyll", "Overcoat"], "secondaryType": "Grass"},
+{"dexNo": 543, "name": "Venipede", "primaryType": "Bug", "abilities": ["Poison point", "Swarm", "Speed boost"], "secondaryType": "Poison"},
+{"dexNo": 544, "name": "Whirlipede", "primaryType": "Bug", "abilities": ["Poison point", "Swarm", "Speed boost"], "secondaryType": "Poison"},
+{"dexNo": 545, "name": "Scolipede", "primaryType": "Bug", "abilities": ["Poison point", "Swarm", "Speed boost"], "secondaryType": "Poison"},
+{"dexNo": 546, "name": "Cottonee", "primaryType": "Grass", "abilities": ["Prankster", "Infiltrator", "Chlorophyll"], "secondaryType": "Fairy"},
+{"dexNo": 547, "name": "Whimsicott", "primaryType": "Grass", "abilities": ["Prankster", "Infiltrator", "Chlorophyll"], "secondaryType": "Fairy"},
+{"dexNo": 548, "name": "Petilil", "primaryType": "Grass", "abilities": ["Chlorophyll", "Own tempo", "Leaf guard"]},
+{"dexNo": 549, "name": "Lilligant", "primaryType": "Grass", "abilities": ["Chlorophyll", "Own tempo", "Leaf guard"]},
+{"dexNo": 550, "name": "Basculin-red-striped", "primaryType": "Water", "abilities": ["Reckless", "Adaptability", "Mold breaker"]},
+{"dexNo": 551, "name": "Sandile", "primaryType": "Ground", "abilities": ["Intimidate", "Moxie", "Anger point"], "secondaryType": "Dark"},
+{"dexNo": 552, "name": "Krokorok", "primaryType": "Ground", "abilities": ["Intimidate", "Moxie", "Anger point"], "secondaryType": "Dark"},
+{"dexNo": 553, "name": "Krookodile", "primaryType": "Ground", "abilities": ["Intimidate", "Moxie", "Anger point"], "secondaryType": "Dark"},
+{"dexNo": 554, "name": "Darumaka", "primaryType": "Fire", "abilities": ["Hustle", "Inner focus"]},
+{"dexNo": 555, "name": "Darmanitan-standard", "primaryType": "Fire", "abilities": ["Sheer force", "Zen mode"]},
+{"dexNo": 556, "name": "Maractus", "primaryType": "Grass", "abilities": ["Water absorb", "Chlorophyll", "Storm drain"]},
+{"dexNo": 557, "name": "Dwebble", "primaryType": "Bug", "abilities": ["Sturdy", "Shell armor", "Weak armor"], "secondaryType": "Rock"},
+{"dexNo": 558, "name": "Crustle", "primaryType": "Bug", "abilities": ["Sturdy", "Shell armor", "Weak armor"], "secondaryType": "Rock"},
+{"dexNo": 559, "name": "Scraggy", "primaryType": "Dark", "abilities": ["Shed skin", "Moxie", "Intimidate"], "secondaryType": "Fighting"},
+{"dexNo": 560, "name": "Scrafty", "primaryType": "Dark", "abilities": ["Shed skin", "Moxie", "Intimidate"], "secondaryType": "Fighting"},
+{"dexNo": 561, "name": "Sigilyph", "primaryType": "Psychic", "abilities": ["Wonder skin", "Magic guard", "Tinted lens"], "secondaryType": "Flying"},
+{"dexNo": 562, "name": "Yamask", "primaryType": "Ghost", "abilities": ["Mummy"]},
+{"dexNo": 563, "name": "Cofagrigus", "primaryType": "Ghost", "abilities": ["Mummy"]},
+{"dexNo": 564, "name": "Tirtouga", "primaryType": "Water", "abilities": ["Solid rock", "Sturdy", "Swift swim"], "secondaryType": "Rock"},
+{"dexNo": 565, "name": "Carracosta", "primaryType": "Water", "abilities": ["Solid rock", "Sturdy", "Swift swim"], "secondaryType": "Rock"},
+{"dexNo": 566, "name": "Archen", "primaryType": "Rock", "abilities": ["Defeatist"], "secondaryType": "Flying"},
+{"dexNo": 567, "name": "Archeops", "primaryType": "Rock", "abilities": ["Defeatist"], "secondaryType": "Flying"},
+{"dexNo": 568, "name": "Trubbish", "primaryType": "Poison", "abilities": ["Stench", "Sticky hold", "Aftermath"]},
+{"dexNo": 569, "name": "Garbodor", "primaryType": "Poison", "abilities": ["Stench", "Weak armor", "Aftermath"]},
+{"dexNo": 570, "name": "Zorua", "primaryType": "Dark", "abilities": ["Illusion"]},
+{"dexNo": 571, "name": "Zoroark", "primaryType": "Dark", "abilities": ["Illusion"]},
+{"dexNo": 572, "name": "Minccino", "primaryType": "Normal", "abilities": ["Cute charm", "Technician", "Skill link"]},
+{"dexNo": 573, "name": "Cinccino", "primaryType": "Normal", "abilities": ["Cute charm", "Technician", "Skill link"]},
+{"dexNo": 574, "name": "Gothita", "primaryType": "Psychic", "abilities": ["Frisk", "Competitive", "Shadow tag"]},
+{"dexNo": 575, "name": "Gothorita", "primaryType": "Psychic", "abilities": ["Frisk", "Competitive", "Shadow tag"]},
+{"dexNo": 576, "name": "Gothitelle", "primaryType": "Psychic", "abilities": ["Frisk", "Competitive", "Shadow tag"]},
+{"dexNo": 577, "name": "Solosis", "primaryType": "Psychic", "abilities": ["Overcoat", "Magic guard", "Regenerator"]},
+{"dexNo": 578, "name": "Duosion", "primaryType": "Psychic", "abilities": ["Overcoat", "Magic guard", "Regenerator"]},
+{"dexNo": 579, "name": "Reuniclus", "primaryType": "Psychic", "abilities": ["Overcoat", "Magic guard", "Regenerator"]},
+{"dexNo": 580, "name": "Ducklett", "primaryType": "Water", "abilities": ["Keen eye", "Big pecks", "Hydration"], "secondaryType": "Flying"},
+{"dexNo": 581, "name": "Swanna", "primaryType": "Water", "abilities": ["Keen eye", "Big pecks", "Hydration"], "secondaryType": "Flying"},
+{"dexNo": 582, "name": "Vanillite", "primaryType": "Ice", "abilities": ["Ice body", "Snow cloak", "Weak armor"]},
+{"dexNo": 583, "name": "Vanillish", "primaryType": "Ice", "abilities": ["Ice body", "Snow cloak", "Weak armor"]},
+{"dexNo": 584, "name": "Vanilluxe", "primaryType": "Ice", "abilities": ["Ice body", "Snow warning", "Weak armor"]},
+{"dexNo": 585, "name": "Deerling", "primaryType": "Normal", "abilities": ["Chlorophyll", "Sap sipper", "Serene grace"], "secondaryType": "Grass"},
+{"dexNo": 586, "name": "Sawsbuck", "primaryType": "Normal", "abilities": ["Chlorophyll", "Sap sipper", "Serene grace"], "secondaryType": "Grass"},
+{"dexNo": 587, "name": "Emolga", "primaryType": "Electric", "abilities": ["Static", "Motor drive"], "secondaryType": "Flying"},
+{"dexNo": 588, "name": "Karrablast", "primaryType": "Bug", "abilities": ["Swarm", "Shed skin", "No guard"]},
+{"dexNo": 589, "name": "Escavalier", "primaryType": "Bug", "abilities": ["Swarm", "Shell armor", "Overcoat"], "secondaryType": "Steel"},
+{"dexNo": 590, "name": "Foongus", "primaryType": "Grass", "abilities": ["Effect spore", "Regenerator"], "secondaryType": "Poison"},
+{"dexNo": 591, "name": "Amoonguss", "primaryType": "Grass", "abilities": ["Effect spore", "Regenerator"], "secondaryType": "Poison"},
+{"dexNo": 592, "name": "Frillish", "primaryType": "Water", "abilities": ["Water absorb", "Cursed body", "Damp"], "secondaryType": "Ghost"},
+{"dexNo": 593, "name": "Jellicent", "primaryType": "Water", "abilities": ["Water absorb", "Cursed body", "Damp"], "secondaryType": "Ghost"},
+{"dexNo": 594, "name": "Alomomola", "primaryType": "Water", "abilities": ["Healer", "Hydration", "Regenerator"]},
+{"dexNo": 595, "name": "Joltik", "primaryType": "Bug", "abilities": ["Compound eyes", "Unnerve", "Swarm"], "secondaryType": "Electric"},
+{"dexNo": 596, "name": "Galvantula", "primaryType": "Bug", "abilities": ["Compound eyes", "Unnerve", "Swarm"], "secondaryType": "Electric"},
+{"dexNo": 597, "name": "Ferroseed", "primaryType": "Grass", "abilities": ["Iron barbs"], "secondaryType": "Steel"},
+{"dexNo": 598, "name": "Ferrothorn", "primaryType": "Grass", "abilities": ["Iron barbs", "Anticipation"], "secondaryType": "Steel"},
+{"dexNo": 599, "name": "Klink", "primaryType": "Steel", "abilities": ["Plus", "Minus", "Clear body"]},
+{"dexNo": 600, "name": "Klang", "primaryType": "Steel", "abilities": ["Plus", "Minus", "Clear body"]},
+{"dexNo": 601, "name": "Klinklang", "primaryType": "Steel", "abilities": ["Plus", "Minus", "Clear body"]},
+{"dexNo": 602, "name": "Tynamo", "primaryType": "Electric", "abilities": ["Levitate"]},
+{"dexNo": 603, "name": "Eelektrik", "primaryType": "Electric", "abilities": ["Levitate"]},
+{"dexNo": 604, "name": "Eelektross", "primaryType": "Electric", "abilities": ["Levitate"]},
+{"dexNo": 605, "name": "Elgyem", "primaryType": "Psychic", "abilities": ["Telepathy", "Synchronize", "Analytic"]},
+{"dexNo": 606, "name": "Beheeyem", "primaryType": "Psychic", "abilities": ["Telepathy", "Synchronize", "Analytic"]},
+{"dexNo": 607, "name": "Litwick", "primaryType": "Ghost", "abilities": ["Flash fire", "Flame body", "Infiltrator"], "secondaryType": "Fire"},
+{"dexNo": 608, "name": "Lampent", "primaryType": "Ghost", "abilities": ["Flash fire", "Flame body", "Infiltrator"], "secondaryType": "Fire"},
+{"dexNo": 609, "name": "Chandelure", "primaryType": "Ghost", "abilities": ["Flash fire", "Flame body", "Infiltrator"], "secondaryType": "Fire"},
+{"dexNo": 610, "name": "Axew", "primaryType": "Dragon", "abilities": ["Rivalry", "Mold breaker", "Unnerve"]},
+{"dexNo": 611, "name": "Fraxure", "primaryType": "Dragon", "abilities": ["Rivalry", "Mold breaker", "Unnerve"]},
+{"dexNo": 612, "name": "Haxorus", "primaryType": "Dragon", "abilities": ["Rivalry", "Mold breaker", "Unnerve"]},
+{"dexNo": 613, "name": "Cubchoo", "primaryType": "Ice", "abilities": ["Snow cloak", "Slush rush", "Rattled"]},
+{"dexNo": 614, "name": "Beartic", "primaryType": "Ice", "abilities": ["Snow cloak", "Slush rush", "Swift swim"]},
+{"dexNo": 615, "name": "Cryogonal", "primaryType": "Ice", "abilities": ["Levitate"]},
+{"dexNo": 616, "name": "Shelmet", "primaryType": "Bug", "abilities": ["Hydration", "Shell armor", "Overcoat"]},
+{"dexNo": 617, "name": "Accelgor", "primaryType": "Bug", "abilities": ["Hydration", "Sticky hold", "Unburden"]},
+{"dexNo": 618, "name": "Stunfisk", "primaryType": "Ground", "abilities": ["Static", "Limber", "Sand veil"], "secondaryType": "Electric"},
+{"dexNo": 619, "name": "Mienfoo", "primaryType": "Fighting", "abilities": ["Inner focus", "Regenerator", "Reckless"]},
+{"dexNo": 620, "name": "Mienshao", "primaryType": "Fighting", "abilities": ["Inner focus", "Regenerator", "Reckless"]},
+{"dexNo": 621, "name": "Druddigon", "primaryType": "Dragon", "abilities": ["Rough skin", "Sheer force", "Mold breaker"]},
+{"dexNo": 622, "name": "Golett", "primaryType": "Ground", "abilities": ["Iron fist", "Klutz", "No guard"], "secondaryType": "Ghost"},
+{"dexNo": 623, "name": "Golurk", "primaryType": "Ground", "abilities": ["Iron fist", "Klutz", "No guard"], "secondaryType": "Ghost"},
+{"dexNo": 624, "name": "Pawniard", "primaryType": "Dark", "abilities": ["Defiant", "Inner focus", "Pressure"], "secondaryType": "Steel"},
+{"dexNo": 625, "name": "Bisharp", "primaryType": "Dark", "abilities": ["Defiant", "Inner focus", "Pressure"], "secondaryType": "Steel"},
+{"dexNo": 626, "name": "Bouffalant", "primaryType": "Normal", "abilities": ["Reckless", "Sap sipper", "Soundproof"]},
+{"dexNo": 627, "name": "Rufflet", "primaryType": "Normal", "abilities": ["Keen eye", "Sheer force", "Hustle"], "secondaryType": "Flying"},
+{"dexNo": 628, "name": "Braviary", "primaryType": "Normal", "abilities": ["Keen eye", "Sheer force", "Defiant"], "secondaryType": "Flying"},
+{"dexNo": 629, "name": "Vullaby", "primaryType": "Dark", "abilities": ["Big pecks", "Overcoat", "Weak armor"], "secondaryType": "Flying"},
+{"dexNo": 630, "name": "Mandibuzz", "primaryType": "Dark", "abilities": ["Big pecks", "Overcoat", "Weak armor"], "secondaryType": "Flying"},
+{"dexNo": 631, "name": "Heatmor", "primaryType": "Fire", "abilities": ["Gluttony", "Flash fire", "White smoke"]},
+{"dexNo": 632, "name": "Durant", "primaryType": "Bug", "abilities": ["Swarm", "Hustle", "Truant"], "secondaryType": "Steel"},
+{"dexNo": 633, "name": "Deino", "primaryType": "Dark", "abilities": ["Hustle"], "secondaryType": "Dragon"},
+{"dexNo": 634, "name": "Zweilous", "primaryType": "Dark", "abilities": ["Hustle"], "secondaryType": "Dragon"},
+{"dexNo": 635, "name": "Hydreigon", "primaryType": "Dark", "abilities": ["Levitate"], "secondaryType": "Dragon"},
+{"dexNo": 636, "name": "Larvesta", "primaryType": "Bug", "abilities": ["Flame body", "Swarm"], "secondaryType": "Fire"},
+{"dexNo": 637, "name": "Volcarona", "primaryType": "Bug", "abilities": ["Flame body", "Swarm"], "secondaryType": "Fire"},
+{"dexNo": 638, "name": "Cobalion", "primaryType": "Steel", "abilities": ["Justified"], "secondaryType": "Fighting"},
+{"dexNo": 639, "name": "Terrakion", "primaryType": "Rock", "abilities": ["Justified"], "secondaryType": "Fighting"},
+{"dexNo": 640, "name": "Virizion", "primaryType": "Grass", "abilities": ["Justified"], "secondaryType": "Fighting"},
+{"dexNo": 641, "name": "Tornadus-incarnate", "primaryType": "Flying", "abilities": ["Prankster", "Defiant"]},
+{"dexNo": 642, "name": "Thundurus-incarnate", "primaryType": "Electric", "abilities": ["Prankster", "Defiant"], "secondaryType": "Flying"},
+{"dexNo": 643, "name": "Reshiram", "primaryType": "Dragon", "abilities": ["Turboblaze"], "secondaryType": "Fire"},
+{"dexNo": 644, "name": "Zekrom", "primaryType": "Dragon", "abilities": ["Teravolt"], "secondaryType": "Electric"},
+{"dexNo": 645, "name": "Landorus-incarnate", "primaryType": "Ground", "abilities": ["Sand force", "Sheer force"], "secondaryType": "Flying"},
+{"dexNo": 646, "name": "Kyurem", "primaryType": "Dragon", "abilities": ["Pressure"], "secondaryType": "Ice"},
+{"dexNo": 647, "name": "Keldeo-ordinary", "primaryType": "Water", "abilities": ["Justified"], "secondaryType": "Fighting"},
+{"dexNo": 648, "name": "Meloetta-aria", "primaryType": "Normal", "abilities": ["Serene grace"], "secondaryType": "Psychic"},
+{"dexNo": 649, "name": "Genesect", "primaryType": "Bug", "abilities": ["Download"], "secondaryType": "Steel"},
+{"dexNo": 650, "name": "Chespin", "primaryType": "Grass", "abilities": ["Overgrow", "Bulletproof"]},
+{"dexNo": 651, "name": "Quilladin", "primaryType": "Grass", "abilities": ["Overgrow", "Bulletproof"]},
+{"dexNo": 652, "name": "Chesnaught", "primaryType": "Grass", "abilities": ["Overgrow", "Bulletproof"], "secondaryType": "Fighting"},
+{"dexNo": 653, "name": "Fennekin", "primaryType": "Fire", "abilities": ["Blaze", "Magician"]},
+{"dexNo": 654, "name": "Braixen", "primaryType": "Fire", "abilities": ["Blaze", "Magician"]},
+{"dexNo": 655, "name": "Delphox", "primaryType": "Fire", "abilities": ["Blaze", "Magician"], "secondaryType": "Psychic"},
+{"dexNo": 656, "name": "Froakie", "primaryType": "Water", "abilities": ["Torrent", "Protean"]},
+{"dexNo": 657, "name": "Frogadier", "primaryType": "Water", "abilities": ["Torrent", "Protean"]},
+{"dexNo": 658, "name": "Greninja", "primaryType": "Water", "abilities": ["Torrent", "Protean"], "secondaryType": "Dark"},
+{"dexNo": 659, "name": "Bunnelby", "primaryType": "Normal", "abilities": ["Pickup", "Cheek pouch", "Huge power"]},
+{"dexNo": 660, "name": "Diggersby", "primaryType": "Normal", "abilities": ["Pickup", "Cheek pouch", "Huge power"], "secondaryType": "Ground"},
+{"dexNo": 661, "name": "Fletchling", "primaryType": "Normal", "abilities": ["Big pecks", "Gale wings"], "secondaryType": "Flying"},
+{"dexNo": 662, "name": "Fletchinder", "primaryType": "Fire", "abilities": ["Flame body", "Gale wings"], "secondaryType": "Flying"},
+{"dexNo": 663, "name": "Talonflame", "primaryType": "Fire", "abilities": ["Flame body", "Gale wings"], "secondaryType": "Flying"},
+{"dexNo": 664, "name": "Scatterbug", "primaryType": "Bug", "abilities": ["Shield dust", "Compound eyes", "Friend guard"]},
+{"dexNo": 665, "name": "Spewpa", "primaryType": "Bug", "abilities": ["Shed skin", "Friend guard"]},
+{"dexNo": 666, "name": "Vivillon", "primaryType": "Bug", "abilities": ["Shield dust", "Compound eyes", "Friend guard"], "secondaryType": "Flying"},
+{"dexNo": 667, "name": "Litleo", "primaryType": "Fire", "abilities": ["Rivalry", "Unnerve", "Moxie"], "secondaryType": "Normal"},
+{"dexNo": 668, "name": "Pyroar", "primaryType": "Fire", "abilities": ["Rivalry", "Unnerve", "Moxie"], "secondaryType": "Normal"},
+{"dexNo": 669, "name": "Flabebe", "primaryType": "Fairy", "abilities": ["Flower veil", "Symbiosis"]},
+{"dexNo": 670, "name": "Floette", "primaryType": "Fairy", "abilities": ["Flower veil", "Symbiosis"]},
+{"dexNo": 671, "name": "Florges", "primaryType": "Fairy", "abilities": ["Flower veil", "Symbiosis"]},
+{"dexNo": 672, "name": "Skiddo", "primaryType": "Grass", "abilities": ["Sap sipper", "Grass pelt"]},
+{"dexNo": 673, "name": "Gogoat", "primaryType": "Grass", "abilities": ["Sap sipper", "Grass pelt"]},
+{"dexNo": 674, "name": "Pancham", "primaryType": "Fighting", "abilities": ["Iron fist", "Mold breaker", "Scrappy"]},
+{"dexNo": 675, "name": "Pangoro", "primaryType": "Fighting", "abilities": ["Iron fist", "Mold breaker", "Scrappy"], "secondaryType": "Dark"},
+{"dexNo": 676, "name": "Furfrou", "primaryType": "Normal", "abilities": ["Fur coat"]},
+{"dexNo": 677, "name": "Espurr", "primaryType": "Psychic", "abilities": ["Keen eye", "Infiltrator", "Own tempo"]},
+{"dexNo": 678, "name": "Meowstic-male", "primaryType": "Psychic", "abilities": ["Keen eye", "Infiltrator", "Prankster"]},
+{"dexNo": 679, "name": "Honedge", "primaryType": "Steel", "abilities": ["No guard"], "secondaryType": "Ghost"},
+{"dexNo": 680, "name": "Doublade", "primaryType": "Steel", "abilities": ["No guard"], "secondaryType": "Ghost"},
+{"dexNo": 681, "name": "Aegislash-shield", "primaryType": "Steel", "abilities": ["Stance change"], "secondaryType": "Ghost"},
+{"dexNo": 682, "name": "Spritzee", "primaryType": "Fairy", "abilities": ["Healer", "Aroma veil"]},
+{"dexNo": 683, "name": "Aromatisse", "primaryType": "Fairy", "abilities": ["Healer", "Aroma veil"]},
+{"dexNo": 684, "name": "Swirlix", "primaryType": "Fairy", "abilities": ["Sweet veil", "Unburden"]},
+{"dexNo": 685, "name": "Slurpuff", "primaryType": "Fairy", "abilities": ["Sweet veil", "Unburden"]},
+{"dexNo": 686, "name": "Inkay", "primaryType": "Dark", "abilities": ["Contrary", "Suction cups", "Infiltrator"], "secondaryType": "Psychic"},
+{"dexNo": 687, "name": "Malamar", "primaryType": "Dark", "abilities": ["Contrary", "Suction cups", "Infiltrator"], "secondaryType": "Psychic"},
+{"dexNo": 688, "name": "Binacle", "primaryType": "Rock", "abilities": ["Tough claws", "Sniper", "Pickpocket"], "secondaryType": "Water"},
+{"dexNo": 689, "name": "Barbaracle", "primaryType": "Rock", "abilities": ["Tough claws", "Sniper", "Pickpocket"], "secondaryType": "Water"},
+{"dexNo": 690, "name": "Skrelp", "primaryType": "Poison", "abilities": ["Poison point", "Poison touch", "Adaptability"], "secondaryType": "Water"},
+{"dexNo": 691, "name": "Dragalge", "primaryType": "Poison", "abilities": ["Poison point", "Poison touch", "Adaptability"], "secondaryType": "Dragon"},
+{"dexNo": 692, "name": "Clauncher", "primaryType": "Water", "abilities": ["Mega launcher"]},
+{"dexNo": 693, "name": "Clawitzer", "primaryType": "Water", "abilities": ["Mega launcher"]},
+{"dexNo": 694, "name": "Helioptile", "primaryType": "Electric", "abilities": ["Dry skin", "Sand veil", "Solar power"], "secondaryType": "Normal"},
+{"dexNo": 695, "name": "Heliolisk", "primaryType": "Electric", "abilities": ["Dry skin", "Sand veil", "Solar power"], "secondaryType": "Normal"},
+{"dexNo": 696, "name": "Tyrunt", "primaryType": "Rock", "abilities": ["Strong jaw", "Sturdy"], "secondaryType": "Dragon"},
+{"dexNo": 697, "name": "Tyrantrum", "primaryType": "Rock", "abilities": ["Strong jaw", "Rock head"], "secondaryType": "Dragon"},
+{"dexNo": 698, "name": "Amaura", "primaryType": "Rock", "abilities": ["Refrigerate", "Snow warning"], "secondaryType": "Ice"},
+{"dexNo": 699, "name": "Aurorus", "primaryType": "Rock", "abilities": ["Refrigerate", "Snow warning"], "secondaryType": "Ice"},
+{"dexNo": 700, "name": "Sylveon", "primaryType": "Fairy", "abilities": ["Cute charm", "Pixilate"]},
+{"dexNo": 701, "name": "Hawlucha", "primaryType": "Fighting", "abilities": ["Limber", "Unburden", "Mold breaker"], "secondaryType": "Flying"},
+{"dexNo": 702, "name": "Dedenne", "primaryType": "Electric", "abilities": ["Cheek pouch", "Pickup", "Plus"], "secondaryType": "Fairy"},
+{"dexNo": 703, "name": "Carbink", "primaryType": "Rock", "abilities": ["Clear body", "Sturdy"], "secondaryType": "Fairy"},
+{"dexNo": 704, "name": "Goomy", "primaryType": "Dragon", "abilities": ["Sap sipper", "Hydration", "Gooey"]},
+{"dexNo": 705, "name": "Sliggoo", "primaryType": "Dragon", "abilities": ["Sap sipper", "Hydration", "Gooey"]},
+{"dexNo": 706, "name": "Goodra", "primaryType": "Dragon", "abilities": ["Sap sipper", "Hydration", "Gooey"]},
+{"dexNo": 707, "name": "Klefki", "primaryType": "Steel", "abilities": ["Prankster", "Magician"], "secondaryType": "Fairy"},
+{"dexNo": 708, "name": "Phantump", "primaryType": "Ghost", "abilities": ["Natural cure", "Frisk", "Harvest"], "secondaryType": "Grass"},
+{"dexNo": 709, "name": "Trevenant", "primaryType": "Ghost", "abilities": ["Natural cure", "Frisk", "Harvest"], "secondaryType": "Grass"},
+{"dexNo": 710, "name": "Pumpkaboo-average", "primaryType": "Ghost", "abilities": ["Pickup", "Frisk", "Insomnia"], "secondaryType": "Grass"},
+{"dexNo": 711, "name": "Gourgeist-average", "primaryType": "Ghost", "abilities": ["Pickup", "Frisk", "Insomnia"], "secondaryType": "Grass"},
+{"dexNo": 712, "name": "Bergmite", "primaryType": "Ice", "abilities": ["Own tempo", "Ice body", "Sturdy"]},
+{"dexNo": 713, "name": "Avalugg", "primaryType": "Ice", "abilities": ["Own tempo", "Ice body", "Sturdy"]},
+{"dexNo": 714, "name": "Noibat", "primaryType": "Flying", "abilities": ["Frisk", "Infiltrator", "Telepathy"], "secondaryType": "Dragon"},
+{"dexNo": 715, "name": "Noivern", "primaryType": "Flying", "abilities": ["Frisk", "Infiltrator", "Telepathy"], "secondaryType": "Dragon"},
+{"dexNo": 716, "name": "Xerneas", "primaryType": "Fairy", "abilities": ["Fairy aura"]},
+{"dexNo": 717, "name": "Yveltal", "primaryType": "Dark", "abilities": ["Dark aura"], "secondaryType": "Flying"},
+{"dexNo": 718, "name": "Zygarde-50", "primaryType": "Dragon", "abilities": ["Aura break"], "secondaryType": "Ground"},
+{"dexNo": 719, "name": "Diancie", "primaryType": "Rock", "abilities": ["Clear body"], "secondaryType": "Fairy"},
+{"dexNo": 720, "name": "Hoopa", "primaryType": "Psychic", "abilities": ["Magician"], "secondaryType": "Ghost"},
+{"dexNo": 721, "name": "Volcanion", "primaryType": "Fire", "abilities": ["Water absorb"], "secondaryType": "Water"},
+{"dexNo": 10001, "name": "Deoxys-attack", "primaryType": "Psychic", "abilities": ["Pressure"]},
+{"dexNo": 10002, "name": "Deoxys-defense", "primaryType": "Psychic", "abilities": ["Pressure"]},
+{"dexNo": 10003, "name": "Deoxys-speed", "primaryType": "Psychic", "abilities": ["Pressure"]},
+{"dexNo": 10004, "name": "Wormadam-sandy", "primaryType": "Bug", "abilities": ["Anticipation", "Overcoat"], "secondaryType": "Ground"},
+{"dexNo": 10005, "name": "Wormadam-trash", "primaryType": "Bug", "abilities": ["Anticipation", "Overcoat"], "secondaryType": "Steel"},
+{"dexNo": 10006, "name": "Shaymin-sky", "primaryType": "Grass", "abilities": ["Serene grace"], "secondaryType": "Flying"},
+{"dexNo": 10007, "name": "Giratina-origin", "primaryType": "Ghost", "abilities": ["Levitate"], "secondaryType": "Dragon"},
+{"dexNo": 10008, "name": "Rotom-heat", "primaryType": "Electric", "abilities": ["Levitate"], "secondaryType": "Fire"},
+{"dexNo": 10009, "name": "Rotom-wash", "primaryType": "Electric", "abilities": ["Levitate"], "secondaryType": "Water"},
+{"dexNo": 10010, "name": "Rotom-frost", "primaryType": "Electric", "abilities": ["Levitate"], "secondaryType": "Ice"},
+{"dexNo": 10011, "name": "Rotom-fan", "primaryType": "Electric", "abilities": ["Levitate"], "secondaryType": "Flying"},
+{"dexNo": 10012, "name": "Rotom-mow", "primaryType": "Electric", "abilities": ["Levitate"], "secondaryType": "Grass"},
+{"dexNo": 10013, "name": "Castform-sunny", "primaryType": "Fire", "abilities": ["Forecast"]},
+{"dexNo": 10014, "name": "Castform-rainy", "primaryType": "Water", "abilities": ["Forecast"]},
+{"dexNo": 10015, "name": "Castform-snowy", "primaryType": "Ice", "abilities": ["Forecast"]},
+{"dexNo": 10016, "name": "Basculin-blue-striped", "primaryType": "Water", "abilities": ["Rock head", "Adaptability", "Mold breaker"]},
+{"dexNo": 10017, "name": "Darmanitan-zen", "primaryType": "Fire", "abilities": ["Sheer force", "Zen mode"], "secondaryType": "Psychic"},
+{"dexNo": 10018, "name": "Meloetta-pirouette", "primaryType": "Normal", "abilities": ["Serene grace"], "secondaryType": "Fighting"},
+{"dexNo": 10019, "name": "Tornadus-therian", "primaryType": "Flying", "abilities": ["Regenerator"]},
+{"dexNo": 10020, "name": "Thundurus-therian", "primaryType": "Electric", "abilities": ["Volt absorb"], "secondaryType": "Flying"},
+{"dexNo": 10021, "name": "Landorus-therian", "primaryType": "Ground", "abilities": ["Intimidate"], "secondaryType": "Flying"},
+{"dexNo": 10022, "name": "Kyurem-black", "primaryType": "Dragon", "abilities": ["Teravolt"], "secondaryType": "Ice"},
+{"dexNo": 10023, "name": "Kyurem-white", "primaryType": "Dragon", "abilities": ["Turboblaze"], "secondaryType": "Ice"},
+{"dexNo": 10024, "name": "Keldeo-resolute", "primaryType": "Water", "abilities": ["Justified"], "secondaryType": "Fighting"},
+{"dexNo": 10025, "name": "Meowstic-female", "primaryType": "Psychic", "abilities": ["Keen eye", "Infiltrator", "Competitive"]},
+{"dexNo": 10026, "name": "Aegislash-blade", "primaryType": "Steel", "abilities": ["Stance change"], "secondaryType": "Ghost"},
+{"dexNo": 10027, "name": "Pumpkaboo-small", "primaryType": "Ghost", "abilities": ["Pickup", "Frisk", "Insomnia"], "secondaryType": "Grass"},
+{"dexNo": 10028, "name": "Pumpkaboo-large", "primaryType": "Ghost", "abilities": ["Pickup", "Frisk", "Insomnia"], "secondaryType": "Grass"},
+{"dexNo": 10029, "name": "Pumpkaboo-super", "primaryType": "Ghost", "abilities": ["Pickup", "Frisk", "Insomnia"], "secondaryType": "Grass"},
+{"dexNo": 10030, "name": "Gourgeist-small", "primaryType": "Ghost", "abilities": ["Pickup", "Frisk", "Insomnia"], "secondaryType": "Grass"},
+{"dexNo": 10031, "name": "Gourgeist-large", "primaryType": "Ghost", "abilities": ["Pickup", "Frisk", "Insomnia"], "secondaryType": "Grass"},
+{"dexNo": 10032, "name": "Gourgeist-super", "primaryType": "Ghost", "abilities": ["Pickup", "Frisk", "Insomnia"], "secondaryType": "Grass"},
+{"dexNo": 10033, "name": "Venusaur-mega", "primaryType": "Grass", "abilities": ["Thick fat"], "secondaryType": "Poison"},
+{"dexNo": 10034, "name": "Charizard-mega-x", "primaryType": "Fire", "abilities": ["Tough claws"], "secondaryType": "Dragon"},
+{"dexNo": 10035, "name": "Charizard-mega-y", "primaryType": "Fire", "abilities": ["Drought"], "secondaryType": "Flying"},
+{"dexNo": 10036, "name": "Blastoise-mega", "primaryType": "Water", "abilities": ["Mega launcher"]},
+{"dexNo": 10037, "name": "Alakazam-mega", "primaryType": "Psychic", "abilities": ["Trace"]},
+{"dexNo": 10038, "name": "Gengar-mega", "primaryType": "Ghost", "abilities": ["Shadow tag"], "secondaryType": "Poison"},
+{"dexNo": 10039, "name": "Kangaskhan-mega", "primaryType": "Normal", "abilities": ["Parental bond"]},
+{"dexNo": 10040, "name": "Pinsir-mega", "primaryType": "Bug", "abilities": ["Aerilate"], "secondaryType": "Flying"},
+{"dexNo": 10041, "name": "Gyarados-mega", "primaryType": "Water", "abilities": ["Mold breaker"], "secondaryType": "Dark"},
+{"dexNo": 10042, "name": "Aerodactyl-mega", "primaryType": "Rock", "abilities": ["Tough claws"], "secondaryType": "Flying"},
+{"dexNo": 10043, "name": "Mewtwo-mega-x", "primaryType": "Psychic", "abilities": ["Steadfast"], "secondaryType": "Fighting"},
+{"dexNo": 10044, "name": "Mewtwo-mega-y", "primaryType": "Psychic", "abilities": ["Insomnia"]},
+{"dexNo": 10045, "name": "Ampharos-mega", "primaryType": "Electric", "abilities": ["Mold breaker"], "secondaryType": "Dragon"},
+{"dexNo": 10046, "name": "Scizor-mega", "primaryType": "Bug", "abilities": ["Technician"], "secondaryType": "Steel"},
+{"dexNo": 10047, "name": "Heracross-mega", "primaryType": "Bug", "abilities": ["Skill link"], "secondaryType": "Fighting"},
+{"dexNo": 10048, "name": "Houndoom-mega", "primaryType": "Dark", "abilities": ["Solar power"], "secondaryType": "Fire"},
+{"dexNo": 10049, "name": "Tyranitar-mega", "primaryType": "Rock", "abilities": ["Sand stream"], "secondaryType": "Dark"},
+{"dexNo": 10050, "name": "Blaziken-mega", "primaryType": "Fire", "abilities": ["Speed boost"], "secondaryType": "Fighting"},
+{"dexNo": 10051, "name": "Gardevoir-mega", "primaryType": "Psychic", "abilities": ["Pixilate"], "secondaryType": "Fairy"},
+{"dexNo": 10052, "name": "Mawile-mega", "primaryType": "Steel", "abilities": ["Huge power"], "secondaryType": "Fairy"},
+{"dexNo": 10053, "name": "Aggron-mega", "primaryType": "Steel", "abilities": ["Filter"]},
+{"dexNo": 10054, "name": "Medicham-mega", "primaryType": "Fighting", "abilities": ["Pure power"], "secondaryType": "Psychic"},
+{"dexNo": 10055, "name": "Manectric-mega", "primaryType": "Electric", "abilities": ["Intimidate"]},
+{"dexNo": 10056, "name": "Banette-mega", "primaryType": "Ghost", "abilities": ["Prankster"]},
+{"dexNo": 10057, "name": "Absol-mega", "primaryType": "Dark", "abilities": ["Magic bounce"]},
+{"dexNo": 10058, "name": "Garchomp-mega", "primaryType": "Dragon", "abilities": ["Sand force"], "secondaryType": "Ground"},
+{"dexNo": 10059, "name": "Lucario-mega", "primaryType": "Fighting", "abilities": ["Adaptability"], "secondaryType": "Steel"},
+{"dexNo": 10060, "name": "Abomasnow-mega", "primaryType": "Grass", "abilities": ["Snow warning"], "secondaryType": "Ice"},
+{"dexNo": 10061, "name": "Floette-eternal", "primaryType": "Fairy", "abilities": ["Flower veil", "Symbiosis"]},
+{"dexNo": 10062, "name": "Latias-mega", "primaryType": "Dragon", "abilities": ["Levitate"], "secondaryType": "Psychic"},
+{"dexNo": 10063, "name": "Latios-mega", "primaryType": "Dragon", "abilities": ["Levitate"], "secondaryType": "Psychic"},
+{"dexNo": 10064, "name": "Swampert-mega", "primaryType": "Water", "abilities": ["Swift swim"], "secondaryType": "Ground"},
+{"dexNo": 10065, "name": "Sceptile-mega", "primaryType": "Grass", "abilities": ["Lightning rod"], "secondaryType": "Dragon"},
+{"dexNo": 10066, "name": "Sableye-mega", "primaryType": "Dark", "abilities": ["Magic bounce"], "secondaryType": "Ghost"},
+{"dexNo": 10067, "name": "Altaria-mega", "primaryType": "Dragon", "abilities": ["Pixilate"], "secondaryType": "Fairy"},
+{"dexNo": 10068, "name": "Gallade-mega", "primaryType": "Psychic", "abilities": ["Inner focus"], "secondaryType": "Fighting"},
+{"dexNo": 10069, "name": "Audino-mega", "primaryType": "Normal", "abilities": ["Healer"], "secondaryType": "Fairy"},
+{"dexNo": 10070, "name": "Sharpedo-mega", "primaryType": "Water", "abilities": ["Strong jaw"], "secondaryType": "Dark"},
+{"dexNo": 10071, "name": "Slowbro-mega", "primaryType": "Water", "abilities": ["Shell armor"], "secondaryType": "Psychic"},
+{"dexNo": 10072, "name": "Steelix-mega", "primaryType": "Steel", "abilities": ["Sand force"], "secondaryType": "Ground"},
+{"dexNo": 10073, "name": "Pidgeot-mega", "primaryType": "Normal", "abilities": ["No guard"], "secondaryType": "Flying"},
+{"dexNo": 10074, "name": "Glalie-mega", "primaryType": "Ice", "abilities": ["Refrigerate"]},
+{"dexNo": 10075, "name": "Diancie-mega", "primaryType": "Rock", "abilities": ["Magic bounce"], "secondaryType": "Fairy"},
+{"dexNo": 10076, "name": "Metagross-mega", "primaryType": "Steel", "abilities": ["Tough claws"], "secondaryType": "Psychic"},
+{"dexNo": 10077, "name": "Kyogre-primal", "primaryType": "Water", "abilities": ["Primordial sea"]},
+{"dexNo": 10078, "name": "Groudon-primal", "primaryType": "Ground", "abilities": ["Desolate land"], "secondaryType": "Fire"},
+{"dexNo": 10079, "name": "Rayquaza-mega", "primaryType": "Dragon", "abilities": ["Delta stream"], "secondaryType": "Flying"}
 ]

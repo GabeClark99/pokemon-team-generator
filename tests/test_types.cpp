@@ -115,6 +115,11 @@ TEST_CASE("getTypeEffectiveness") {
         REQUIRE(getTypeEffectiveness(chart, Type::Fire, Type::Normal, abilities) == 1.25);
         REQUIRE(getTypeEffectiveness(chart, Type::Fire, Type::Grass, abilities) == 2.5);
     }
+
+    SECTION("Single-type attacker vs Sap Sipper") {
+        vector<string> abilities = {"Sap Sipper"};
+        REQUIRE(getTypeEffectiveness(chart, Type::Grass, Type::Normal, abilities) == 0.0);
+    }
 }
 
 TEST_CASE("loadTypeEffectiveness") {

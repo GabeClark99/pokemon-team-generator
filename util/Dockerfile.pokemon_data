@@ -1,0 +1,10 @@
+FROM python:3.12-slim
+WORKDIR /app
+
+COPY util/get_pokemon_data.py .
+
+RUN pip install requests
+
+# Entrypoint: run the scraper and put output in /app/docker_out
+VOLUME ["/app/docker_out"]
+CMD ["python", "get_pokemon_data.py"]

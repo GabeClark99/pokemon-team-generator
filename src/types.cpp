@@ -130,7 +130,8 @@ double getTypeEffectiveness(
                 ability == "Lightning Rod"
             ) && attacker == Type::Electric) ||
             (ability == "Dry Skin" && attacker == Type::Water) ||
-            (ability == "Wonder Guard" && effectiveness <= 1.0)
+            (ability == "Wonder Guard" && effectiveness <= 1.0) ||
+            (ability == "Sap Sipper" && attacker == Type::Grass)
         ) return 0.0;
     }
 
