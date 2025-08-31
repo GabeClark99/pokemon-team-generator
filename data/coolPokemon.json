@@ -9,7 +9,7 @@
 {"name":"Kabutops","primaryType":"Rock","abilities":["Battle Armor"],"secondaryType":"Water"},
 {"name":"Aerodactyl","primaryType":"Rock","abilities":["Rock Head"],"secondaryType":"Flying"},
 {"name":"Zapdos","primaryType":"Electric","abilities":["Pressure","Static"],"secondaryType":"Flying"},
-{"name":"Feraligatr","primaryType":"Water","abilities":["Sheer Force"],"secondaryType":"Dark"},
+{"dexNo": 160, "name": "Feraligatr", "primaryType": "Water", "abilities": ["Torrent", "Sheer force"]},
 {"name":"Espeon","primaryType":"Psychic","abilities":["Magic Bounce"]},
 {"name":"Crobat","primaryType":"Poison","abilities":["Inner Focus"],"secondaryType":"Flying"},
 {"name":"Heracross","primaryType":"Bug","abilities":["Guts","Moxie"],"secondaryType":"Fighting"},

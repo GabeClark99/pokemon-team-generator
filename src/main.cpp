@@ -14,7 +14,15 @@ int main() {
     TeamEvaluator evaluator(typeChart);
     TeamGenerator generator(coolPokemon, evaluator);
 
-    vector<ScoredTeam> topTeams = generator.generateTopTeams(6, 50);
+    vector<ScoredTeam> topTeams = generator.generateTopTeams(
+        6, 
+        10,
+        {
+            // {"Greninja", Type::Water, Type::Dark, {"Protean"}},
+            // {"Galvantula", Type::Electric, Type::Bug, {"Compound Eyes"}},
+            // {"Togekiss", Type::Fairy, Type::Flying, {"Serene Grace"}}
+        }
+    );
 
     // Display the top teams
     for (size_t i = 0; i < topTeams.size(); ++i) {
