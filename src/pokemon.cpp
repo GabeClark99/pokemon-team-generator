@@ -4,8 +4,10 @@
 #include "pokemon.h"
 #include "logger.h"
 
-using std::runtime_error;
-using json = nlohmann::json;
+namespace { // file-local aliases
+    using std::runtime_error;
+    using json = nlohmann::json;
+}
 
 /*
  * Loads Pokemon data from a JSON file.

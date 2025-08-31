@@ -4,7 +4,9 @@
 #include "pokemon.h"
 #include "logger.h"
 
-using std::cout;
+namespace { // file-local aliases
+    using std::cout;
+}
 
 int main() {
     Logger::setLogLevel(LogLevel::Info);

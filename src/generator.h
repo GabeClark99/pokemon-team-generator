@@ -2,8 +2,6 @@
 
 #include <vector>
 #include <cstddef>
-#include <queue>
-#include <mutex>
 #include "pokemon.h"
 #include "team.h"
 
@@ -24,8 +22,3 @@ private:
     const PokemonList& potentialMembers_;
     const TeamEvaluator& evaluator_;
 };
-
-// Free helper functions
-std::vector<Team> generateAllCombinations(const PokemonList& sortedMembers, size_t teamSize);
-std::vector<ScoredTeam> getTopNTeams(const std::vector<ScoredTeam>& scoredTeams, size_t topN);
-size_t binomial_coefficient(size_t n, size_t k);
