@@ -71,7 +71,7 @@ TEST_CASE("loadPokemon") {
         REQUIRE(list[3].abilities[0] == "Levitate");
     }
     SECTION("missing field") {
-        const string fileName = "test_pokemon_invalid.json";
+        const string fileName = "data/test_pokemon_invalid.json";
         const string testJson = R"([
             {
                 "name": "Bulbasaur",

@@ -15,21 +15,8 @@ add_subdirectory(tests)
 add_executable(team_builder src/main.cpp)
 target_link_libraries(team_builder PRIVATE team_core)
 
-add_custom_command(
-    TARGET team_builder POST_BUILD
-    COMMAND ${CMAKE_COMMAND} -E copy_if_different
-        ${CMAKE_SOURCE_DIR}/data/typeChart.json
-        $<TARGET_FILE_DIR:team_builder>/typeChart.json
-)
-add_custom_command(
-    TARGET team_builder POST_BUILD
-    COMMAND ${CMAKE_COMMAND} -E copy_if_different
-        ${CMAKE_SOURCE_DIR}/data/coolPokemon.json
-        $<TARGET_FILE_DIR:team_builder>/coolPokemon.json
-)
-add_custom_command(
-    TARGET team_builder POST_BUILD
-    COMMAND ${CMAKE_COMMAND} -E copy_if_different
-        ${CMAKE_SOURCE_DIR}/data/type_ability_combos.json
-        $<TARGET_FILE_DIR:team_builder>/type_ability_combos.json
+add_custom_command(TARGET team_builder POST_BUILD
+  COMMAND ${CMAKE_COMMAND} -E copy_directory
+    ${CMAKE_SOURCE_DIR}/data
+    $<TARGET_FILE_DIR:team_builder>/data
 )

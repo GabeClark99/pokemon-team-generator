@@ -8,7 +8,6 @@
 {"name":"Jolteon","primaryType":"Electric","abilities":["Volt Absorb"]},
 {"name":"Kabutops","primaryType":"Rock","abilities":["Battle Armor"],"secondaryType":"Water"},
 {"name":"Aerodactyl","primaryType":"Rock","abilities":["Rock Head"],"secondaryType":"Flying"},
-{"name":"Zapdos","primaryType":"Electric","abilities":["Pressure","Static"],"secondaryType":"Flying"},
 {"dexNo": 160, "name": "Feraligatr", "primaryType": "Water", "abilities": ["Torrent", "Sheer force"]},
 {"name":"Espeon","primaryType":"Psychic","abilities":["Magic Bounce"]},
 {"name":"Crobat","primaryType":"Poison","abilities":["Inner Focus"],"secondaryType":"Flying"},
@@ -28,6 +27,7 @@
 {"name":"Mamoswine","primaryType":"Ice","abilities":["Thick Fat"],"secondaryType":"Ground"},
 {"name":"Rotom","primaryType":"Electric","abilities":["Levitate"],"secondaryType":"Ghost"},
 {"name":"Rotom-W","primaryType":"Electric","abilities":["Levitate"],"secondaryType":"Water"},
+{"dexNo": 461, "name": "Weavile", "primaryType": "Dark", "abilities": ["Pressure", "Pickpocket"], "secondaryType": "Ice"},
 {"dexNo": 530, "name": "Excadrill", "primaryType": "Ground", "abilities": ["Mold breaker"], "secondaryType": "Steel"},
 {"dexNo": 553, "name": "Krookodile", "primaryType": "Ground", "abilities": ["Intimidate", "Moxie"], "secondaryType": "Dark"},
 {"dexNo": 593, "name": "Jellicent", "primaryType": "Water", "abilities": ["Cursed body"], "secondaryType": "Ghost"},
@@ -39,7 +39,9 @@
 {"dexNo": 663, "name": "Talonflame", "primaryType": "Fire", "abilities": ["Gale wings"], "secondaryType": "Flying"},
 {"dexNo": 675, "name": "Pangoro", "primaryType": "Fighting", "abilities": ["Iron fist", "Mold breaker", "Scrappy"], "secondaryType": "Dark"},
 {"dexNo": 681, "name": "Aegislash-shield", "primaryType": "Steel", "abilities": ["Stance change"], "secondaryType": "Ghost"},
-{"dexNo": 691, "name": "Dragalge", "primaryType": "Poison", "abilities": ["Poison point", "Poison touch", "Adaptability"], "secondaryType": "Dragon"},
 {"dexNo": 697, "name": "Tyrantrum", "primaryType": "Rock", "abilities": ["Strong jaw", "Rock head"], "secondaryType": "Dragon"},
-{"dexNo": 700, "name": "Sylveon", "primaryType": "Fairy", "abilities": ["Cute charm", "Pixilate"]}
+{"dexNo": 700, "name": "Sylveon", "primaryType": "Fairy", "abilities": ["Cute charm", "Pixilate"]},
+{"dexNo": 10033, "name": "Venusaur-mega", "primaryType": "Grass", "abilities": ["Thick fat"], "secondaryType": "Poison"},
+{"dexNo": 10034, "name": "Charizard-mega-x", "primaryType": "Fire", "abilities": ["Tough claws"], "secondaryType": "Dragon"},
+{"dexNo": 10039, "name": "Kangaskhan-mega", "primaryType": "Normal", "abilities": ["Parental bond"]}
 ]

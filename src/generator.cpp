@@ -31,7 +31,6 @@ namespace { // file-local helpers, constants, and aliases
 
     using MinHeap = std::priority_queue<ScoredTeam, std::vector<ScoredTeam>, ScoredTeamMinComparator>;
 
-    // Returns true if any two Pokemon in the team share a type
     bool hasOverlappingTypes(const Team& team) {
         std::set<Type> seenTypes;
         for (const auto& member : team) {
@@ -42,6 +41,42 @@ namespace { // file-local helpers, constants, and aliases
                 seenTypes.insert(*member.secondaryType);
             }
         }
+        return false;
+    }
+
+    bool isMega(const Pokemon& p) {
+        string name = p.name;
+        std::transform(name.begin(), name.end(), name.begin(), ::tolower);
+        return name.find("mega") != string::npos;
+    }
+
+    bool hasConflict(const Team& team, const ConflictRule& conflictRule) {
+        if (conflictRule == ConflictRule::NoTypeOverlap) {
+            if(hasOverlappingTypes(team)) return true;
+        }
+        else if (conflictRule == ConflictRule::TGOM_Ghost) {
+            // can have as many ghosts as you want
+            // can only have two non-ghosts max
+            size_t nonGhosts = 0;
+            for (const auto& member : team) {
+                if (member.primaryType == Type::Ghost || member.secondaryType == Type::Ghost) {
+                    continue;
+                } 
+                else if (++nonGhosts > 2) {
+                    return true;
+                }
+            }
+        }
+
+        // Only one mega evolution allowed
+        bool seenMega = false;
+        for (const auto& member : team) {
+            if (isMega(member)) {
+                if (seenMega) return true;  // second mega found
+                seenMega = true;
+            }
+        }
+
         return false;
     }
 
@@ -85,7 +120,8 @@ namespace { // file-local helpers, constants, and aliases
         MinHeap& heap,
         size_t& completedTeams,
         size_t totalTeams,
-        const Team& pinnedMembers
+        const Team& pinnedMembers,
+        const ConflictRule& conflictRule
     ) {
         vector<bool> selectMask(sortedMembers.size(), false);
         std::fill(selectMask.end() - slotsToFill, selectMask.end(), true);
@@ -98,8 +134,8 @@ namespace { // file-local helpers, constants, and aliases
             }
             if (currentTeam.size() != pinnedMembers.size() + slotsToFill) continue;
             
-            // Skip teams with overlapping types
-            if (hasOverlappingTypes(currentTeam)) {
+            // Skip teams with conflicts
+            if (hasConflict(currentTeam, conflictRule)) {
                 ++completedTeams;
                 TeamGenerator::reportProgress(completedTeams, totalTeams);
                 continue;
@@ -172,7 +208,7 @@ vector<ScoredTeam> TeamGenerator::generateTopTeams(size_t teamSize, size_t topN,
     size_t totalTeams = binomial_coefficient(sortedMembers.size(), slotsToFill);
     size_t completedTeams = 0;
 
-    TypeAbilityComboList targets = loadTypeAbilityCombos("type_ability_combos.json");
+    TypeAbilityComboList targets = loadTypeAbilityCombos("data/type_ability_combos.json");
 
     MinHeap heap;
     processCombinationsAndUpdateHeap(
@@ -184,7 +220,8 @@ vector<ScoredTeam> TeamGenerator::generateTopTeams(size_t teamSize, size_t topN,
         heap, 
         completedTeams, 
         totalTeams,
-        pinnedMembers
+        pinnedMembers,
+        conflictRule_
     );
 
     auto allResults = collectResultsFromHeap(heap, topN);

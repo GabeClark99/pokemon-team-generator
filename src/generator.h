@@ -5,10 +5,21 @@
 #include "pokemon.h"
 #include "team.h"
 
+// Enum for team conflict rules
+enum class ConflictRule : uint8_t {
+    NoRule, NoTypeOverlap, TGOM_Ghost
+};
+
 class TeamGenerator {
 public:
-    TeamGenerator(const PokemonList& potentialMembers, const TeamEvaluator& evaluator)
-        : potentialMembers_(potentialMembers), evaluator_(evaluator) {}
+    TeamGenerator(
+        const PokemonList& potentialMembers, 
+        const TeamEvaluator& evaluator, 
+        const ConflictRule& conflictRule
+    ): 
+        potentialMembers_(potentialMembers), 
+        evaluator_(evaluator),
+        conflictRule_(conflictRule) {}
 
     std::vector<ScoredTeam> generateTopTeams(
         size_t teamSize, 
@@ -21,4 +32,5 @@ public:
 private:
     const PokemonList& potentialMembers_;
     const TeamEvaluator& evaluator_;
+    const ConflictRule& conflictRule_;
 };

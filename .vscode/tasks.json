@@ -59,17 +59,17 @@
             },
             "problemMatcher": []
         },
-        // {
-        //     "label": "Run with Docker Interactively",
-        //     "type": "shell",
-        //     "command": "docker run --rm -it -v ${PWD}/docker_out:/app/build/docker_out team-generator /bin/bash",
-        //     "dependsOn": ["Build with Docker"],
-        //     "group": {
-        //         "kind": "build",
-        //         "isDefault": true
-        //     },
-        //     "problemMatcher": []
-        // }
+        {
+            "label": "Run with Docker Interactively",
+            "type": "shell",
+            "command": "docker run --rm -it -v ${PWD}/docker_out:/app/build/docker_out team-generator /bin/bash",
+            "dependsOn": ["Build with Docker"],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        }
     ],
     "version": "2.0.0"
 }

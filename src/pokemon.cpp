@@ -14,10 +14,11 @@ namespace { // file-local aliases
  * Expected JSON structure:
  * [
  *   {
- *     "name": "Bulbasaur",
- *     "primaryType": "Grass",
- *     "secondaryType": "Poison", // optional
- *     "abilities": ["Overgrow", "Thick Fat"]
+ *      "dexNo": 267, 
+ *      "name": "Beautifly", 
+ *      "primaryType": "Bug", 
+ *      "abilities": ["Swarm", "Rivalry"], 
+ *      "secondaryType": "Flying"
  *   },
  *   ...
  * ]

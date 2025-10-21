@@ -11,16 +11,21 @@ namespace { // file-local aliases
 int main() {
     Logger::setLogLevel(LogLevel::Info);
 
-    TypeEffectiveness typeChart = loadTypeEffectiveness("typeChart.json");
-    PokemonList coolPokemon = loadPokemon("coolPokemon.json");
+    TypeEffectiveness typeChart = loadTypeEffectiveness("data/typeChart.json");
+    // PokemonList coolPokemon = loadPokemon("coolPokemon.json");
+    PokemonList coolPokemon = loadPokemon("data/teamMembers_tgom_ghost.json");
     TeamEvaluator evaluator(typeChart);
-    TeamGenerator generator(coolPokemon, evaluator);
+    // TeamGenerator generator(coolPokemon, evaluator, ConflictRule::NoTypeOverlap);
+    TeamGenerator generator(coolPokemon, evaluator, ConflictRule::TGOM_Ghost);
 
     vector<ScoredTeam> topTeams = generator.generateTopTeams(
-        6, 
+        // 6, 
+        3,
         10,
         {
             // {"Greninja", Type::Water, Type::Dark, {"Protean"}},
+            // {"Aegislash", Type::Steel, Type::Ghost, {"Stance Change"}},
+            // {"Blaziken", Type::Fire, Type::Fighting, {"Speed Boost"}},
             // {"Galvantula", Type::Electric, Type::Bug, {"Compound Eyes"}},
             // {"Togekiss", Type::Fairy, Type::Flying, {"Serene Grace"}}
         }
