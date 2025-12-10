@@ -15,7 +15,7 @@ public:
     TeamGenerator(
         const PokemonList& potentialMembers, 
         const TeamEvaluator& evaluator, 
-        const ConflictRule& conflictRule
+        ConflictRule conflictRule
     ): 
         potentialMembers_(potentialMembers), 
         evaluator_(evaluator),
@@ -32,5 +32,5 @@ public:
 private:
     const PokemonList& potentialMembers_;
     const TeamEvaluator& evaluator_;
-    const ConflictRule& conflictRule_;
+    const ConflictRule conflictRule_;
 };

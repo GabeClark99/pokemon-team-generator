@@ -54,16 +54,18 @@ namespace { // file-local helpers, constants, and aliases
         if (conflictRule == ConflictRule::NoTypeOverlap) {
             if(hasOverlappingTypes(team)) return true;
         }
-        else if (conflictRule == ConflictRule::TGOM_Ghost) {
+
+        if (conflictRule == ConflictRule::TGOM_Ghost) {
             // can have as many ghosts as you want
             // can only have two non-ghosts max
             size_t nonGhosts = 0;
             for (const auto& member : team) {
-                if (member.primaryType == Type::Ghost || member.secondaryType == Type::Ghost) {
-                    continue;
-                } 
-                else if (++nonGhosts > 2) {
-                    return true;
+                const bool isGhost = 
+                    (member.primaryType == Type::Ghost) ||
+                    (member.secondaryType && *member.secondaryType == Type::Ghost);
+
+                if (!isGhost) {
+                    if (++nonGhosts > 2) return true;
                 }
             }
         }

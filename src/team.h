@@ -14,10 +14,7 @@ struct ScoredTeam {
     double defensiveScore;
     // For sorting. higher offense, then higher defense
     bool operator<(const ScoredTeam& other) const {
-        if (offensiveScore != other.offensiveScore) {
-            return offensiveScore < other.offensiveScore;
-        }
-        return defensiveScore < other.defensiveScore;
+        return (offensiveScore + 4*defensiveScore) < (other.offensiveScore + 4*other.defensiveScore);
     }
 };
 
